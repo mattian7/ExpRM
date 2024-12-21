@@ -1,0 +1,1493 @@
+nohup: ignoring input
+[2024-05-22 15:44:38,675] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-05-22 15:44:38,760] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[2024-05-22 15:44:38,945] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-05-22 15:44:38,959] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-05-22 15:44:39,013] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[2024-05-22 15:44:39,115] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[2024-05-22 15:44:39,223] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[2024-05-22 15:44:39,257] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:09<00:19,  9.96s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.18s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.14s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.14s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.15s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.13s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:11<00:22, 11.41s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:15<00:07,  7.11s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:17<00:00,  4.94s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:17<00:00,  5.81s/it]
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:09,  9.93s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.27s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.28s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.27s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.27s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.34s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:21<00:10, 10.39s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:26<00:00,  8.14s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:26<00:00,  8.75s/it]
+wandb: Currently logged in as: t2434704642 (qingyuan-tian). Use `wandb login --relogin` to force relogin
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.35s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.35s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.68s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.69s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.35s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.69s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.35s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.69s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.40s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.75s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.44s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:29<00:00,  9.80s/it]
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+wandb: Tracking run with wandb version 0.17.0
+wandb: Run data is saved locally in /data2/npc/tianqingyuan/debate/wandb/run-20240522_154511-dcz1wp4l
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run earnest-flower-25
+wandb: ⭐️ View project at https://wandb.ai/qingyuan-tian/trl
+wandb: 🚀 View run at https://wandb.ai/qingyuan-tian/trl/runs/dcz1wp4l
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:271: UserWarning: No dataset is provided. In a multi-GPU setting, this will lead to an error. You should prepare your dataloader yourself with `dataloader = ppo_trainer.accelerator.prepare(dataloader)` and using `torch.utils.data.DataLoader`, or pass a dataset to the `PPOTrainer`. Please  refer to the documentation for more details.
+  warnings.warn(
+worker_seed : 0
+dataloader_num_workers: 0
+worker_seed : 0worker_seed : 0
+
+dataloader_num_workers: 0dataloader_num_workers: 0
+
+worker_seed : 0
+dataloader_num_workers: 0
+worker_seed : 0
+dataloader_num_workers: 0
+worker_seed : 0
+dataloader_num_workers: 0
+worker_seed : 0
+dataloader_num_workers: 0
+dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]0it [00:00, ?it/s]0it [00:00, ?it/s]dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]worker_seed : 0
+dataloader_num_workers: 0
+dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+dataset : ./datasets/gsm8k/train/train.jsonl
+data size : 7473
+average num of words for each sample : 45.702930549979925
+0it [00:00, ?it/s]You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+1it [00:37, 37.61s/it]1it [00:37, 37.73s/it]1it [00:37, 37.74s/it]1it [00:37, 37.81s/it]1it [00:37, 37.82s/it]1it [00:37, 37.92s/it]1it [00:37, 38.00s/it]win-rate: 100.0%, invalid-num: 0
+
+1it [00:39, 39.01s/it]2it [01:06, 32.27s/it]2it [01:06, 32.29s/it]2it [01:06, 32.29s/it]2it [01:06, 32.30s/it]2it [01:06, 32.30s/it]2it [01:06, 32.24s/it]2it [01:06, 32.27s/it]win-rate: 75.0%, invalid-num: 0
+
+2it [01:06, 32.26s/it]3it [01:31, 28.89s/it]3it [01:31, 28.89s/it]3it [01:31, 28.91s/it]3it [01:31, 28.95s/it]3it [01:31, 28.94s/it]3it [01:31, 28.93s/it]3it [01:31, 28.95s/it]win-rate: 80.0%, invalid-num: 1
+
+3it [01:31, 28.98s/it]win-rate: 71.42857142857143%, invalid-num: 1
+
+4it [01:56, 27.67s/it]4it [01:56, 27.64s/it]4it [01:56, 27.68s/it]4it [01:56, 27.64s/it]4it [01:56, 27.62s/it]4it [01:56, 27.63s/it]4it [01:56, 27.65s/it]4it [01:57, 27.56s/it]5it [02:24, 27.60s/it]5it [02:24, 27.64s/it]5it [02:24, 27.62s/it]5it [02:24, 27.62s/it]5it [02:24, 27.65s/it]5it [02:24, 27.62s/it]5it [02:24, 27.63s/it]win-rate: 77.77777777777779%, invalid-num: 1
+
+5it [02:24, 27.59s/it]6it [02:47, 25.91s/it]6it [02:47, 25.93s/it]6it [02:47, 25.93s/it]6it [02:47, 25.93s/it]6it [02:47, 25.92s/it]6it [02:47, 25.93s/it]6it [02:47, 25.93s/it]win-rate: 80.0%, invalid-num: 2
+
+6it [02:47, 25.93s/it]7it [03:10, 25.28s/it]7it [03:11, 25.29s/it]7it [03:11, 25.29s/it]7it [03:11, 25.30s/it]7it [03:11, 25.30s/it]7it [03:11, 25.31s/it]7it [03:11, 25.32s/it]win-rate: 83.33333333333334%, invalid-num: 2
+
+7it [03:11, 25.32s/it]8it [03:29, 23.26s/it]8it [03:29, 23.26s/it]8it [03:29, 23.24s/it]8it [03:29, 23.25s/it]8it [03:29, 23.26s/it]8it [03:29, 23.26s/it]8it [03:29, 23.26s/it]win-rate: 84.61538461538461%, invalid-num: 3
+
+8it [03:30, 23.27s/it]9it [03:52, 23.08s/it]9it [03:52, 23.06s/it]9it [03:52, 23.08s/it]9it [03:52, 23.06s/it]9it [03:52, 23.06s/it]9it [03:52, 23.07s/it]9it [03:52, 23.07s/it]win-rate: 80.0%, invalid-num: 3
+
+9it [03:53, 23.10s/it]10it [04:10, 21.52s/it]10it [04:10, 21.52s/it]10it [04:10, 21.52s/it]10it [04:10, 21.53s/it]10it [04:10, 21.54s/it]win-rate: 81.25%, invalid-num: 4
+
+10it [04:10, 21.59s/it]10it [04:10, 21.60s/it]10it [04:10, 21.52s/it]11it [04:32, 21.57s/it]11it [04:32, 21.57s/it]11it [04:32, 21.54s/it]11it [04:32, 21.56s/it]11it [04:32, 21.54s/it]11it [04:32, 21.56s/it]11it [04:32, 21.57s/it]win-rate: 82.35294117647058%, invalid-num: 5
+
+11it [04:32, 21.60s/it]12it [04:54, 21.76s/it]12it [04:54, 21.82s/it]12it [04:54, 21.82s/it]12it [04:54, 21.81s/it]12it [04:54, 21.82s/it]12it [04:54, 21.83s/it]12it [04:54, 21.82s/it]win-rate: 83.33333333333334%, invalid-num: 6
+
+12it [04:55, 21.83s/it]13it [05:12, 20.63s/it]13it [05:12, 20.63s/it]13it [05:12, 20.66s/it]13it [05:12, 20.63s/it]13it [05:12, 20.64s/it]13it [05:12, 20.65s/it]13it [05:12, 20.64s/it]win-rate: 85.0%, invalid-num: 6
+
+13it [05:12, 20.62s/it]14it [05:28, 19.28s/it]14it [05:28, 19.28s/it]14it [05:28, 19.26s/it]14it [05:28, 19.27s/it]14it [05:28, 19.28s/it]14it [05:28, 19.29s/it]14it [05:28, 19.32s/it]win-rate: 85.71428571428571%, invalid-num: 7
+
+14it [05:29, 19.27s/it]15it [05:46, 18.76s/it]15it [05:46, 18.76s/it]15it [05:46, 18.77s/it]15it [05:46, 18.77s/it]15it [05:46, 18.79s/it]15it [05:46, 18.78s/it]win-rate: 86.95652173913044%, invalid-num: 7
+
+15it [05:46, 18.79s/it]15it [05:46, 18.72s/it]16it [06:06, 19.23s/it]16it [06:06, 19.22s/it]16it [06:06, 19.21s/it]16it [06:06, 19.20s/it]16it [06:06, 19.21s/it]16it [06:06, 19.22s/it]16it [06:06, 19.23s/it]win-rate: 88.0%, invalid-num: 7
+
+16it [06:07, 19.26s/it]17it [06:28, 20.14s/it]17it [06:28, 20.16s/it]17it [06:29, 20.17s/it]17it [06:29, 20.17s/it]17it [06:29, 20.18s/it]17it [06:29, 20.21s/it]17it [06:29, 20.18s/it]win-rate: 85.18518518518519%, invalid-num: 7
+
+17it [06:29, 20.17s/it]18it [06:44, 18.82s/it]18it [06:44, 18.82s/it]18it [06:44, 18.83s/it]18it [06:44, 18.83s/it]18it [06:44, 18.85s/it]18it [06:44, 18.84s/it]18it [06:44, 18.87s/it]win-rate: 85.71428571428571%, invalid-num: 8
+
+18it [06:45, 18.82s/it]19it [07:09, 20.62s/it]19it [07:09, 20.63s/it]19it [07:09, 20.64s/it]19it [07:09, 20.64s/it]19it [07:09, 20.67s/it]19it [07:09, 20.64s/it]19it [07:09, 20.64s/it]win-rate: 86.20689655172413%, invalid-num: 9
+
+19it [07:09, 20.65s/it]20it [07:27, 19.87s/it]20it [07:27, 19.89s/it]20it [07:27, 19.88s/it]20it [07:27, 19.89s/it]20it [07:27, 19.89s/it]20it [07:27, 19.89s/it]20it [07:27, 19.90s/it]win-rate: 86.66666666666667%, invalid-num: 10
+
+20it [07:28, 19.89s/it]21it [07:53, 21.75s/it]21it [07:54, 21.80s/it]21it [07:53, 21.81s/it]21it [07:54, 21.79s/it]21it [07:54, 21.79s/it]21it [07:53, 21.80s/it]21it [07:54, 21.79s/it]win-rate: 87.09677419354838%, invalid-num: 11
+
+21it [07:54, 21.77s/it]22it [08:23, 23.98s/it]win-rate: 87.87878787878788%, invalid-num: 11
+
+22it [08:23, 23.98s/it]22it [08:23, 23.97s/it]22it [08:23, 23.97s/it]22it [08:23, 23.97s/it]22it [08:23, 23.98s/it]22it [08:23, 24.00s/it]22it [08:23, 23.98s/it]23it [08:44, 23.17s/it]23it [08:44, 23.18s/it]23it [08:44, 23.19s/it]23it [08:44, 23.19s/it]23it [08:44, 23.19s/it]23it [08:44, 23.20s/it]23it [08:44, 23.20s/it]win-rate: 88.57142857142857%, invalid-num: 11
+
+23it [08:44, 23.19s/it]24it [08:59, 20.86s/it]24it [08:59, 20.86s/it]24it [08:59, 20.87s/it]24it [08:59, 20.85s/it]24it [08:59, 20.88s/it]24it [08:59, 20.86s/it]24it [08:59, 20.88s/it]win-rate: 86.11111111111111%, invalid-num: 12
+
+24it [09:06, 22.70s/it]25it [09:18, 20.16s/it]25it [09:18, 20.16s/it]25it [09:18, 20.19s/it]win-rate: 86.8421052631579%, invalid-num: 12
+
+25it [09:18, 20.19s/it]25it [09:18, 20.20s/it]25it [09:18, 20.21s/it]25it [09:18, 20.25s/it]25it [09:18, 19.62s/it]26it [09:34, 18.86s/it]26it [09:34, 18.87s/it]26it [09:34, 18.88s/it]26it [09:34, 18.86s/it]26it [09:34, 18.87s/it]26it [09:34, 18.88s/it]26it [09:34, 18.88s/it]win-rate: 85.0%, invalid-num: 12
+
+26it [09:34, 18.51s/it]27it [10:01, 21.45s/it]27it [10:01, 21.47s/it]27it [10:01, 21.49s/it]27it [10:01, 21.49s/it]27it [10:01, 21.48s/it]27it [10:01, 21.48s/it]27it [10:01, 21.47s/it]win-rate: 85.36585365853658%, invalid-num: 13
+
+27it [10:02, 21.19s/it]28it [10:16, 19.32s/it]28it [10:16, 19.31s/it]28it [10:16, 19.30s/it]28it [10:16, 19.31s/it]28it [10:16, 19.32s/it]28it [10:16, 19.33s/it]28it [10:16, 19.33s/it]win-rate: 83.72093023255815%, invalid-num: 13
+
+28it [10:16, 19.18s/it]29it [10:37, 19.99s/it]29it [10:37, 19.99s/it]29it [10:37, 19.99s/it]29it [10:37, 20.01s/it]29it [10:37, 20.01s/it]29it [10:37, 20.00s/it]29it [10:37, 20.01s/it]win-rate: 84.44444444444444%, invalid-num: 13
+
+29it [10:39, 20.17s/it]30it [10:56, 19.59s/it]30it [10:56, 19.63s/it]30it [10:56, 19.64s/it]30it [10:56, 19.63s/it]30it [10:56, 19.64s/it]30it [10:56, 19.64s/it]win-rate: 82.97872340425532%, invalid-num: 13
+
+30it [10:56, 19.65s/it]30it [10:56, 19.43s/it]31it [11:11, 18.12s/it]31it [11:11, 18.14s/it]31it [11:11, 18.15s/it]31it [11:11, 18.13s/it]31it [11:11, 18.14s/it]31it [11:11, 18.12s/it]31it [11:11, 18.14s/it]win-rate: 83.6734693877551%, invalid-num: 13
+
+31it [11:11, 18.01s/it]32it [11:25, 17.15s/it]32it [11:25, 17.17s/it]32it [11:26, 17.16s/it]32it [11:26, 17.18s/it]32it [11:26, 17.17s/it]32it [11:25, 17.18s/it]32it [11:26, 17.18s/it]win-rate: 84.31372549019608%, invalid-num: 13
+
+32it [11:26, 17.06s/it]33it [11:49, 18.99s/it]33it [11:49, 18.98s/it]33it [11:49, 18.99s/it]33it [11:49, 18.99s/it]33it [11:49, 18.98s/it]33it [11:49, 19.00s/it]33it [11:49, 18.99s/it]win-rate: 83.01886792452831%, invalid-num: 13
+
+33it [11:49, 18.92s/it]34it [12:05, 18.19s/it]34it [12:05, 18.20s/it]34it [12:05, 18.20s/it]34it [12:05, 18.22s/it]34it [12:05, 18.23s/it]34it [12:05, 18.21s/it]34it [12:05, 18.21s/it]win-rate: 83.63636363636363%, invalid-num: 13
+
+34it [12:05, 18.17s/it]35it [12:28, 19.73s/it]35it [12:28, 19.74s/it]35it [12:28, 19.74s/it]35it [12:28, 19.75s/it]35it [12:29, 19.76s/it]35it [12:29, 19.76s/it]35it [12:28, 19.75s/it]win-rate: 84.21052631578947%, invalid-num: 13
+
+35it [12:29, 19.71s/it]36it [12:44, 18.45s/it]36it [12:44, 18.45s/it]36it [12:44, 18.46s/it]36it [12:44, 18.46s/it]36it [12:44, 18.46s/it]36it [12:44, 18.46s/it]36it [12:44, 18.46s/it]win-rate: 84.7457627118644%, invalid-num: 13
+
+36it [12:44, 18.47s/it]37it [12:59, 17.58s/it]37it [12:59, 17.59s/it]37it [13:00, 17.59s/it]37it [12:59, 17.59s/it]37it [13:00, 17.59s/it]37it [12:59, 17.59s/it]37it [13:00, 17.60s/it]win-rate: 85.24590163934425%, invalid-num: 13
+
+37it [13:00, 17.56s/it]38it [13:16, 17.18s/it]38it [13:16, 17.24s/it]38it [13:16, 17.26s/it]38it [13:16, 17.25s/it]38it [13:16, 17.27s/it]win-rate: 85.48387096774194%, invalid-num: 14
+
+38it [13:16, 17.26s/it]38it [13:16, 17.28s/it]38it [13:16, 17.26s/it]39it [13:29, 16.01s/it]39it [13:29, 16.02s/it]39it [13:29, 16.02s/it]39it [13:29, 16.04s/it]39it [13:29, 16.02s/it]39it [13:29, 16.03s/it]39it [13:29, 16.05s/it]win-rate: 82.8125%, invalid-num: 14
+
+39it [13:29, 16.02s/it]40it [13:49, 17.26s/it]40it [13:49, 17.24s/it]40it [13:49, 17.25s/it]40it [13:49, 17.26s/it]40it [13:49, 17.27s/it]40it [13:49, 17.27s/it]40it [13:49, 17.25s/it]win-rate: 80.3030303030303%, invalid-num: 14
+
+40it [13:50, 17.23s/it]41it [14:12, 19.02s/it]41it [14:12, 19.03s/it]41it [14:12, 19.04s/it]41it [14:12, 19.04s/it]41it [14:12, 19.04s/it]41it [14:12, 19.03s/it]41it [14:12, 19.04s/it]win-rate: 80.88235294117648%, invalid-num: 14
+
+41it [14:13, 19.03s/it]42it [14:31, 18.82s/it]42it [14:31, 18.81s/it]42it [14:31, 18.82s/it]42it [14:31, 18.82s/it]42it [14:31, 18.83s/it]42it [14:31, 18.83s/it]42it [14:31, 18.85s/it]win-rate: 80.0%, invalid-num: 14
+
+42it [14:31, 18.81s/it]43it [14:54, 20.07s/it]43it [14:54, 20.08s/it]43it [14:54, 20.08s/it]43it [14:54, 20.09s/it]43it [14:54, 20.09s/it]43it [14:54, 20.10s/it]43it [14:54, 20.09s/it]win-rate: 78.87323943661971%, invalid-num: 15
+
+43it [14:54, 20.06s/it]44it [15:12, 19.44s/it]44it [15:12, 19.45s/it]44it [15:12, 19.46s/it]44it [15:12, 19.47s/it]44it [15:12, 19.47s/it]44it [15:12, 19.46s/it]44it [15:12, 19.47s/it]win-rate: 77.77777777777779%, invalid-num: 16
+
+44it [15:12, 19.47s/it]45it [15:30, 18.99s/it]45it [15:30, 19.00s/it]45it [15:30, 18.99s/it]45it [15:30, 19.00s/it]45it [15:30, 19.02s/it]45it [15:30, 19.01s/it]45it [15:30, 19.01s/it]win-rate: 78.37837837837837%, invalid-num: 16
+
+45it [15:30, 18.99s/it]46it [15:57, 21.48s/it]46it [15:57, 21.47s/it]46it [15:57, 21.48s/it]46it [15:57, 21.48s/it]46it [15:57, 21.48s/it]46it [15:57, 21.49s/it]46it [15:57, 21.49s/it]win-rate: 77.63157894736842%, invalid-num: 16
+
+46it [15:57, 21.46s/it]47it [16:11, 19.18s/it]47it [16:11, 19.20s/it]47it [16:11, 19.20s/it]47it [16:11, 19.21s/it]47it [16:11, 19.22s/it]47it [16:11, 19.21s/it]47it [16:11, 19.21s/it]win-rate: 77.92207792207793%, invalid-num: 17
+
+47it [16:11, 19.24s/it]48it [16:25, 17.74s/it]48it [16:25, 17.73s/it]48it [16:25, 17.73s/it]48it [16:25, 17.74s/it]48it [16:25, 17.76s/it]48it [16:25, 17.75s/it]48it [16:25, 17.75s/it]win-rate: 77.21518987341773%, invalid-num: 17
+
+48it [16:26, 17.78s/it]49it [16:45, 18.25s/it]49it [16:45, 18.28s/it]49it [16:45, 18.27s/it]49it [16:45, 18.28s/it]49it [16:45, 18.28s/it]49it [16:45, 18.28s/it]49it [16:45, 18.28s/it]win-rate: 77.77777777777779%, invalid-num: 17
+
+49it [16:45, 18.30s/it]50it [16:59, 17.23s/it]50it [17:00, 17.23s/it]50it [17:00, 17.23s/it]50it [17:00, 17.23s/it]50it [17:00, 17.23s/it]50it [17:00, 17.24s/it]50it [17:00, 17.24s/it]win-rate: 78.3132530120482%, invalid-num: 17
+
+50it [17:01, 17.53s/it]51it [17:18, 17.62s/it]51it [17:18, 17.62s/it]51it [17:18, 17.61s/it]51it [17:18, 17.62s/it]51it [17:18, 17.62s/it]51it [17:18, 17.62s/it]51it [17:18, 17.63s/it]win-rate: 78.82352941176471%, invalid-num: 17
+
+51it [17:18, 17.49s/it]52it [17:39, 18.63s/it]52it [17:39, 18.64s/it]win-rate: 79.3103448275862%, invalid-num: 17
+
+52it [17:39, 18.65s/it]52it [17:39, 18.65s/it]52it [17:39, 18.65s/it]52it [17:39, 18.66s/it]52it [17:39, 18.66s/it]52it [17:39, 18.57s/it]53it [17:59, 19.13s/it]53it [17:59, 19.13s/it]53it [17:59, 19.14s/it]53it [17:59, 19.16s/it]53it [17:59, 19.15s/it]win-rate: 78.65168539325843%, invalid-num: 17
+
+53it [17:59, 19.15s/it]53it [18:00, 19.20s/it]53it [18:00, 19.07s/it]54it [18:19, 19.21s/it]54it [18:19, 19.23s/it]54it [18:19, 19.22s/it]54it [18:19, 19.24s/it]54it [18:19, 19.24s/it]54it [18:19, 19.24s/it]54it [18:19, 19.24s/it]win-rate: 78.02197802197803%, invalid-num: 17
+
+54it [18:19, 19.20s/it]55it [18:43, 20.80s/it]55it [18:43, 20.79s/it]55it [18:43, 20.80s/it]55it [18:43, 20.81s/it]55it [18:43, 20.80s/it]55it [18:43, 20.83s/it]55it [18:43, 20.81s/it]win-rate: 78.49462365591397%, invalid-num: 17
+
+55it [18:44, 20.80s/it]56it [19:06, 21.24s/it]56it [19:06, 21.25s/it]56it [19:06, 21.25s/it]56it [19:06, 21.25s/it]56it [19:06, 21.26s/it]56it [19:06, 21.26s/it]56it [19:06, 21.26s/it]win-rate: 78.94736842105263%, invalid-num: 17
+
+56it [19:06, 21.24s/it]57it [19:24, 20.51s/it]57it [19:24, 20.50s/it]57it [19:24, 20.50s/it]57it [19:24, 20.53s/it]57it [19:24, 20.52s/it]57it [19:24, 20.53s/it]57it [19:24, 20.53s/it]win-rate: 79.38144329896907%, invalid-num: 17
+
+57it [19:25, 20.52s/it]58it [19:52, 22.60s/it]58it [19:52, 22.61s/it]58it [19:52, 22.64s/it]58it [19:52, 22.63s/it]win-rate: 78.57142857142857%, invalid-num: 18
+
+58it [19:52, 22.63s/it]58it [19:52, 22.64s/it]58it [19:52, 22.64s/it]58it [19:52, 22.63s/it]59it [20:09, 20.89s/it]59it [20:09, 20.91s/it]59it [20:09, 20.91s/it]59it [20:09, 20.91s/it]win-rate: 79.0%, invalid-num: 18
+
+59it [20:09, 20.91s/it]59it [20:09, 20.91s/it]59it [20:09, 20.91s/it]59it [20:09, 20.87s/it]60it [20:27, 20.11s/it]60it [20:27, 20.12s/it]60it [20:27, 20.13s/it]60it [20:27, 20.14s/it]60it [20:27, 20.12s/it]60it [20:27, 20.12s/it]60it [20:27, 20.13s/it]win-rate: 79.20792079207921%, invalid-num: 19
+
+60it [20:27, 20.13s/it]61it [20:46, 19.66s/it]61it [20:46, 19.68s/it]61it [20:46, 19.69s/it]61it [20:46, 19.68s/it]61it [20:46, 19.68s/it]61it [20:46, 19.70s/it]win-rate: 79.41176470588235%, invalid-num: 20
+
+61it [20:46, 19.72s/it]61it [20:46, 19.67s/it]62it [21:04, 19.14s/it]62it [21:04, 19.14s/it]62it [21:04, 19.16s/it]62it [21:04, 19.16s/it]62it [21:04, 19.15s/it]62it [21:04, 19.16s/it]62it [21:04, 19.15s/it]win-rate: 79.6116504854369%, invalid-num: 21
+
+62it [21:04, 19.16s/it]63it [21:25, 19.71s/it]63it [21:25, 19.71s/it]63it [21:25, 19.73s/it]63it [21:25, 19.73s/it]63it [21:25, 19.73s/it]63it [21:25, 19.73s/it]63it [21:25, 19.72s/it]win-rate: 79.04761904761905%, invalid-num: 21
+
+63it [21:25, 19.71s/it]64it [21:45, 19.74s/it]64it [21:45, 19.74s/it]64it [21:45, 19.76s/it]64it [21:45, 19.78s/it]64it [21:45, 19.78s/it]64it [21:45, 19.77s/it]64it [21:45, 19.76s/it]win-rate: 79.24528301886792%, invalid-num: 22
+
+64it [21:45, 19.78s/it]65it [22:03, 19.37s/it]65it [22:03, 19.38s/it]65it [22:03, 19.38s/it]65it [22:03, 19.38s/it]65it [22:03, 19.39s/it]win-rate: 79.62962962962963%, invalid-num: 22
+
+65it [22:03, 19.40s/it]65it [22:03, 19.41s/it]65it [22:03, 19.37s/it]66it [22:31, 21.91s/it]66it [22:31, 21.92s/it]66it [22:31, 21.95s/it]66it [22:31, 21.93s/it]66it [22:31, 21.93s/it]66it [22:31, 21.93s/it]66it [22:31, 21.94s/it]win-rate: 80.0%, invalid-num: 22
+
+66it [22:31, 21.95s/it]67it [22:48, 20.42s/it]67it [22:48, 20.41s/it]67it [22:48, 20.42s/it]67it [22:48, 20.42s/it]67it [22:48, 20.43s/it]67it [22:48, 20.46s/it]win-rate: 80.35714285714286%, invalid-num: 22
+
+67it [22:48, 20.47s/it]67it [22:48, 20.47s/it]68it [23:07, 20.06s/it]68it [23:07, 20.09s/it]68it [23:07, 20.08s/it]68it [23:07, 20.09s/it]68it [23:07, 20.09s/it]68it [23:07, 20.11s/it]win-rate: 79.82456140350878%, invalid-num: 22
+
+68it [23:07, 20.13s/it]68it [23:08, 20.13s/it]69it [23:36, 22.77s/it]69it [23:36, 22.79s/it]69it [23:36, 22.76s/it]win-rate: 80.17241379310344%, invalid-num: 22
+
+69it [23:36, 22.77s/it]69it [23:36, 22.78s/it]69it [23:36, 22.79s/it]69it [23:36, 22.80s/it]69it [23:36, 22.73s/it]70it [23:51, 20.42s/it]70it [23:51, 20.40s/it]70it [23:51, 20.40s/it]70it [23:51, 20.40s/it]70it [23:51, 20.40s/it]70it [23:51, 20.42s/it]70it [23:51, 20.40s/it]win-rate: 79.66101694915254%, invalid-num: 22
+
+70it [23:51, 20.40s/it]71it [24:03, 17.98s/it]71it [24:03, 17.99s/it]71it [24:03, 17.98s/it]71it [24:04, 17.98s/it]71it [24:04, 17.99s/it]71it [24:04, 17.99s/it]71it [24:04, 17.99s/it]win-rate: 79.83193277310924%, invalid-num: 23
+
+71it [24:04, 18.01s/it]72it [24:30, 20.42s/it]72it [24:30, 20.44s/it]72it [24:30, 20.43s/it]72it [24:30, 20.43s/it]72it [24:30, 20.44s/it]72it [24:30, 20.43s/it]72it [24:30, 20.44s/it]win-rate: 78.51239669421489%, invalid-num: 23
+
+72it [24:30, 20.48s/it]73it [24:47, 19.45s/it]73it [24:47, 19.46s/it]73it [24:47, 19.47s/it]73it [24:47, 19.47s/it]73it [24:47, 19.49s/it]73it [24:47, 19.49s/it]73it [24:47, 19.47s/it]win-rate: 78.86178861788618%, invalid-num: 23
+
+73it [24:47, 19.44s/it]74it [25:09, 20.25s/it]74it [25:09, 20.24s/it]74it [25:09, 20.25s/it]74it [25:09, 20.27s/it]74it [25:09, 20.27s/it]74it [25:09, 20.26s/it]74it [25:09, 20.27s/it]win-rate: 79.2%, invalid-num: 23
+
+74it [25:09, 20.24s/it]75it [25:29, 20.09s/it]75it [25:29, 20.10s/it]75it [25:29, 20.10s/it]75it [25:29, 20.10s/it]75it [25:29, 20.11s/it]75it [25:29, 20.11s/it]75it [25:29, 20.11s/it]win-rate: 77.95275590551181%, invalid-num: 23
+
+75it [25:29, 20.10s/it]76it [25:50, 20.33s/it]76it [25:50, 20.35s/it]76it [25:50, 20.34s/it]76it [25:50, 20.33s/it]76it [25:50, 20.34s/it]win-rate: 76.74418604651163%, invalid-num: 23
+
+76it [25:50, 20.35s/it]76it [25:50, 20.36s/it]76it [25:50, 20.32s/it]77it [26:03, 18.29s/it]77it [26:03, 18.29s/it]77it [26:03, 18.28s/it]77it [26:03, 18.28s/it]77it [26:03, 18.29s/it]77it [26:03, 18.28s/it]77it [26:03, 18.29s/it]win-rate: 75.57251908396947%, invalid-num: 23
+
+77it [26:03, 18.31s/it]78it [26:21, 18.13s/it]78it [26:21, 18.16s/it]78it [26:21, 18.17s/it]78it [26:21, 18.17s/it]78it [26:21, 18.18s/it]78it [26:21, 18.17s/it]78it [26:21, 18.17s/it]win-rate: 75.18796992481202%, invalid-num: 23
+
+78it [26:22, 18.25s/it]79it [26:37, 17.61s/it]79it [26:37, 17.66s/it]79it [26:37, 17.64s/it]79it [26:37, 17.66s/it]79it [26:37, 17.64s/it]79it [26:37, 17.64s/it]79it [26:37, 17.65s/it]win-rate: 74.81481481481481%, invalid-num: 23
+
+79it [26:39, 18.05s/it]80it [26:57, 18.24s/it]80it [26:57, 18.25s/it]80it [26:57, 18.27s/it]80it [26:57, 18.29s/it]80it [26:57, 18.27s/it]80it [26:57, 18.28s/it]80it [26:57, 18.30s/it]win-rate: 74.45255474452554%, invalid-num: 23
+
+80it [26:58, 18.16s/it]81it [27:12, 17.32s/it]81it [27:12, 17.32s/it]81it [27:12, 17.32s/it]81it [27:12, 17.31s/it]81it [27:12, 17.32s/it]81it [27:12, 17.33s/it]81it [27:12, 17.33s/it]win-rate: 74.82014388489209%, invalid-num: 23
+
+81it [27:13, 17.22s/it]82it [27:26, 16.23s/it]82it [27:26, 16.23s/it]82it [27:26, 16.24s/it]82it [27:26, 16.23s/it]82it [27:26, 16.23s/it]82it [27:26, 16.23s/it]82it [27:26, 16.24s/it]win-rate: 75.177304964539%, invalid-num: 23
+
+82it [27:26, 16.14s/it]83it [27:46, 17.44s/it]83it [27:46, 17.45s/it]83it [27:46, 17.44s/it]83it [27:46, 17.45s/it]win-rate: 74.12587412587412%, invalid-num: 23
+
+83it [27:46, 17.46s/it]83it [27:46, 17.46s/it]83it [27:46, 17.47s/it]83it [27:46, 17.35s/it]84it [28:04, 17.68s/it]84it [28:05, 17.73s/it]84it [28:05, 17.73s/it]84it [28:05, 17.73s/it]84it [28:05, 17.73s/it]84it [28:05, 17.73s/it]84it [28:05, 17.74s/it]win-rate: 73.10344827586206%, invalid-num: 23
+
+84it [28:05, 17.71s/it]85it [28:22, 17.56s/it]85it [28:22, 17.58s/it]85it [28:22, 17.57s/it]85it [28:22, 17.59s/it]85it [28:22, 17.57s/it]85it [28:22, 17.57s/it]85it [28:22, 17.58s/it]win-rate: 72.6027397260274%, invalid-num: 24
+
+85it [28:22, 17.55s/it]86it [28:50, 20.67s/it]86it [28:50, 20.68s/it]86it [28:50, 20.67s/it]86it [28:50, 20.69s/it]86it [28:50, 20.69s/it]86it [28:50, 20.69s/it]86it [28:50, 20.70s/it]win-rate: 72.2972972972973%, invalid-num: 24
+
+86it [28:50, 20.69s/it]87it [29:10, 20.69s/it]87it [29:11, 20.75s/it]87it [29:11, 20.76s/it]87it [29:11, 20.74s/it]87it [29:11, 20.74s/it]87it [29:11, 20.74s/it]87it [29:11, 20.75s/it]win-rate: 72.66666666666667%, invalid-num: 24
+
+87it [29:11, 20.72s/it]88it [29:30, 20.19s/it]88it [29:30, 20.18s/it]88it [29:30, 20.21s/it]88it [29:30, 20.20s/it]88it [29:30, 20.20s/it]win-rate: 72.84768211920529%, invalid-num: 25
+
+88it [29:30, 20.24s/it]88it [29:30, 20.25s/it]88it [29:30, 20.18s/it]89it [29:56, 22.08s/it]89it [29:56, 22.12s/it]89it [29:56, 22.11s/it]89it [29:56, 22.13s/it]89it [29:56, 22.13s/it]89it [29:56, 22.12s/it]win-rate: 73.20261437908496%, invalid-num: 25
+
+89it [29:56, 22.13s/it]89it [29:56, 22.07s/it]90it [30:14, 20.68s/it]90it [30:14, 20.71s/it]90it [30:14, 20.70s/it]90it [30:14, 20.70s/it]90it [30:14, 20.71s/it]90it [30:14, 20.71s/it]90it [30:14, 20.72s/it]win-rate: 72.25806451612902%, invalid-num: 25
+
+90it [30:14, 20.77s/it]91it [30:38, 21.93s/it]91it [30:38, 21.97s/it]91it [30:39, 21.98s/it]91it [30:39, 21.98s/it]91it [30:39, 21.97s/it]win-rate: 72.61146496815286%, invalid-num: 25
+
+91it [30:39, 21.99s/it]91it [30:39, 22.00s/it]91it [30:39, 22.13s/it]92it [30:56, 20.56s/it]92it [30:56, 20.60s/it]92it [30:56, 20.59s/it]92it [30:56, 20.60s/it]win-rate: 71.69811320754717%, invalid-num: 25
+
+92it [30:56, 20.59s/it]92it [30:56, 20.61s/it]92it [30:56, 20.61s/it]92it [30:56, 20.51s/it]93it [31:14, 19.75s/it]93it [31:14, 19.78s/it]93it [31:14, 19.75s/it]93it [31:14, 19.79s/it]93it [31:14, 19.77s/it]93it [31:14, 19.78s/it]93it [31:14, 19.78s/it]win-rate: 72.04968944099379%, invalid-num: 25
+
+93it [31:14, 19.73s/it]94it [31:33, 19.67s/it]94it [31:33, 19.68s/it]94it [31:33, 19.67s/it]94it [31:33, 19.68s/it]94it [31:33, 19.68s/it]94it [31:33, 19.69s/it]94it [31:33, 19.70s/it]win-rate: 71.77914110429448%, invalid-num: 25
+
+94it [31:34, 19.65s/it]95it [31:51, 19.00s/it]95it [31:51, 19.02s/it]95it [31:51, 19.01s/it]95it [31:51, 19.01s/it]95it [31:51, 19.01s/it]95it [31:51, 19.01s/it]95it [31:51, 19.02s/it]win-rate: 71.51515151515152%, invalid-num: 25
+
+95it [31:51, 19.00s/it]96it [32:08, 18.49s/it]96it [32:08, 18.47s/it]96it [32:08, 18.48s/it]96it [32:08, 18.48s/it]96it [32:08, 18.49s/it]96it [32:08, 18.49s/it]96it [32:08, 18.52s/it]win-rate: 71.25748502994011%, invalid-num: 25
+
+96it [32:08, 18.54s/it]97it [32:25, 18.02s/it]97it [32:25, 18.00s/it]97it [32:25, 17.99s/it]97it [32:25, 18.01s/it]97it [32:25, 18.00s/it]97it [32:25, 18.01s/it]97it [32:25, 18.01s/it]win-rate: 71.59763313609467%, invalid-num: 25
+
+97it [32:25, 17.95s/it]98it [32:47, 19.25s/it]98it [32:47, 19.25s/it]98it [32:47, 19.25s/it]98it [32:47, 19.26s/it]98it [32:47, 19.26s/it]98it [32:47, 19.27s/it]98it [32:47, 19.26s/it]win-rate: 71.34502923976608%, invalid-num: 25
+
+98it [32:47, 19.26s/it]99it [33:08, 19.72s/it]99it [33:08, 19.72s/it]99it [33:08, 19.73s/it]99it [33:08, 19.73s/it]99it [33:08, 19.74s/it]99it [33:08, 19.73s/it]99it [33:08, 19.73s/it]win-rate: 70.52023121387283%, invalid-num: 25
+
+99it [33:08, 19.71s/it]100it [33:23, 18.49s/it]100it [33:23, 18.50s/it]100it [33:23, 18.50s/it]100it [33:23, 18.50s/it]100it [33:24, 18.51s/it]100it [33:23, 18.54s/it]win-rate: 70.85714285714285%, invalid-num: 25
+
+100it [33:24, 18.54s/it]100it [33:24, 18.48s/it]101it [33:44, 19.01s/it]101it [33:44, 19.04s/it]101it [33:44, 19.03s/it]101it [33:44, 19.02s/it]101it [33:44, 19.03s/it]101it [33:44, 19.04s/it]101it [33:44, 19.04s/it]win-rate: 71.02272727272727%, invalid-num: 26
+
+101it [33:44, 19.04s/it]102it [34:05, 19.68s/it]102it [34:05, 19.68s/it]102it [34:05, 19.68s/it]102it [34:05, 19.69s/it]102it [34:05, 19.69s/it]102it [34:05, 19.69s/it]102it [34:05, 19.70s/it]win-rate: 71.34831460674157%, invalid-num: 26
+
+102it [34:05, 19.75s/it]103it [34:23, 19.05s/it]103it [34:23, 19.05s/it]103it [34:23, 19.09s/it]103it [34:23, 19.09s/it]103it [34:23, 19.07s/it]103it [34:23, 19.07s/it]103it [34:23, 19.08s/it]win-rate: 71.66666666666667%, invalid-num: 26
+
+103it [34:23, 19.04s/it]104it [34:47, 20.75s/it]104it [34:47, 20.76s/it]104it [34:47, 20.77s/it]104it [34:47, 20.77s/it]104it [34:47, 20.78s/it]104it [34:47, 20.78s/it]104it [34:47, 20.78s/it]win-rate: 71.97802197802197%, invalid-num: 26
+
+104it [34:48, 20.76s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]105it [35:11, 21.69s/it]win-rate: 72.1311475409836%, invalid-num: 27
+
+105it [35:12, 21.70s/it]106it [35:38, 23.11s/it]106it [35:38, 23.10s/it]win-rate: 72.28260869565217%, invalid-num: 28
+
+106it [35:38, 23.11s/it]106it [35:38, 23.11s/it]106it [35:38, 23.11s/it]106it [35:38, 23.11s/it]106it [35:38, 23.11s/it]106it [35:39, 23.37s/it]107it [35:56, 21.71s/it]107it [35:56, 21.72s/it]107it [35:56, 21.74s/it]107it [35:56, 21.74s/it]107it [35:56, 21.74s/it]107it [35:56, 21.75s/it]107it [35:56, 21.75s/it]win-rate: 72.58064516129032%, invalid-num: 28
+
+107it [35:56, 21.65s/it]108it [36:23, 23.15s/it]108it [36:23, 23.16s/it]108it [36:23, 23.18s/it]108it [36:23, 23.18s/it]108it [36:23, 23.16s/it]108it [36:23, 23.17s/it]108it [36:23, 23.17s/it]win-rate: 72.19251336898395%, invalid-num: 29
+
+108it [36:23, 23.09s/it]109it [36:41, 21.76s/it]109it [36:41, 21.76s/it]109it [36:41, 21.75s/it]109it [36:41, 21.75s/it]109it [36:41, 21.76s/it]109it [36:41, 21.77s/it]109it [36:41, 21.76s/it]win-rate: 72.4867724867725%, invalid-num: 29
+
+109it [36:41, 21.72s/it]110it [37:05, 22.57s/it]110it [37:06, 22.57s/it]110it [37:06, 22.57s/it]110it [37:06, 22.58s/it]110it [37:06, 22.57s/it]110it [37:06, 22.58s/it]110it [37:06, 22.57s/it]win-rate: 72.25130890052355%, invalid-num: 29
+
+110it [37:06, 22.56s/it]111it [37:26, 22.00s/it]111it [37:26, 22.01s/it]111it [37:26, 22.03s/it]111it [37:26, 22.03s/it]111it [37:26, 22.02s/it]111it [37:26, 22.02s/it]111it [37:26, 22.02s/it]win-rate: 72.53886010362694%, invalid-num: 29
+
+111it [37:27, 21.98s/it]112it [37:51, 22.83s/it]112it [37:51, 22.83s/it]112it [37:51, 22.82s/it]112it [37:51, 22.83s/it]112it [37:51, 22.83s/it]112it [37:51, 22.85s/it]win-rate: 71.7948717948718%, invalid-num: 29
+
+112it [37:51, 22.86s/it]112it [37:51, 22.83s/it]113it [38:09, 21.29s/it]113it [38:09, 21.30s/it]113it [38:09, 21.30s/it]113it [38:09, 21.30s/it]113it [38:09, 21.31s/it]113it [38:09, 21.31s/it]113it [38:09, 21.32s/it]win-rate: 71.57360406091371%, invalid-num: 29
+
+113it [38:09, 21.42s/it]114it [38:33, 22.19s/it]114it [38:33, 22.22s/it]114it [38:33, 22.24s/it]114it [38:33, 22.25s/it]win-rate: 71.35678391959799%, invalid-num: 29
+
+114it [38:33, 22.25s/it]114it [38:33, 22.24s/it]114it [38:33, 22.26s/it]114it [38:33, 22.17s/it]115it [38:49, 20.18s/it]115it [38:49, 20.20s/it]115it [38:49, 20.18s/it]115it [38:49, 20.19s/it]115it [38:49, 20.19s/it]115it [38:49, 20.18s/it]115it [38:49, 20.18s/it]win-rate: 71.64179104477611%, invalid-num: 29
+
+115it [38:49, 20.17s/it]116it [39:07, 19.67s/it]116it [39:07, 19.67s/it]116it [39:07, 19.67s/it]116it [39:07, 19.68s/it]116it [39:07, 19.68s/it]116it [39:07, 19.71s/it]116it [39:07, 19.72s/it]win-rate: 71.42857142857143%, invalid-num: 29
+
+116it [39:08, 19.70s/it]117it [39:41, 24.11s/it]117it [39:42, 24.14s/it]117it [39:42, 24.16s/it]117it [39:42, 24.17s/it]117it [39:42, 24.16s/it]117it [39:42, 24.16s/it]win-rate: 71.70731707317073%, invalid-num: 29
+
+117it [39:42, 24.18s/it]117it [39:42, 24.17s/it]118it [40:04, 23.58s/it]118it [40:04, 23.58s/it]118it [40:04, 23.59s/it]win-rate: 71.98067632850241%, invalid-num: 29
+
+118it [40:04, 23.61s/it]118it [40:04, 23.62s/it]118it [40:04, 23.64s/it]118it [40:04, 23.64s/it]118it [40:04, 23.54s/it]119it [40:27, 23.41s/it]119it [40:27, 23.42s/it]119it [40:27, 23.43s/it]119it [40:27, 23.41s/it]119it [40:27, 23.43s/it]119it [40:27, 23.42s/it]119it [40:27, 23.44s/it]win-rate: 71.63461538461539%, invalid-num: 30
+
+119it [40:28, 23.74s/it]120it [40:56, 25.08s/it]120it [40:56, 25.14s/it]120it [40:56, 25.14s/it]120it [40:56, 25.16s/it]win-rate: 71.42857142857143%, invalid-num: 30
+
+120it [40:56, 25.16s/it]120it [40:56, 25.15s/it]120it [40:56, 25.15s/it]120it [40:56, 25.05s/it]121it [41:19, 24.40s/it]121it [41:19, 24.41s/it]121it [41:19, 24.40s/it]121it [41:19, 24.41s/it]121it [41:19, 24.42s/it]121it [41:19, 24.43s/it]121it [41:19, 24.42s/it]win-rate: 71.69811320754717%, invalid-num: 30
+
+121it [41:19, 24.34s/it]122it [41:39, 23.06s/it]122it [41:39, 23.10s/it]122it [41:39, 23.08s/it]122it [41:39, 23.10s/it]122it [41:39, 23.09s/it]122it [41:39, 23.13s/it]122it [41:39, 23.20s/it]win-rate: 71.49532710280374%, invalid-num: 30
+
+122it [41:40, 23.16s/it]123it [41:58, 22.03s/it]123it [41:58, 22.02s/it]123it [41:58, 22.01s/it]123it [41:58, 22.06s/it]123it [41:59, 22.07s/it]123it [41:59, 22.05s/it]123it [41:59, 22.07s/it]win-rate: 71.75925925925925%, invalid-num: 30
+
+123it [41:59, 21.96s/it]124it [42:20, 21.94s/it]124it [42:20, 21.95s/it]124it [42:20, 21.95s/it]124it [42:20, 21.97s/it]124it [42:20, 21.98s/it]124it [42:20, 21.95s/it]124it [42:20, 21.98s/it]win-rate: 72.01834862385321%, invalid-num: 30
+
+124it [42:21, 21.92s/it]125it [42:42, 22.04s/it]125it [42:42, 22.02s/it]125it [42:42, 22.04s/it]125it [42:43, 22.05s/it]125it [42:42, 22.03s/it]win-rate: 72.27272727272728%, invalid-num: 30
+
+125it [42:43, 22.07s/it]125it [42:43, 22.07s/it]125it [42:43, 22.03s/it]126it [43:05, 22.22s/it]126it [43:05, 22.25s/it]126it [43:05, 22.22s/it]126it [43:05, 22.23s/it]126it [43:05, 22.23s/it]126it [43:05, 22.24s/it]126it [43:05, 22.24s/it]win-rate: 72.07207207207207%, invalid-num: 30
+
+126it [43:05, 22.21s/it]127it [43:28, 22.38s/it]127it [43:28, 22.39s/it]127it [43:28, 22.39s/it]127it [43:28, 22.38s/it]127it [43:28, 22.39s/it]127it [43:28, 22.40s/it]127it [43:28, 22.40s/it]win-rate: 71.42857142857143%, invalid-num: 30
+
+127it [43:28, 22.38s/it]128it [43:50, 22.28s/it]128it [43:50, 22.26s/it]128it [43:50, 22.29s/it]128it [43:50, 22.27s/it]128it [43:50, 22.27s/it]win-rate: 71.23893805309734%, invalid-num: 30
+
+128it [43:50, 22.29s/it]128it [43:50, 22.29s/it]128it [43:50, 22.26s/it]129it [44:08, 21.13s/it]129it [44:09, 21.19s/it]129it [44:09, 21.19s/it]129it [44:09, 21.19s/it]129it [44:09, 21.20s/it]129it [44:09, 21.20s/it]129it [44:09, 21.20s/it]win-rate: 71.05263157894737%, invalid-num: 30
+
+129it [44:10, 21.46s/it]130it [44:29, 20.91s/it]130it [44:29, 20.95s/it]130it [44:29, 20.92s/it]130it [44:29, 20.93s/it]130it [44:29, 20.93s/it]130it [44:29, 20.94s/it]130it [44:29, 20.94s/it]win-rate: 70.86956521739131%, invalid-num: 30
+
+130it [44:29, 20.83s/it]131it [44:48, 20.33s/it]131it [44:48, 20.37s/it]131it [44:48, 20.37s/it]131it [44:48, 20.41s/it]131it [44:48, 20.38s/it]131it [44:48, 20.37s/it]131it [44:48, 20.38s/it]win-rate: 71.12068965517241%, invalid-num: 30
+
+131it [44:48, 20.33s/it]132it [45:09, 20.70s/it]132it [45:09, 20.71s/it]132it [45:09, 20.69s/it]132it [45:09, 20.68s/it]132it [45:09, 20.70s/it]win-rate: 70.94017094017094%, invalid-num: 30
+
+132it [45:09, 20.70s/it]132it [45:10, 20.74s/it]132it [45:10, 20.62s/it]133it [45:35, 22.03s/it]133it [45:35, 22.04s/it]133it [45:35, 22.02s/it]133it [45:35, 22.04s/it]133it [45:35, 22.05s/it]133it [45:35, 22.04s/it]133it [45:35, 22.04s/it]win-rate: 71.1864406779661%, invalid-num: 30
+
+133it [45:35, 22.01s/it]134it [46:00, 23.00s/it]134it [46:00, 23.01s/it]134it [46:00, 23.04s/it]134it [46:00, 23.05s/it]134it [46:00, 23.03s/it]134it [46:00, 23.03s/it]134it [46:00, 23.02s/it]win-rate: 71.42857142857143%, invalid-num: 30
+
+134it [46:00, 23.05s/it]135it [46:22, 22.65s/it]135it [46:22, 22.66s/it]135it [46:22, 22.67s/it]135it [46:22, 22.66s/it]135it [46:22, 22.68s/it]135it [46:22, 22.70s/it]135it [46:22, 22.70s/it]win-rate: 71.25%, invalid-num: 30
+
+135it [46:22, 22.63s/it]136it [46:44, 22.67s/it]136it [46:44, 22.67s/it]136it [46:44, 22.68s/it]136it [46:45, 22.70s/it]win-rate: 71.07438016528926%, invalid-num: 30
+
+136it [46:45, 22.70s/it]136it [46:45, 22.69s/it]136it [46:45, 22.70s/it]136it [46:45, 22.64s/it]137it [47:02, 21.21s/it]137it [47:02, 21.23s/it]137it [47:02, 21.24s/it]137it [47:02, 21.23s/it]137it [47:02, 21.23s/it]137it [47:02, 21.24s/it]win-rate: 71.31147540983606%, invalid-num: 30
+
+137it [47:02, 21.26s/it]137it [47:03, 21.20s/it]138it [47:21, 20.45s/it]138it [47:21, 20.47s/it]138it [47:21, 20.44s/it]138it [47:21, 20.47s/it]138it [47:21, 20.47s/it]138it [47:21, 20.48s/it]138it [47:21, 20.50s/it]win-rate: 71.54471544715447%, invalid-num: 30
+
+138it [47:22, 20.54s/it]139it [47:43, 20.93s/it]139it [47:43, 20.94s/it]139it [47:43, 20.93s/it]139it [47:43, 20.94s/it]139it [47:43, 20.94s/it]139it [47:43, 20.93s/it]139it [47:43, 20.95s/it]win-rate: 71.37096774193549%, invalid-num: 30
+
+139it [47:43, 20.92s/it]140it [48:03, 20.77s/it]140it [48:03, 20.79s/it]140it [48:04, 20.80s/it]140it [48:04, 20.82s/it]140it [48:04, 20.79s/it]140it [48:04, 20.79s/it]140it [48:04, 20.80s/it]win-rate: 71.6%, invalid-num: 30
+
+140it [48:04, 20.78s/it]141it [48:26, 21.34s/it]141it [48:26, 21.36s/it]141it [48:26, 21.36s/it]141it [48:26, 21.35s/it]141it [48:26, 21.36s/it]141it [48:26, 21.35s/it]141it [48:26, 21.36s/it]win-rate: 71.42857142857143%, invalid-num: 30
+
+141it [48:27, 21.44s/it]142it [48:50, 22.25s/it]142it [48:51, 22.26s/it]142it [48:51, 22.25s/it]142it [48:51, 22.25s/it]142it [48:51, 22.25s/it]142it [48:51, 22.26s/it]142it [48:51, 22.28s/it]win-rate: 71.25984251968504%, invalid-num: 30
+
+142it [48:51, 22.25s/it]143it [49:16, 23.16s/it]143it [49:16, 23.19s/it]143it [49:16, 23.21s/it]143it [49:16, 23.22s/it]143it [49:16, 23.21s/it]143it [49:16, 23.21s/it]143it [49:16, 23.21s/it]win-rate: 71.37254901960785%, invalid-num: 31
+
+143it [49:16, 23.16s/it]144it [49:41, 23.78s/it]144it [49:41, 23.79s/it]144it [49:41, 23.79s/it]144it [49:41, 23.80s/it]144it [49:41, 23.81s/it]144it [49:41, 23.80s/it]144it [49:41, 23.82s/it]win-rate: 71.59533073929961%, invalid-num: 31
+
+144it [49:42, 23.83s/it]145it [50:09, 25.08s/it]145it [50:09, 25.12s/it]145it [50:09, 25.13s/it]145it [50:09, 25.11s/it]145it [50:09, 25.12s/it]145it [50:09, 25.12s/it]145it [50:09, 25.13s/it]win-rate: 71.59533073929961%, invalid-num: 33
+
+145it [50:10, 25.09s/it]146it [50:31, 24.12s/it]146it [50:31, 24.13s/it]146it [50:31, 24.11s/it]146it [50:31, 24.11s/it]146it [50:31, 24.11s/it]146it [50:31, 24.12s/it]146it [50:31, 24.13s/it]win-rate: 71.42857142857143%, invalid-num: 33
+
+146it [50:32, 24.22s/it]147it [51:01, 25.91s/it]147it [51:01, 25.93s/it]147it [51:01, 25.95s/it]147it [51:01, 25.97s/it]147it [51:01, 25.97s/it]147it [51:01, 25.98s/it]147it [51:01, 25.99s/it]win-rate: 71.26436781609196%, invalid-num: 33
+
+147it [51:02, 25.99s/it]148it [51:20, 23.71s/it]148it [51:20, 23.72s/it]148it [51:20, 23.71s/it]148it [51:20, 23.72s/it]148it [51:20, 23.76s/it]148it [51:20, 23.74s/it]148it [51:20, 23.75s/it]win-rate: 71.37404580152672%, invalid-num: 34
+
+148it [51:20, 23.67s/it]149it [51:42, 23.36s/it]149it [51:42, 23.37s/it]149it [51:42, 23.39s/it]149it [51:42, 23.39s/it]149it [51:43, 23.38s/it]149it [51:43, 23.39s/it]149it [51:42, 23.39s/it]win-rate: 71.5909090909091%, invalid-num: 34
+
+149it [51:43, 23.34s/it]150it [52:00, 21.62s/it]150it [52:00, 21.66s/it]150it [52:00, 21.65s/it]150it [52:00, 21.67s/it]150it [52:00, 21.66s/it]150it [52:00, 21.66s/it]150it [52:00, 21.67s/it]win-rate: 71.69811320754717%, invalid-num: 35
+
+150it [52:00, 21.65s/it]151it [52:24, 22.21s/it]151it [52:24, 22.22s/it]151it [52:24, 22.22s/it]151it [52:24, 22.24s/it]151it [52:24, 22.24s/it]151it [52:24, 22.24s/it]151it [52:24, 22.25s/it]win-rate: 71.80451127819549%, invalid-num: 36
+
+151it [52:24, 22.23s/it]152it [52:48, 22.92s/it]152it [52:48, 22.92s/it]152it [52:48, 22.93s/it]152it [52:48, 22.94s/it]152it [52:48, 22.97s/it]152it [52:48, 22.96s/it]152it [52:48, 22.96s/it]win-rate: 72.01492537313433%, invalid-num: 36
+
+152it [52:49, 22.94s/it]153it [53:07, 21.61s/it]153it [53:07, 21.62s/it]153it [53:07, 21.62s/it]153it [53:07, 21.62s/it]153it [53:07, 21.62s/it]153it [53:07, 21.62s/it]153it [53:07, 21.63s/it]win-rate: 71.85185185185186%, invalid-num: 36
+
+153it [53:07, 21.60s/it]154it [53:38, 24.62s/it]154it [53:38, 24.62s/it]154it [53:38, 24.62s/it]154it [53:38, 24.62s/it]154it [53:38, 24.64s/it]154it [53:39, 24.64s/it]154it [53:39, 24.82s/it]win-rate: 71.69117647058823%, invalid-num: 36
+
+154it [53:40, 24.86s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -2.52 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+155it [53:59, 23.50s/it]155it [53:59, 23.51s/it]155it [53:59, 23.50s/it]155it [53:59, 23.50s/it]155it [53:59, 23.45s/it]155it [53:59, 23.50s/it]155it [53:59, 23.51s/it]win-rate: 71.8978102189781%, invalid-num: 36
+
+155it [54:00, 23.46s/it]156it [54:21, 22.87s/it]156it [54:21, 22.88s/it]156it [54:21, 22.91s/it]156it [54:21, 22.91s/it]156it [54:21, 22.90s/it]156it [54:21, 22.86s/it]156it [54:21, 22.90s/it]win-rate: 71.73913043478261%, invalid-num: 36
+
+156it [54:21, 22.82s/it]157it [54:38, 21.00s/it]157it [54:38, 21.05s/it]157it [54:38, 21.05s/it]157it [54:38, 21.06s/it]157it [54:38, 21.05s/it]win-rate: 71.58273381294964%, invalid-num: 36
+
+157it [54:38, 21.07s/it]157it [54:38, 21.09s/it]157it [54:39, 21.26s/it]158it [55:03, 22.37s/it]158it [55:03, 22.37s/it]158it [55:03, 22.38s/it]158it [55:03, 22.38s/it]158it [55:03, 22.37s/it]158it [55:03, 22.38s/it]win-rate: 71.42857142857143%, invalid-num: 36
+
+158it [55:03, 22.44s/it]158it [55:03, 22.27s/it]159it [55:22, 21.39s/it]159it [55:22, 21.40s/it]159it [55:22, 21.41s/it]159it [55:22, 21.42s/it]159it [55:22, 21.42s/it]159it [55:22, 21.41s/it]159it [55:22, 21.42s/it]win-rate: 71.63120567375887%, invalid-num: 36
+
+159it [55:23, 21.33s/it]160it [55:50, 23.25s/it]160it [55:50, 23.24s/it]160it [55:50, 23.25s/it]160it [55:50, 23.24s/it]160it [55:50, 23.26s/it]160it [55:50, 23.25s/it]160it [55:50, 23.27s/it]win-rate: 71.47887323943662%, invalid-num: 36
+
+160it [55:50, 23.20s/it]161it [56:11, 22.52s/it]161it [56:11, 22.55s/it]161it [56:11, 22.54s/it]161it [56:11, 22.55s/it]161it [56:11, 22.55s/it]161it [56:11, 22.57s/it]win-rate: 71.67832167832168%, invalid-num: 36
+
+161it [56:11, 22.59s/it]161it [56:11, 22.49s/it]162it [56:36, 23.32s/it]162it [56:36, 23.32s/it]162it [56:36, 23.33s/it]162it [56:36, 23.34s/it]162it [56:36, 23.34s/it]162it [56:36, 23.34s/it]162it [56:36, 23.34s/it]win-rate: 71.77700348432056%, invalid-num: 37
+
+162it [56:36, 23.32s/it]163it [56:58, 23.13s/it]163it [56:59, 23.13s/it]163it [56:59, 23.14s/it]163it [56:59, 23.15s/it]163it [56:59, 23.15s/it]163it [56:59, 23.15s/it]163it [56:59, 23.15s/it]win-rate: 71.62629757785467%, invalid-num: 37
+
+163it [56:59, 23.17s/it]164it [57:26, 24.57s/it]164it [57:27, 24.60s/it]164it [57:27, 24.60s/it]164it [57:27, 24.61s/it]164it [57:27, 24.61s/it]164it [57:27, 24.61s/it]164it [57:27, 24.61s/it]win-rate: 71.8213058419244%, invalid-num: 37
+
+164it [57:27, 24.58s/it]165it [57:49, 23.92s/it]165it [57:49, 23.93s/it]165it [57:49, 23.93s/it]165it [57:49, 23.96s/it]165it [57:49, 23.94s/it]165it [57:49, 23.94s/it]165it [57:49, 23.94s/it]win-rate: 71.67235494880546%, invalid-num: 37
+
+165it [57:49, 23.93s/it]166it [58:10, 23.12s/it]166it [58:10, 23.13s/it]166it [58:10, 23.14s/it]166it [58:10, 23.14s/it]166it [58:10, 23.16s/it]166it [58:10, 23.17s/it]166it [58:10, 23.17s/it]win-rate: 71.86440677966101%, invalid-num: 37
+
+166it [58:11, 23.15s/it]167it [58:44, 26.27s/it]167it [58:44, 26.31s/it]167it [58:44, 26.34s/it]167it [58:44, 26.34s/it]167it [58:44, 26.32s/it]167it [58:44, 26.33s/it]167it [58:44, 26.33s/it]win-rate: 72.05387205387206%, invalid-num: 37
+
+167it [58:44, 26.31s/it]168it [59:02, 23.76s/it]168it [59:02, 23.76s/it]168it [59:02, 23.77s/it]168it [59:02, 23.77s/it]168it [59:02, 23.76s/it]168it [59:02, 23.77s/it]168it [59:02, 23.78s/it]win-rate: 71.81208053691275%, invalid-num: 38
+
+168it [59:02, 23.76s/it]169it [59:25, 23.48s/it]169it [59:25, 23.49s/it]169it [59:25, 23.48s/it]169it [59:25, 23.48s/it]169it [59:25, 23.50s/it]169it [59:25, 23.50s/it]win-rate: 72.0%, invalid-num: 38
+
+169it [59:25, 23.52s/it]169it [59:25, 23.46s/it]170it [59:48, 23.52s/it]170it [59:48, 23.53s/it]win-rate: 72.18543046357617%, invalid-num: 38
+
+170it [59:48, 23.55s/it]170it [59:48, 23.55s/it]170it [59:48, 23.52s/it]170it [59:48, 23.53s/it]170it [59:48, 23.54s/it]170it [59:48, 23.50s/it]171it [1:00:15, 24.37s/it]171it [1:00:15, 24.38s/it]171it [1:00:15, 24.38s/it]171it [1:00:15, 24.38s/it]171it [1:00:15, 24.39s/it]171it [1:00:15, 24.39s/it]171it [1:00:15, 24.39s/it]win-rate: 71.94719471947195%, invalid-num: 39
+
+171it [1:00:15, 24.39s/it]172it [1:00:36, 23.41s/it]172it [1:00:36, 23.43s/it]172it [1:00:36, 23.42s/it]172it [1:00:36, 23.43s/it]172it [1:00:36, 23.42s/it]172it [1:00:36, 23.42s/it]172it [1:00:36, 23.42s/it]win-rate: 72.1311475409836%, invalid-num: 39
+
+172it [1:00:36, 23.42s/it]173it [1:00:54, 21.76s/it]173it [1:00:54, 21.76s/it]173it [1:00:54, 21.76s/it]173it [1:00:54, 21.78s/it]173it [1:00:54, 21.78s/it]173it [1:00:54, 21.80s/it]173it [1:00:54, 21.79s/it]win-rate: 71.9869706840391%, invalid-num: 39
+
+173it [1:00:54, 21.81s/it]174it [1:01:13, 20.89s/it]174it [1:01:13, 20.90s/it]174it [1:01:13, 20.91s/it]174it [1:01:13, 20.91s/it]174it [1:01:13, 20.91s/it]174it [1:01:13, 20.90s/it]174it [1:01:13, 20.91s/it]win-rate: 72.168284789644%, invalid-num: 39
+
+174it [1:01:13, 20.94s/it]175it [1:01:30, 19.99s/it]175it [1:01:30, 20.00s/it]175it [1:01:31, 20.00s/it]175it [1:01:31, 20.00s/it]175it [1:01:30, 20.00s/it]175it [1:01:31, 20.01s/it]175it [1:01:31, 20.01s/it]win-rate: 72.02572347266882%, invalid-num: 39
+
+175it [1:01:31, 19.99s/it]176it [1:01:49, 19.64s/it]176it [1:01:49, 19.66s/it]176it [1:01:49, 19.68s/it]win-rate: 71.8849840255591%, invalid-num: 39
+
+176it [1:01:49, 19.69s/it]176it [1:01:49, 19.70s/it]176it [1:01:49, 19.68s/it]176it [1:01:49, 19.69s/it]176it [1:01:50, 19.65s/it]177it [1:02:10, 19.94s/it]177it [1:02:10, 19.97s/it]177it [1:02:10, 19.96s/it]177it [1:02:10, 19.98s/it]177it [1:02:10, 19.98s/it]177it [1:02:10, 19.98s/it]win-rate: 72.06349206349206%, invalid-num: 39
+
+177it [1:02:10, 20.01s/it]177it [1:02:10, 19.97s/it]178it [1:02:33, 20.81s/it]178it [1:02:33, 20.82s/it]178it [1:02:33, 20.82s/it]178it [1:02:33, 20.81s/it]178it [1:02:33, 20.80s/it]178it [1:02:33, 20.84s/it]178it [1:02:33, 20.83s/it]win-rate: 72.2397476340694%, invalid-num: 39
+
+178it [1:02:33, 20.86s/it]179it [1:02:55, 21.34s/it]179it [1:02:55, 21.33s/it]179it [1:02:55, 21.34s/it]win-rate: 72.10031347962382%, invalid-num: 39
+
+179it [1:02:55, 21.36s/it]179it [1:02:56, 21.37s/it]179it [1:02:56, 21.34s/it]179it [1:02:56, 21.35s/it]179it [1:02:56, 21.33s/it]180it [1:03:19, 22.07s/it]180it [1:03:19, 22.08s/it]180it [1:03:19, 22.09s/it]180it [1:03:19, 22.08s/it]180it [1:03:19, 22.08s/it]180it [1:03:19, 22.09s/it]180it [1:03:19, 22.10s/it]win-rate: 72.1875%, invalid-num: 40
+
+180it [1:03:20, 22.09s/it]181it [1:03:42, 22.36s/it]181it [1:03:42, 22.40s/it]win-rate: 72.04968944099379%, invalid-num: 40
+
+181it [1:03:42, 22.40s/it]181it [1:03:42, 22.40s/it]181it [1:03:42, 22.40s/it]181it [1:03:42, 22.42s/it]181it [1:03:42, 22.42s/it]181it [1:03:43, 22.35s/it]182it [1:04:05, 22.37s/it]182it [1:04:05, 22.40s/it]182it [1:04:05, 22.38s/it]182it [1:04:05, 22.39s/it]182it [1:04:05, 22.41s/it]182it [1:04:05, 22.40s/it]182it [1:04:05, 22.40s/it]win-rate: 72.13622291021672%, invalid-num: 41
+
+182it [1:04:05, 22.40s/it]183it [1:04:30, 23.16s/it]183it [1:04:30, 23.16s/it]183it [1:04:30, 23.16s/it]183it [1:04:30, 23.17s/it]183it [1:04:30, 23.17s/it]183it [1:04:30, 23.17s/it]183it [1:04:30, 23.17s/it]win-rate: 72.3076923076923%, invalid-num: 41
+
+183it [1:04:30, 23.22s/it]184it [1:04:53, 23.12s/it]184it [1:04:53, 23.14s/it]184it [1:04:53, 23.12s/it]184it [1:04:53, 23.15s/it]184it [1:04:53, 23.13s/it]184it [1:04:53, 23.13s/it]win-rate: 72.08588957055214%, invalid-num: 42
+
+184it [1:04:53, 23.14s/it]184it [1:04:53, 23.09s/it]185it [1:05:16, 23.16s/it]185it [1:05:16, 23.15s/it]185it [1:05:16, 23.15s/it]185it [1:05:16, 23.15s/it]185it [1:05:16, 23.17s/it]185it [1:05:16, 23.15s/it]185it [1:05:16, 23.16s/it]win-rate: 72.2560975609756%, invalid-num: 42
+
+185it [1:05:16, 23.16s/it]186it [1:05:43, 24.33s/it]186it [1:05:43, 24.33s/it]186it [1:05:43, 24.34s/it]186it [1:05:43, 24.33s/it]186it [1:05:43, 24.33s/it]186it [1:05:43, 24.32s/it]186it [1:05:43, 24.33s/it]win-rate: 72.42424242424242%, invalid-num: 42
+
+186it [1:05:43, 24.29s/it]187it [1:06:13, 26.02s/it]187it [1:06:13, 26.03s/it]187it [1:06:13, 26.04s/it]187it [1:06:13, 26.05s/it]187it [1:06:13, 26.05s/it]187it [1:06:13, 26.07s/it]187it [1:06:13, 26.06s/it]win-rate: 72.28915662650603%, invalid-num: 42
+
+187it [1:06:14, 26.08s/it]188it [1:06:37, 25.29s/it]188it [1:06:37, 25.30s/it]188it [1:06:37, 25.30s/it]188it [1:06:37, 25.32s/it]188it [1:06:37, 25.32s/it]win-rate: 72.15568862275448%, invalid-num: 42
+
+188it [1:06:37, 25.33s/it]188it [1:06:37, 25.39s/it]188it [1:06:37, 25.44s/it]189it [1:06:58, 24.12s/it]189it [1:06:58, 24.13s/it]189it [1:06:58, 24.13s/it]189it [1:06:58, 24.11s/it]189it [1:06:58, 24.13s/it]189it [1:06:58, 24.14s/it]189it [1:06:58, 24.14s/it]win-rate: 72.02380952380952%, invalid-num: 42
+
+189it [1:06:58, 24.09s/it]190it [1:07:23, 24.23s/it]190it [1:07:23, 24.22s/it]190it [1:07:23, 24.24s/it]190it [1:07:23, 24.25s/it]190it [1:07:23, 24.26s/it]190it [1:07:23, 24.26s/it]190it [1:07:23, 24.24s/it]win-rate: 71.89349112426035%, invalid-num: 42
+
+190it [1:07:23, 24.20s/it]191it [1:07:43, 23.10s/it]191it [1:07:43, 23.10s/it]191it [1:07:43, 23.11s/it]191it [1:07:43, 23.11s/it]191it [1:07:43, 23.12s/it]191it [1:07:43, 23.12s/it]191it [1:07:43, 23.13s/it]win-rate: 71.76470588235294%, invalid-num: 42
+
+191it [1:07:43, 23.10s/it]192it [1:08:13, 25.12s/it]192it [1:08:13, 25.15s/it]192it [1:08:13, 25.15s/it]192it [1:08:13, 25.15s/it]192it [1:08:13, 25.16s/it]192it [1:08:13, 25.16s/it]192it [1:08:13, 25.15s/it]win-rate: 71.6374269005848%, invalid-num: 42
+
+192it [1:08:13, 25.12s/it]193it [1:08:35, 24.33s/it]193it [1:08:35, 24.34s/it]193it [1:08:35, 24.34s/it]193it [1:08:35, 24.37s/it]193it [1:08:36, 24.36s/it]193it [1:08:35, 24.35s/it]193it [1:08:36, 24.35s/it]win-rate: 71.7201166180758%, invalid-num: 43
+
+193it [1:08:37, 24.84s/it]194it [1:09:00, 24.32s/it]194it [1:09:00, 24.31s/it]194it [1:09:00, 24.32s/it]194it [1:09:00, 24.33s/it]194it [1:09:00, 24.33s/it]194it [1:09:00, 24.32s/it]194it [1:09:00, 24.33s/it]win-rate: 71.8840579710145%, invalid-num: 43
+
+194it [1:09:00, 24.18s/it]195it [1:09:31, 26.38s/it]195it [1:09:31, 26.40s/it]195it [1:09:31, 26.42s/it]195it [1:09:31, 26.40s/it]195it [1:09:31, 26.42s/it]195it [1:09:31, 26.41s/it]195it [1:09:31, 26.41s/it]win-rate: 71.67630057803468%, invalid-num: 44
+
+195it [1:09:31, 26.28s/it]196it [1:10:03, 28.00s/it]196it [1:10:03, 28.01s/it]196it [1:10:03, 28.00s/it]196it [1:10:03, 28.00s/it]196it [1:10:03, 28.01s/it]196it [1:10:03, 28.02s/it]196it [1:10:03, 28.01s/it]win-rate: 71.83908045977012%, invalid-num: 44
+
+196it [1:10:03, 27.93s/it]197it [1:10:23, 25.69s/it]197it [1:10:23, 25.70s/it]197it [1:10:23, 25.71s/it]197it [1:10:23, 25.70s/it]197it [1:10:23, 25.71s/it]197it [1:10:23, 25.71s/it]197it [1:10:23, 25.71s/it]win-rate: 72.0%, invalid-num: 44
+
+197it [1:10:23, 25.66s/it]198it [1:10:46, 24.95s/it]198it [1:10:46, 25.02s/it]198it [1:10:47, 25.02s/it]198it [1:10:47, 25.03s/it]198it [1:10:47, 25.01s/it]198it [1:10:47, 25.02s/it]198it [1:10:46, 25.02s/it]win-rate: 72.1590909090909%, invalid-num: 44
+
+198it [1:10:47, 24.98s/it]199it [1:11:15, 26.13s/it]199it [1:11:15, 26.14s/it]199it [1:11:15, 26.15s/it]199it [1:11:15, 26.15s/it]199it [1:11:15, 26.16s/it]199it [1:11:15, 26.17s/it]199it [1:11:15, 26.18s/it]win-rate: 72.03389830508475%, invalid-num: 44
+
+199it [1:11:16, 26.12s/it]200it [1:11:40, 25.59s/it]200it [1:11:40, 25.61s/it]200it [1:11:40, 25.61s/it]200it [1:11:40, 25.63s/it]win-rate: 71.91011235955057%, invalid-num: 44
+
+200it [1:11:40, 25.65s/it]200it [1:11:40, 25.65s/it]200it [1:11:40, 25.65s/it]200it [1:11:40, 25.58s/it]201it [1:12:08, 26.33s/it]201it [1:12:08, 26.34s/it]201it [1:12:08, 26.35s/it]201it [1:12:08, 26.34s/it]201it [1:12:08, 26.33s/it]201it [1:12:08, 26.36s/it]201it [1:12:08, 26.35s/it]win-rate: 72.06703910614524%, invalid-num: 44
+
+201it [1:12:08, 26.34s/it]202it [1:12:26, 23.85s/it]202it [1:12:26, 23.87s/it]202it [1:12:26, 23.89s/it]202it [1:12:26, 23.88s/it]202it [1:12:26, 23.89s/it]202it [1:12:26, 23.88s/it]202it [1:12:26, 23.89s/it]win-rate: 71.94444444444444%, invalid-num: 44
+
+202it [1:12:26, 23.92s/it]203it [1:12:46, 22.76s/it]203it [1:12:46, 22.81s/it]203it [1:12:46, 22.80s/it]203it [1:12:46, 22.81s/it]203it [1:12:46, 22.79s/it]203it [1:12:46, 22.80s/it]203it [1:12:46, 22.80s/it]win-rate: 72.02216066481995%, invalid-num: 45
+
+203it [1:12:47, 22.84s/it]204it [1:13:06, 22.00s/it]204it [1:13:06, 22.00s/it]204it [1:13:06, 22.02s/it]204it [1:13:06, 22.03s/it]204it [1:13:06, 22.02s/it]204it [1:13:06, 22.01s/it]204it [1:13:06, 22.02s/it]win-rate: 71.900826446281%, invalid-num: 45
+
+204it [1:13:07, 21.99s/it]205it [1:13:27, 21.57s/it]205it [1:13:27, 21.59s/it]205it [1:13:27, 21.58s/it]205it [1:13:27, 21.59s/it]205it [1:13:27, 21.58s/it]205it [1:13:27, 21.58s/it]205it [1:13:27, 21.61s/it]win-rate: 71.78082191780823%, invalid-num: 45
+
+205it [1:13:27, 21.58s/it]206it [1:13:56, 23.83s/it]206it [1:13:56, 23.84s/it]206it [1:13:56, 23.86s/it]206it [1:13:56, 23.85s/it]206it [1:13:56, 23.86s/it]206it [1:13:56, 23.85s/it]206it [1:13:56, 23.86s/it]win-rate: 71.66212534059946%, invalid-num: 45
+
+206it [1:13:56, 23.85s/it]207it [1:14:21, 24.23s/it]207it [1:14:21, 24.25s/it]207it [1:14:21, 24.27s/it]207it [1:14:21, 24.25s/it]207it [1:14:21, 24.27s/it]207it [1:14:21, 24.28s/it]207it [1:14:21, 24.26s/it]win-rate: 71.54471544715447%, invalid-num: 45
+
+207it [1:14:21, 24.23s/it]208it [1:14:49, 25.17s/it]208it [1:14:48, 25.17s/it]208it [1:14:49, 25.17s/it]208it [1:14:49, 25.17s/it]208it [1:14:48, 25.17s/it]208it [1:14:49, 25.17s/it]208it [1:14:48, 25.18s/it]win-rate: 71.62162162162163%, invalid-num: 46
+
+208it [1:14:49, 25.16s/it]209it [1:15:16, 25.82s/it]209it [1:15:16, 25.84s/it]209it [1:15:16, 25.87s/it]209it [1:15:16, 25.86s/it]209it [1:15:16, 25.87s/it]209it [1:15:16, 25.86s/it]209it [1:15:16, 25.86s/it]win-rate: 71.50537634408603%, invalid-num: 46
+
+209it [1:15:16, 25.85s/it]210it [1:15:38, 24.62s/it]210it [1:15:38, 24.62s/it]210it [1:15:38, 24.63s/it]210it [1:15:38, 24.64s/it]210it [1:15:38, 24.67s/it]win-rate: 71.65775401069519%, invalid-num: 46
+
+210it [1:15:38, 24.69s/it]210it [1:15:38, 24.69s/it]210it [1:15:39, 24.90s/it]211it [1:15:59, 23.54s/it]211it [1:15:59, 23.52s/it]211it [1:15:59, 23.54s/it]211it [1:15:59, 23.53s/it]211it [1:15:59, 23.52s/it]211it [1:15:59, 23.54s/it]211it [1:15:59, 23.56s/it]win-rate: 71.80851063829788%, invalid-num: 46
+
+211it [1:15:59, 23.46s/it]212it [1:16:21, 23.13s/it]212it [1:16:21, 23.13s/it]212it [1:16:21, 23.13s/it]212it [1:16:21, 23.14s/it]212it [1:16:21, 23.15s/it]212it [1:16:21, 23.15s/it]212it [1:16:21, 23.16s/it]win-rate: 71.95767195767195%, invalid-num: 46
+
+212it [1:16:21, 23.08s/it]213it [1:16:47, 23.86s/it]213it [1:16:46, 23.85s/it]213it [1:16:47, 23.88s/it]213it [1:16:47, 23.85s/it]213it [1:16:47, 23.87s/it]213it [1:16:47, 23.88s/it]213it [1:16:46, 23.86s/it]win-rate: 72.0316622691293%, invalid-num: 47
+
+213it [1:16:47, 23.82s/it]214it [1:17:10, 23.73s/it]214it [1:17:10, 23.74s/it]214it [1:17:10, 23.73s/it]214it [1:17:10, 23.74s/it]214it [1:17:10, 23.75s/it]214it [1:17:10, 23.74s/it]214it [1:17:10, 23.74s/it]win-rate: 72.10526315789474%, invalid-num: 48
+
+214it [1:17:10, 23.73s/it]215it [1:17:29, 22.48s/it]215it [1:17:30, 22.49s/it]215it [1:17:30, 22.49s/it]215it [1:17:30, 22.50s/it]215it [1:17:30, 22.50s/it]215it [1:17:30, 22.50s/it]215it [1:17:30, 22.51s/it]win-rate: 72.17847769028872%, invalid-num: 49
+
+215it [1:17:30, 22.48s/it]216it [1:17:58, 24.14s/it]216it [1:17:58, 24.14s/it]216it [1:17:58, 24.15s/it]216it [1:17:58, 24.15s/it]216it [1:17:58, 24.18s/it]win-rate: 72.32375979112271%, invalid-num: 49
+
+216it [1:17:58, 24.17s/it]216it [1:17:58, 24.19s/it]216it [1:17:58, 24.17s/it]217it [1:18:21, 24.00s/it]217it [1:18:21, 23.97s/it]217it [1:18:21, 24.00s/it]217it [1:18:21, 24.00s/it]217it [1:18:21, 24.00s/it]217it [1:18:21, 24.02s/it]win-rate: 72.46753246753246%, invalid-num: 49
+
+217it [1:18:21, 24.03s/it]217it [1:18:22, 23.98s/it]218it [1:18:46, 24.26s/it]218it [1:18:46, 24.27s/it]218it [1:18:46, 24.28s/it]218it [1:18:46, 24.29s/it]218it [1:18:46, 24.29s/it]win-rate: 72.3514211886305%, invalid-num: 49
+
+218it [1:18:46, 24.33s/it]218it [1:18:46, 24.33s/it]218it [1:18:47, 24.31s/it]219it [1:19:08, 23.40s/it]219it [1:19:08, 23.41s/it]219it [1:19:08, 23.41s/it]219it [1:19:08, 23.43s/it]219it [1:19:08, 23.42s/it]219it [1:19:08, 23.42s/it]219it [1:19:08, 23.42s/it]win-rate: 72.23650385604114%, invalid-num: 49
+
+219it [1:19:08, 23.40s/it]220it [1:19:32, 23.61s/it]220it [1:19:32, 23.62s/it]220it [1:19:32, 23.65s/it]220it [1:19:32, 23.65s/it]220it [1:19:32, 23.66s/it]220it [1:19:32, 23.66s/it]220it [1:19:32, 23.66s/it]win-rate: 72.1227621483376%, invalid-num: 49
+
+220it [1:19:32, 23.65s/it]221it [1:19:52, 22.74s/it]221it [1:19:52, 22.76s/it]221it [1:19:52, 22.75s/it]221it [1:19:52, 22.75s/it]221it [1:19:52, 22.77s/it]221it [1:19:52, 22.76s/it]221it [1:19:52, 22.76s/it]win-rate: 72.264631043257%, invalid-num: 49
+
+221it [1:19:53, 22.74s/it]222it [1:20:14, 22.55s/it]222it [1:20:15, 22.54s/it]222it [1:20:14, 22.54s/it]222it [1:20:15, 22.55s/it]222it [1:20:15, 22.57s/it]222it [1:20:14, 22.55s/it]222it [1:20:15, 22.55s/it]win-rate: 72.40506329113924%, invalid-num: 49
+
+222it [1:20:15, 22.53s/it]223it [1:20:34, 21.70s/it]223it [1:20:34, 21.73s/it]223it [1:20:34, 21.72s/it]223it [1:20:34, 21.73s/it]win-rate: 72.04030226700252%, invalid-num: 49
+
+223it [1:20:34, 21.75s/it]223it [1:20:34, 21.75s/it]223it [1:20:34, 21.78s/it]223it [1:20:35, 21.72s/it]224it [1:21:01, 23.32s/it]224it [1:21:01, 23.34s/it]224it [1:21:01, 23.33s/it]224it [1:21:01, 23.35s/it]224it [1:21:01, 23.34s/it]224it [1:21:01, 23.33s/it]win-rate: 71.9298245614035%, invalid-num: 49
+224it [1:21:01, 23.35s/it]
+224it [1:21:02, 23.32s/it]225it [1:21:26, 23.72s/it]225it [1:21:26, 23.75s/it]225it [1:21:26, 23.74s/it]225it [1:21:26, 23.76s/it]225it [1:21:26, 23.74s/it]225it [1:21:26, 23.75s/it]225it [1:21:26, 23.75s/it]win-rate: 71.9298245614035%, invalid-num: 51
+
+225it [1:21:26, 23.74s/it]226it [1:21:48, 23.31s/it]226it [1:21:48, 23.33s/it]226it [1:21:49, 23.35s/it]win-rate: 72.06982543640898%, invalid-num: 51
+
+226it [1:21:48, 23.34s/it]226it [1:21:49, 23.36s/it]226it [1:21:49, 23.37s/it]226it [1:21:49, 23.38s/it]226it [1:21:49, 23.34s/it]227it [1:22:09, 22.47s/it]227it [1:22:09, 22.47s/it]227it [1:22:09, 22.46s/it]win-rate: 71.96029776674938%, invalid-num: 51
+
+227it [1:22:09, 22.48s/it]227it [1:22:09, 22.49s/it]227it [1:22:09, 22.49s/it]227it [1:22:09, 22.49s/it]227it [1:22:09, 22.46s/it]228it [1:22:42, 25.77s/it]228it [1:22:42, 25.79s/it]228it [1:22:43, 25.79s/it]228it [1:22:42, 25.78s/it]228it [1:22:43, 25.80s/it]228it [1:22:43, 25.82s/it]228it [1:22:43, 25.82s/it]win-rate: 71.85185185185186%, invalid-num: 51
+
+228it [1:22:43, 25.81s/it]229it [1:23:03, 24.25s/it]229it [1:23:03, 24.27s/it]229it [1:23:03, 24.27s/it]229it [1:23:03, 24.28s/it]229it [1:23:03, 24.30s/it]229it [1:23:03, 24.28s/it]229it [1:23:03, 24.29s/it]win-rate: 71.99017199017199%, invalid-num: 51
+
+229it [1:23:04, 24.30s/it]230it [1:23:26, 23.95s/it]230it [1:23:26, 23.96s/it]230it [1:23:26, 23.96s/it]230it [1:23:27, 23.97s/it]230it [1:23:27, 23.99s/it]230it [1:23:27, 23.97s/it]230it [1:23:27, 23.98s/it]win-rate: 72.12713936430319%, invalid-num: 51
+
+230it [1:23:33, 25.82s/it]231it [1:23:49, 23.60s/it]231it [1:23:49, 23.61s/it]231it [1:23:49, 23.62s/it]231it [1:23:49, 23.62s/it]231it [1:23:49, 23.62s/it]231it [1:23:49, 23.61s/it]231it [1:23:49, 23.63s/it]win-rate: 72.1951219512195%, invalid-num: 52
+
+231it [1:23:50, 23.07s/it]232it [1:24:14, 23.89s/it]232it [1:24:14, 23.89s/it]232it [1:24:14, 23.90s/it]232it [1:24:14, 23.90s/it]232it [1:24:14, 23.90s/it]232it [1:24:14, 23.91s/it]232it [1:24:14, 23.92s/it]win-rate: 72.33009708737865%, invalid-num: 52
+
+232it [1:24:14, 23.53s/it]233it [1:24:42, 25.04s/it]233it [1:24:42, 25.05s/it]win-rate: 72.46376811594203%, invalid-num: 52
+
+233it [1:24:42, 25.05s/it]233it [1:24:42, 25.04s/it]233it [1:24:42, 25.05s/it]233it [1:24:42, 25.05s/it]233it [1:24:42, 25.09s/it]233it [1:24:42, 24.76s/it]234it [1:25:06, 24.71s/it]234it [1:25:06, 24.75s/it]234it [1:25:06, 24.73s/it]234it [1:25:06, 24.73s/it]234it [1:25:06, 24.72s/it]234it [1:25:06, 24.73s/it]234it [1:25:06, 24.73s/it]win-rate: 72.53012048192771%, invalid-num: 53
+
+234it [1:25:06, 24.55s/it]235it [1:25:22, 22.36s/it]235it [1:25:22, 22.36s/it]235it [1:25:22, 22.37s/it]235it [1:25:22, 22.36s/it]235it [1:25:22, 22.37s/it]235it [1:25:22, 22.37s/it]235it [1:25:22, 22.37s/it]win-rate: 72.42206235011992%, invalid-num: 53
+
+235it [1:25:23, 22.27s/it]236it [1:25:42, 21.54s/it]236it [1:25:42, 21.54s/it]236it [1:25:42, 21.57s/it]236it [1:25:42, 21.56s/it]236it [1:25:42, 21.56s/it]236it [1:25:42, 21.55s/it]236it [1:25:42, 21.56s/it]win-rate: 72.55369928400954%, invalid-num: 53
+
+236it [1:25:42, 21.46s/it]237it [1:26:09, 23.10s/it]237it [1:26:09, 23.11s/it]237it [1:26:09, 23.13s/it]237it [1:26:09, 23.14s/it]237it [1:26:09, 23.13s/it]237it [1:26:09, 23.13s/it]237it [1:26:09, 23.12s/it]win-rate: 72.38095238095238%, invalid-num: 54
+
+237it [1:26:09, 23.04s/it]238it [1:26:28, 22.00s/it]238it [1:26:28, 22.00s/it]238it [1:26:28, 22.01s/it]238it [1:26:28, 22.01s/it]238it [1:26:28, 22.00s/it]238it [1:26:28, 22.01s/it]238it [1:26:28, 22.02s/it]win-rate: 72.27488151658767%, invalid-num: 54
+
+238it [1:26:29, 21.98s/it]239it [1:26:52, 22.52s/it]239it [1:26:52, 22.52s/it]239it [1:26:52, 22.54s/it]239it [1:26:52, 22.53s/it]239it [1:26:52, 22.55s/it]239it [1:26:52, 22.56s/it]win-rate: 72.40566037735849%, invalid-num: 54
+
+239it [1:26:52, 22.56s/it]239it [1:26:52, 22.51s/it]240it [1:27:16, 22.92s/it]240it [1:27:16, 22.91s/it]240it [1:27:16, 22.95s/it]240it [1:27:16, 22.94s/it]240it [1:27:16, 22.94s/it]240it [1:27:16, 22.95s/it]win-rate: 72.30046948356808%, invalid-num: 54
+
+240it [1:27:16, 22.95s/it]240it [1:27:16, 22.90s/it]241it [1:27:40, 23.24s/it]241it [1:27:40, 23.24s/it]241it [1:27:40, 23.23s/it]241it [1:27:40, 23.22s/it]241it [1:27:40, 23.24s/it]241it [1:27:40, 23.23s/it]241it [1:27:40, 23.24s/it]win-rate: 72.42990654205607%, invalid-num: 54
+
+241it [1:27:40, 23.23s/it]242it [1:27:56, 21.23s/it]242it [1:27:56, 21.24s/it]242it [1:27:56, 21.23s/it]242it [1:27:56, 21.23s/it]242it [1:27:56, 21.23s/it]242it [1:27:56, 21.25s/it]242it [1:27:56, 21.24s/it]win-rate: 72.55813953488372%, invalid-num: 54
+
+242it [1:27:57, 21.24s/it]243it [1:28:28, 24.29s/it]243it [1:28:28, 24.30s/it]243it [1:28:28, 24.28s/it]243it [1:28:28, 24.29s/it]243it [1:28:28, 24.33s/it]243it [1:28:28, 24.30s/it]243it [1:28:28, 24.30s/it]win-rate: 72.68518518518519%, invalid-num: 54
+
+243it [1:28:28, 24.27s/it]244it [1:28:50, 23.55s/it]244it [1:28:50, 23.56s/it]244it [1:28:50, 23.55s/it]244it [1:28:50, 23.55s/it]244it [1:28:50, 23.56s/it]244it [1:28:50, 23.56s/it]244it [1:28:50, 23.58s/it]win-rate: 72.81105990783409%, invalid-num: 54
+
+244it [1:28:50, 23.56s/it]245it [1:29:10, 22.68s/it]245it [1:29:10, 22.67s/it]245it [1:29:10, 22.68s/it]245it [1:29:10, 22.69s/it]245it [1:29:10, 22.70s/it]245it [1:29:10, 22.70s/it]245it [1:29:10, 22.69s/it]win-rate: 72.93577981651376%, invalid-num: 54
+
+245it [1:29:11, 22.69s/it]246it [1:29:33, 22.73s/it]246it [1:29:33, 22.75s/it]246it [1:29:33, 22.77s/it]246it [1:29:33, 22.77s/it]246it [1:29:33, 22.77s/it]246it [1:29:33, 22.77s/it]win-rate: 72.93577981651376%, invalid-num: 56
+
+246it [1:29:33, 22.79s/it]246it [1:29:34, 22.75s/it]247it [1:30:05, 25.60s/it]247it [1:30:05, 25.60s/it]247it [1:30:06, 25.60s/it]247it [1:30:05, 25.61s/it]247it [1:30:06, 25.60s/it]win-rate: 73.0593607305936%, invalid-num: 56
+
+247it [1:30:06, 25.63s/it]247it [1:30:06, 25.63s/it]247it [1:30:06, 25.60s/it]248it [1:30:28, 24.69s/it]248it [1:30:28, 24.69s/it]248it [1:30:28, 24.69s/it]248it [1:30:28, 24.72s/it]248it [1:30:28, 24.73s/it]248it [1:30:28, 24.71s/it]248it [1:30:28, 24.71s/it]win-rate: 73.12072892938497%, invalid-num: 57
+
+248it [1:30:28, 24.71s/it]249it [1:30:52, 24.41s/it]249it [1:30:52, 24.43s/it]249it [1:30:52, 24.45s/it]249it [1:30:52, 24.47s/it]249it [1:30:52, 24.45s/it]249it [1:30:52, 24.48s/it]win-rate: 73.24263038548753%, invalid-num: 57
+
+249it [1:30:52, 24.51s/it]249it [1:30:52, 24.47s/it]250it [1:31:18, 24.87s/it]250it [1:31:18, 24.87s/it]250it [1:31:18, 24.88s/it]250it [1:31:18, 24.87s/it]250it [1:31:18, 24.88s/it]250it [1:31:18, 24.92s/it]250it [1:31:18, 24.91s/it]win-rate: 73.30316742081448%, invalid-num: 58
+
+250it [1:31:18, 24.91s/it]251it [1:31:39, 23.83s/it]251it [1:31:39, 23.84s/it]251it [1:31:39, 23.86s/it]251it [1:31:39, 23.84s/it]251it [1:31:39, 23.86s/it]251it [1:31:39, 23.84s/it]251it [1:31:39, 23.87s/it]win-rate: 73.42342342342343%, invalid-num: 58
+
+251it [1:31:40, 23.90s/it]252it [1:31:57, 21.95s/it]252it [1:31:57, 21.97s/it]252it [1:31:57, 21.98s/it]252it [1:31:57, 21.98s/it]252it [1:31:57, 21.97s/it]252it [1:31:57, 21.98s/it]252it [1:31:57, 21.98s/it]win-rate: 73.54260089686099%, invalid-num: 58
+
+252it [1:31:57, 21.97s/it]253it [1:32:25, 23.94s/it]253it [1:32:25, 23.94s/it]253it [1:32:26, 23.95s/it]253it [1:32:25, 23.96s/it]253it [1:32:26, 23.95s/it]253it [1:32:25, 23.96s/it]253it [1:32:26, 23.96s/it]win-rate: 73.4375%, invalid-num: 58
+
+253it [1:32:26, 23.98s/it]254it [1:32:50, 24.00s/it]254it [1:32:50, 24.01s/it]254it [1:32:50, 24.01s/it]254it [1:32:50, 24.03s/it]254it [1:32:50, 24.03s/it]254it [1:32:50, 24.02s/it]254it [1:32:50, 24.01s/it]win-rate: 73.33333333333333%, invalid-num: 58
+
+254it [1:32:50, 23.99s/it]255it [1:33:08, 22.19s/it]255it [1:33:08, 22.20s/it]255it [1:33:08, 22.20s/it]255it [1:33:08, 22.20s/it]255it [1:33:08, 22.20s/it]255it [1:33:08, 22.20s/it]255it [1:33:08, 22.21s/it]win-rate: 73.45132743362832%, invalid-num: 58
+
+255it [1:33:08, 22.18s/it]256it [1:33:32, 22.94s/it]256it [1:33:32, 22.95s/it]256it [1:33:32, 22.95s/it]256it [1:33:32, 22.95s/it]256it [1:33:32, 22.96s/it]256it [1:33:32, 22.96s/it]256it [1:33:32, 22.96s/it]win-rate: 73.34801762114537%, invalid-num: 58
+
+256it [1:33:33, 22.95s/it]257it [1:33:56, 23.09s/it]257it [1:33:56, 23.12s/it]257it [1:33:56, 23.14s/it]257it [1:33:56, 23.15s/it]257it [1:33:56, 23.13s/it]257it [1:33:56, 23.14s/it]257it [1:33:56, 23.14s/it]win-rate: 73.02631578947368%, invalid-num: 58
+
+257it [1:33:56, 23.13s/it]258it [1:34:18, 22.87s/it]258it [1:34:18, 22.90s/it]258it [1:34:18, 22.90s/it]258it [1:34:18, 22.89s/it]258it [1:34:18, 22.89s/it]258it [1:34:18, 22.90s/it]258it [1:34:18, 22.91s/it]win-rate: 72.92576419213974%, invalid-num: 58
+
+258it [1:34:19, 22.91s/it]259it [1:34:45, 23.92s/it]259it [1:34:45, 23.94s/it]259it [1:34:45, 23.94s/it]259it [1:34:45, 23.93s/it]259it [1:34:45, 23.94s/it]259it [1:34:45, 23.94s/it]259it [1:34:45, 23.95s/it]win-rate: 73.04347826086956%, invalid-num: 58
+
+259it [1:34:45, 23.97s/it]260it [1:35:10, 24.53s/it]260it [1:35:11, 24.55s/it]260it [1:35:11, 24.57s/it]260it [1:35:11, 24.58s/it]260it [1:35:11, 24.56s/it]260it [1:35:11, 24.57s/it]win-rate: 73.16017316017316%, invalid-num: 58
+
+260it [1:35:11, 24.58s/it]260it [1:35:11, 24.57s/it]261it [1:35:28, 22.35s/it]261it [1:35:28, 22.36s/it]261it [1:35:28, 22.36s/it]261it [1:35:28, 22.36s/it]261it [1:35:28, 22.35s/it]261it [1:35:28, 22.35s/it]261it [1:35:28, 22.37s/it]win-rate: 73.27586206896551%, invalid-num: 58
+
+261it [1:35:28, 22.33s/it]262it [1:35:55, 23.82s/it]262it [1:35:55, 23.83s/it]262it [1:35:55, 23.83s/it]win-rate: 73.39055793991416%, invalid-num: 58
+
+262it [1:35:55, 23.84s/it]262it [1:35:55, 23.84s/it]262it [1:35:55, 23.85s/it]262it [1:35:55, 23.85s/it]262it [1:35:55, 23.81s/it]263it [1:36:25, 25.66s/it]263it [1:36:25, 25.70s/it]263it [1:36:25, 25.70s/it]263it [1:36:25, 25.71s/it]263it [1:36:25, 25.70s/it]263it [1:36:25, 25.75s/it]263it [1:36:25, 25.76s/it]win-rate: 73.50427350427351%, invalid-num: 58
+
+263it [1:36:26, 25.99s/it]264it [1:36:46, 24.27s/it]264it [1:36:46, 24.29s/it]264it [1:36:46, 24.29s/it]264it [1:36:46, 24.30s/it]264it [1:36:46, 24.29s/it]win-rate: 73.40425531914893%, invalid-num: 58
+
+264it [1:36:46, 24.35s/it]264it [1:36:46, 24.33s/it]264it [1:36:47, 24.26s/it]265it [1:37:19, 26.86s/it]265it [1:37:19, 26.87s/it]265it [1:37:19, 26.92s/it]265it [1:37:19, 26.91s/it]win-rate: 73.51694915254238%, invalid-num: 58
+
+265it [1:37:19, 26.92s/it]265it [1:37:19, 26.91s/it]265it [1:37:19, 26.93s/it]265it [1:37:20, 26.85s/it]266it [1:37:45, 26.61s/it]266it [1:37:45, 26.60s/it]266it [1:37:45, 26.59s/it]266it [1:37:45, 26.60s/it]266it [1:37:45, 26.61s/it]266it [1:37:45, 26.61s/it]win-rate: 73.57293868921776%, invalid-num: 59
+
+266it [1:37:45, 26.65s/it]266it [1:37:45, 26.52s/it]267it [1:38:15, 27.62s/it]267it [1:38:15, 27.64s/it]267it [1:38:15, 27.65s/it]267it [1:38:15, 27.64s/it]267it [1:38:15, 27.64s/it]267it [1:38:15, 27.65s/it]267it [1:38:15, 27.65s/it]win-rate: 73.47368421052632%, invalid-num: 59
+
+267it [1:38:16, 27.66s/it]268it [1:38:41, 27.01s/it]268it [1:38:41, 27.00s/it]268it [1:38:41, 27.00s/it]268it [1:38:41, 27.02s/it]268it [1:38:41, 27.01s/it]268it [1:38:41, 27.02s/it]268it [1:38:41, 27.01s/it]win-rate: 73.58490566037736%, invalid-num: 59
+
+268it [1:38:41, 26.96s/it]269it [1:39:02, 25.44s/it]269it [1:39:03, 25.46s/it]269it [1:39:03, 25.46s/it]269it [1:39:03, 25.45s/it]269it [1:39:03, 25.46s/it]269it [1:39:03, 25.46s/it]269it [1:39:02, 25.46s/it]win-rate: 73.69519832985387%, invalid-num: 59
+
+269it [1:39:03, 25.46s/it]270it [1:39:36, 27.73s/it]270it [1:39:36, 27.73s/it]270it [1:39:36, 27.73s/it]win-rate: 73.5966735966736%, invalid-num: 59
+
+270it [1:39:36, 27.75s/it]270it [1:39:36, 27.76s/it]270it [1:39:36, 27.74s/it]270it [1:39:36, 27.75s/it]270it [1:39:36, 27.69s/it]271it [1:40:00, 26.63s/it]271it [1:40:00, 26.63s/it]271it [1:40:00, 26.61s/it]271it [1:40:00, 26.62s/it]271it [1:40:00, 26.62s/it]271it [1:40:00, 26.62s/it]271it [1:40:00, 26.62s/it]win-rate: 73.49896480331263%, invalid-num: 59
+
+271it [1:40:00, 26.58s/it]272it [1:40:30, 27.86s/it]272it [1:40:30, 27.87s/it]272it [1:40:30, 27.87s/it]272it [1:40:30, 27.88s/it]272it [1:40:31, 27.90s/it]272it [1:40:30, 27.90s/it]272it [1:40:31, 27.91s/it]win-rate: 73.19587628865979%, invalid-num: 59
+
+272it [1:40:31, 27.91s/it]273it [1:40:54, 26.43s/it]273it [1:40:54, 26.43s/it]273it [1:40:53, 26.43s/it]273it [1:40:54, 26.46s/it]273it [1:40:54, 26.46s/it]273it [1:40:54, 26.45s/it]273it [1:40:54, 26.46s/it]win-rate: 73.30595482546201%, invalid-num: 59
+
+273it [1:40:54, 26.43s/it]274it [1:41:24, 27.70s/it]274it [1:41:24, 27.72s/it]274it [1:41:24, 27.71s/it]274it [1:41:24, 27.72s/it]274it [1:41:24, 27.73s/it]274it [1:41:24, 27.73s/it]274it [1:41:24, 27.73s/it]win-rate: 73.00613496932516%, invalid-num: 59
+
+274it [1:41:25, 27.72s/it]275it [1:41:50, 27.23s/it]275it [1:41:50, 27.24s/it]275it [1:41:50, 27.24s/it]275it [1:41:50, 27.25s/it]275it [1:41:50, 27.25s/it]275it [1:41:50, 27.26s/it]275it [1:41:50, 27.27s/it]win-rate: 73.11608961303462%, invalid-num: 59
+
+275it [1:41:51, 27.25s/it]276it [1:42:11, 25.34s/it]276it [1:42:11, 25.33s/it]276it [1:42:11, 25.35s/it]276it [1:42:11, 25.33s/it]276it [1:42:11, 25.34s/it]276it [1:42:11, 25.34s/it]276it [1:42:11, 25.36s/it]win-rate: 73.22515212981745%, invalid-num: 59
+
+276it [1:42:12, 25.35s/it]277it [1:42:36, 25.19s/it]277it [1:42:36, 25.19s/it]277it [1:42:36, 25.20s/it]277it [1:42:36, 25.20s/it]277it [1:42:36, 25.22s/it]277it [1:42:36, 25.22s/it]277it [1:42:36, 25.22s/it]win-rate: 73.07692307692307%, invalid-num: 60
+
+277it [1:42:37, 25.26s/it]278it [1:43:01, 25.20s/it]278it [1:43:01, 25.23s/it]278it [1:43:01, 25.21s/it]278it [1:43:01, 25.21s/it]278it [1:43:01, 25.23s/it]win-rate: 72.98387096774194%, invalid-num: 60
+
+278it [1:43:01, 25.21s/it]278it [1:43:02, 25.27s/it]278it [1:43:02, 25.20s/it]279it [1:43:18, 22.65s/it]279it [1:43:18, 22.62s/it]279it [1:43:18, 22.64s/it]279it [1:43:18, 22.65s/it]279it [1:43:18, 22.64s/it]279it [1:43:18, 22.66s/it]win-rate: 73.09236947791165%, invalid-num: 60
+
+279it [1:43:18, 22.68s/it]279it [1:43:18, 22.61s/it]280it [1:43:45, 23.81s/it]280it [1:43:45, 23.84s/it]280it [1:43:45, 23.82s/it]280it [1:43:45, 23.83s/it]280it [1:43:45, 23.84s/it]280it [1:43:45, 23.84s/it]280it [1:43:45, 23.84s/it]win-rate: 72.8%, invalid-num: 60
+
+280it [1:43:45, 23.81s/it]281it [1:44:06, 23.22s/it]281it [1:44:06, 23.23s/it]281it [1:44:06, 23.23s/it]281it [1:44:06, 23.22s/it]281it [1:44:06, 23.22s/it]281it [1:44:06, 23.22s/it]281it [1:44:06, 23.23s/it]win-rate: 72.70916334661355%, invalid-num: 60
+
+281it [1:44:07, 23.21s/it]282it [1:44:33, 24.14s/it]282it [1:44:33, 24.21s/it]282it [1:44:33, 24.21s/it]282it [1:44:33, 24.20s/it]282it [1:44:33, 24.20s/it]282it [1:44:33, 24.20s/it]282it [1:44:33, 24.20s/it]win-rate: 72.61904761904762%, invalid-num: 60
+
+282it [1:44:33, 24.20s/it]283it [1:45:00, 24.95s/it]283it [1:45:00, 24.96s/it]283it [1:45:00, 24.97s/it]283it [1:45:00, 24.97s/it]283it [1:45:00, 24.97s/it]283it [1:45:00, 24.99s/it]win-rate: 72.67326732673267%, invalid-num: 61
+
+283it [1:45:00, 24.99s/it]283it [1:45:00, 24.98s/it]284it [1:45:24, 24.80s/it]284it [1:45:24, 24.81s/it]284it [1:45:24, 24.81s/it]284it [1:45:24, 24.84s/it]284it [1:45:24, 24.82s/it]284it [1:45:24, 24.83s/it]284it [1:45:24, 24.81s/it]win-rate: 72.7810650887574%, invalid-num: 61
+
+284it [1:45:25, 24.88s/it]285it [1:45:46, 23.82s/it]285it [1:45:46, 23.79s/it]285it [1:45:46, 23.81s/it]285it [1:45:46, 23.82s/it]285it [1:45:46, 23.82s/it]win-rate: 72.88801571709233%, invalid-num: 61
+
+285it [1:45:46, 23.85s/it]285it [1:45:46, 23.85s/it]285it [1:45:46, 23.78s/it]286it [1:46:10, 24.08s/it]286it [1:46:10, 24.09s/it]286it [1:46:10, 24.08s/it]win-rate: 72.79843444227005%, invalid-num: 61
+
+286it [1:46:10, 24.07s/it]286it [1:46:10, 24.07s/it]286it [1:46:10, 24.09s/it]286it [1:46:10, 24.09s/it]286it [1:46:11, 24.07s/it]287it [1:46:31, 23.15s/it]287it [1:46:31, 23.14s/it]287it [1:46:31, 23.15s/it]287it [1:46:31, 23.15s/it]287it [1:46:31, 23.15s/it]287it [1:46:31, 23.17s/it]287it [1:46:31, 23.15s/it]win-rate: 72.65625%, invalid-num: 62
+
+287it [1:46:32, 23.16s/it]288it [1:46:55, 23.18s/it]288it [1:46:55, 23.19s/it]288it [1:46:55, 23.18s/it]288it [1:46:55, 23.23s/it]288it [1:46:55, 23.21s/it]288it [1:46:55, 23.22s/it]win-rate: 72.76264591439688%, invalid-num: 62
+
+288it [1:46:55, 23.22s/it]288it [1:46:55, 23.22s/it]289it [1:47:18, 23.40s/it]289it [1:47:18, 23.39s/it]289it [1:47:19, 23.39s/it]289it [1:47:19, 23.40s/it]289it [1:47:19, 23.40s/it]289it [1:47:18, 23.40s/it]289it [1:47:18, 23.41s/it]win-rate: 72.67441860465115%, invalid-num: 62
+
+289it [1:47:19, 23.38s/it]290it [1:47:50, 25.76s/it]290it [1:47:50, 25.81s/it]290it [1:47:50, 25.82s/it]290it [1:47:50, 25.81s/it]290it [1:47:50, 25.81s/it]290it [1:47:50, 25.81s/it]290it [1:47:50, 25.81s/it]win-rate: 72.72727272727273%, invalid-num: 63
+
+290it [1:47:50, 25.84s/it]291it [1:48:15, 25.44s/it]291it [1:48:15, 25.47s/it]291it [1:48:15, 25.46s/it]291it [1:48:15, 25.46s/it]291it [1:48:15, 25.46s/it]291it [1:48:15, 25.46s/it]291it [1:48:15, 25.49s/it]win-rate: 72.77992277992279%, invalid-num: 64
+
+291it [1:48:15, 25.45s/it]292it [1:48:45, 26.97s/it]292it [1:48:45, 26.98s/it]292it [1:48:45, 26.99s/it]292it [1:48:45, 26.99s/it]292it [1:48:45, 26.99s/it]292it [1:48:45, 26.99s/it]292it [1:48:45, 26.99s/it]win-rate: 72.88461538461539%, invalid-num: 64
+
+292it [1:48:45, 26.99s/it]293it [1:49:06, 25.24s/it]win-rate: 72.93666026871402%, invalid-num: 65
+
+293it [1:49:06, 25.24s/it]293it [1:49:06, 25.22s/it]293it [1:49:06, 25.25s/it]293it [1:49:06, 25.23s/it]293it [1:49:06, 25.24s/it]293it [1:49:06, 25.26s/it]293it [1:49:07, 25.20s/it]294it [1:49:33, 25.66s/it]294it [1:49:33, 25.66s/it]294it [1:49:33, 25.67s/it]294it [1:49:33, 25.66s/it]294it [1:49:33, 25.67s/it]294it [1:49:33, 25.67s/it]294it [1:49:33, 25.68s/it]win-rate: 72.848948374761%, invalid-num: 65
+
+294it [1:49:33, 25.67s/it]295it [1:50:04, 27.32s/it]295it [1:50:04, 27.34s/it]295it [1:50:04, 27.35s/it]295it [1:50:04, 27.33s/it]295it [1:50:04, 27.34s/it]295it [1:50:04, 27.33s/it]win-rate: 72.90076335877863%, invalid-num: 66
+
+295it [1:50:04, 27.34s/it]295it [1:50:04, 27.31s/it]296it [1:50:28, 26.18s/it]296it [1:50:28, 26.18s/it]296it [1:50:28, 26.17s/it]296it [1:50:28, 26.17s/it]296it [1:50:28, 26.17s/it]296it [1:50:28, 26.18s/it]296it [1:50:28, 26.19s/it]win-rate: 73.00380228136882%, invalid-num: 66
+
+296it [1:50:28, 26.18s/it]297it [1:50:54, 26.18s/it]297it [1:50:54, 26.19s/it]297it [1:50:54, 26.19s/it]297it [1:50:54, 26.18s/it]297it [1:50:54, 26.18s/it]297it [1:50:54, 26.19s/it]297it [1:50:54, 26.19s/it]win-rate: 73.10606060606061%, invalid-num: 66
+
+297it [1:50:54, 26.19s/it]298it [1:51:15, 24.66s/it]298it [1:51:15, 24.67s/it]298it [1:51:15, 24.65s/it]298it [1:51:15, 24.65s/it]298it [1:51:15, 24.66s/it]298it [1:51:15, 24.66s/it]win-rate: 72.83018867924528%, invalid-num: 66
+
+298it [1:51:15, 24.72s/it]298it [1:51:15, 24.64s/it]299it [1:51:34, 22.89s/it]299it [1:51:34, 22.88s/it]299it [1:51:34, 22.89s/it]299it [1:51:34, 22.89s/it]299it [1:51:34, 22.90s/it]299it [1:51:34, 22.89s/it]299it [1:51:34, 22.90s/it]win-rate: 72.74436090225564%, invalid-num: 66
+
+299it [1:51:34, 22.91s/it]300it [1:51:57, 22.90s/it]300it [1:51:57, 22.89s/it]300it [1:51:57, 22.89s/it]300it [1:51:57, 22.89s/it]300it [1:51:57, 22.90s/it]300it [1:51:57, 22.90s/it]300it [1:51:57, 22.91s/it]win-rate: 72.84644194756554%, invalid-num: 66
+
+300it [1:51:57, 22.88s/it]301it [1:52:18, 22.47s/it]301it [1:52:18, 22.51s/it]301it [1:52:18, 22.52s/it]301it [1:52:18, 22.51s/it]301it [1:52:18, 22.51s/it]301it [1:52:18, 22.51s/it]301it [1:52:18, 22.51s/it]win-rate: 72.94776119402985%, invalid-num: 66
+
+301it [1:52:19, 22.55s/it]302it [1:52:40, 22.17s/it]302it [1:52:40, 22.16s/it]win-rate: 73.04832713754647%, invalid-num: 66
+
+302it [1:52:40, 22.18s/it]302it [1:52:40, 22.19s/it]302it [1:52:40, 22.20s/it]302it [1:52:40, 22.20s/it]302it [1:52:40, 22.21s/it]302it [1:52:40, 22.16s/it]303it [1:53:14, 25.74s/it]303it [1:53:14, 25.76s/it]303it [1:53:14, 25.75s/it]303it [1:53:14, 25.75s/it]303it [1:53:14, 25.76s/it]303it [1:53:14, 25.77s/it]303it [1:53:14, 25.77s/it]win-rate: 73.09833024118738%, invalid-num: 67
+
+303it [1:53:14, 25.79s/it]304it [1:53:37, 24.95s/it]304it [1:53:37, 24.96s/it]304it [1:53:37, 24.99s/it]304it [1:53:37, 24.99s/it]304it [1:53:37, 24.97s/it]304it [1:53:37, 24.98s/it]304it [1:53:37, 24.98s/it]win-rate: 73.19778188539742%, invalid-num: 67
+
+304it [1:53:38, 25.16s/it]305it [1:53:59, 24.00s/it]305it [1:53:59, 24.05s/it]305it [1:53:59, 24.04s/it]305it [1:53:59, 24.03s/it]305it [1:53:59, 24.04s/it]305it [1:53:59, 24.04s/it]305it [1:53:59, 24.05s/it]win-rate: 73.06273062730627%, invalid-num: 68
+
+305it [1:53:59, 23.99s/it]306it [1:54:37, 28.25s/it]306it [1:54:37, 28.27s/it]306it [1:54:37, 28.28s/it]win-rate: 72.97794117647058%, invalid-num: 68
+
+306it [1:54:37, 28.31s/it]306it [1:54:37, 28.29s/it]306it [1:54:37, 28.29s/it]306it [1:54:37, 28.30s/it]306it [1:54:37, 28.21s/it]307it [1:54:57, 25.92s/it]307it [1:54:57, 25.94s/it]307it [1:54:57, 25.93s/it]307it [1:54:57, 25.92s/it]307it [1:54:57, 25.95s/it]307it [1:54:58, 25.95s/it]307it [1:54:58, 25.97s/it]win-rate: 73.07692307692307%, invalid-num: 68
+
+307it [1:54:58, 25.94s/it]308it [1:55:27, 26.94s/it]308it [1:55:27, 26.98s/it]308it [1:55:27, 26.95s/it]win-rate: 73.17518248175182%, invalid-num: 68
+
+308it [1:55:27, 26.98s/it]308it [1:55:27, 26.96s/it]308it [1:55:27, 26.97s/it]308it [1:55:27, 27.02s/it]308it [1:55:27, 26.92s/it]309it [1:55:51, 26.10s/it]309it [1:55:51, 26.12s/it]309it [1:55:51, 26.13s/it]309it [1:55:51, 26.12s/it]309it [1:55:51, 26.15s/it]309it [1:55:51, 26.12s/it]309it [1:55:51, 26.12s/it]win-rate: 73.27272727272728%, invalid-num: 68
+
+309it [1:55:51, 26.11s/it]310it [1:56:12, 24.57s/it]310it [1:56:12, 24.57s/it]310it [1:56:12, 24.61s/it]310it [1:56:12, 24.59s/it]310it [1:56:12, 24.60s/it]310it [1:56:12, 24.60s/it]310it [1:56:12, 24.61s/it]win-rate: 73.18840579710145%, invalid-num: 68
+
+310it [1:56:12, 24.60s/it]311it [1:56:30, 22.68s/it]311it [1:56:30, 22.68s/it]311it [1:56:30, 22.70s/it]311it [1:56:30, 22.69s/it]311it [1:56:30, 22.70s/it]311it [1:56:30, 22.71s/it]311it [1:56:30, 22.71s/it]win-rate: 73.28519855595668%, invalid-num: 68
+
+311it [1:56:30, 22.68s/it]312it [1:56:52, 22.38s/it]312it [1:56:52, 22.38s/it]312it [1:56:52, 22.39s/it]312it [1:56:52, 22.38s/it]312it [1:56:52, 22.38s/it]312it [1:56:52, 22.38s/it]312it [1:56:52, 22.38s/it]win-rate: 73.38129496402878%, invalid-num: 68
+
+312it [1:56:52, 22.40s/it]313it [1:57:15, 22.56s/it]313it [1:57:15, 22.63s/it]313it [1:57:15, 22.61s/it]313it [1:57:15, 22.64s/it]313it [1:57:15, 22.62s/it]313it [1:57:15, 22.62s/it]313it [1:57:15, 22.63s/it]win-rate: 73.47670250896059%, invalid-num: 68
+
+313it [1:57:15, 22.62s/it]314it [1:57:39, 22.89s/it]314it [1:57:39, 22.89s/it]314it [1:57:39, 22.89s/it]314it [1:57:39, 22.91s/it]314it [1:57:39, 22.89s/it]314it [1:57:39, 22.91s/it]314it [1:57:39, 22.90s/it]win-rate: 73.57142857142858%, invalid-num: 68
+
+314it [1:57:39, 22.89s/it]315it [1:57:58, 21.86s/it]315it [1:57:58, 21.86s/it]315it [1:57:58, 21.85s/it]315it [1:57:58, 21.86s/it]315it [1:57:58, 21.86s/it]315it [1:57:58, 21.86s/it]315it [1:57:58, 21.87s/it]win-rate: 73.66548042704626%, invalid-num: 68
+
+315it [1:57:58, 21.87s/it]316it [1:58:14, 20.24s/it]316it [1:58:15, 20.24s/it]316it [1:58:15, 20.26s/it]316it [1:58:15, 20.27s/it]316it [1:58:15, 20.25s/it]316it [1:58:15, 20.25s/it]316it [1:58:15, 20.25s/it]win-rate: 73.75886524822694%, invalid-num: 68
+
+316it [1:58:15, 20.25s/it]win-rate: 73.80530973451327%, invalid-num: 69
+
+317it [1:58:39, 21.40s/it]317it [1:58:39, 21.39s/it]317it [1:58:39, 21.41s/it]317it [1:58:39, 21.43s/it]317it [1:58:39, 21.44s/it]317it [1:58:39, 21.44s/it]317it [1:58:39, 21.49s/it]317it [1:58:39, 21.54s/it]318it [1:59:06, 23.31s/it]318it [1:59:06, 23.30s/it]318it [1:59:06, 23.32s/it]318it [1:59:06, 23.29s/it]318it [1:59:06, 23.32s/it]318it [1:59:06, 23.31s/it]318it [1:59:06, 23.32s/it]win-rate: 73.89770723104057%, invalid-num: 69
+
+318it [1:59:07, 23.29s/it]319it [1:59:36, 25.33s/it]319it [1:59:37, 25.38s/it]319it [1:59:37, 25.40s/it]319it [1:59:37, 25.39s/it]319it [1:59:37, 25.39s/it]319it [1:59:37, 25.40s/it]319it [1:59:37, 25.37s/it]win-rate: 73.98945518453426%, invalid-num: 69
+
+319it [1:59:37, 25.36s/it]320it [1:59:56, 23.61s/it]320it [1:59:56, 23.62s/it]320it [1:59:56, 23.62s/it]320it [1:59:56, 23.63s/it]320it [1:59:56, 23.61s/it]320it [1:59:56, 23.62s/it]320it [1:59:56, 23.64s/it]win-rate: 74.03508771929825%, invalid-num: 70
+
+320it [1:59:57, 23.65s/it]321it [2:00:20, 23.75s/it]321it [2:00:20, 23.77s/it]321it [2:00:20, 23.77s/it]321it [2:00:20, 23.78s/it]321it [2:00:20, 23.77s/it]321it [2:00:20, 23.79s/it]321it [2:00:20, 23.79s/it]win-rate: 74.12587412587412%, invalid-num: 70
+
+321it [2:00:21, 23.77s/it]322it [2:00:44, 23.65s/it]322it [2:00:44, 23.68s/it]322it [2:00:44, 23.66s/it]322it [2:00:44, 23.67s/it]322it [2:00:44, 23.69s/it]322it [2:00:44, 23.69s/it]322it [2:00:44, 23.67s/it]win-rate: 74.17102966841188%, invalid-num: 71
+
+322it [2:00:44, 23.67s/it]323it [2:01:02, 22.13s/it]323it [2:01:02, 22.14s/it]323it [2:01:02, 22.13s/it]323it [2:01:02, 22.15s/it]323it [2:01:02, 22.14s/it]323it [2:01:02, 22.15s/it]323it [2:01:02, 22.16s/it]win-rate: 74.26086956521739%, invalid-num: 71
+
+323it [2:01:03, 22.16s/it]324it [2:01:31, 24.25s/it]324it [2:01:31, 24.24s/it]324it [2:01:32, 24.26s/it]324it [2:01:32, 24.28s/it]324it [2:01:31, 24.28s/it]324it [2:01:32, 24.27s/it]324it [2:01:32, 24.27s/it]win-rate: 74.35008665511266%, invalid-num: 71
+
+324it [2:01:32, 24.25s/it]325it [2:01:59, 25.20s/it]325it [2:01:59, 25.21s/it]325it [2:01:59, 25.19s/it]325it [2:01:59, 25.23s/it]325it [2:01:59, 25.22s/it]325it [2:01:59, 25.22s/it]325it [2:01:59, 25.21s/it]win-rate: 74.39446366782006%, invalid-num: 72
+
+325it [2:01:59, 25.19s/it]326it [2:02:25, 25.43s/it]326it [2:02:25, 25.43s/it]326it [2:02:25, 25.42s/it]326it [2:02:25, 25.43s/it]326it [2:02:25, 25.43s/it]326it [2:02:25, 25.43s/it]win-rate: 74.3103448275862%, invalid-num: 72
+
+326it [2:02:25, 25.46s/it]326it [2:02:25, 25.47s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.62 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+327it [2:02:49, 25.08s/it]327it [2:02:49, 25.07s/it]327it [2:02:49, 25.08s/it]327it [2:02:49, 25.08s/it]327it [2:02:49, 25.10s/it]327it [2:02:49, 25.10s/it]327it [2:02:49, 25.10s/it]win-rate: 74.39862542955326%, invalid-num: 72
+
+327it [2:02:49, 25.04s/it]328it [2:03:16, 25.59s/it]328it [2:03:16, 25.57s/it]328it [2:03:16, 25.58s/it]328it [2:03:16, 25.59s/it]328it [2:03:16, 25.60s/it]328it [2:03:16, 25.61s/it]win-rate: 74.44253859348198%, invalid-num: 73
+
+328it [2:03:16, 25.66s/it]328it [2:03:16, 25.57s/it]329it [2:03:38, 24.58s/it]329it [2:03:38, 24.58s/it]329it [2:03:38, 24.60s/it]win-rate: 74.52991452991454%, invalid-num: 73
+
+329it [2:03:38, 24.62s/it]329it [2:03:38, 24.61s/it]329it [2:03:38, 24.61s/it]329it [2:03:38, 24.66s/it]329it [2:03:39, 24.72s/it]330it [2:03:55, 22.22s/it]330it [2:03:55, 22.22s/it]330it [2:03:55, 22.20s/it]330it [2:03:55, 22.21s/it]330it [2:03:55, 22.22s/it]330it [2:03:55, 22.23s/it]330it [2:03:55, 22.23s/it]win-rate: 74.61669505962521%, invalid-num: 73
+
+330it [2:03:55, 22.18s/it]331it [2:04:15, 21.45s/it]331it [2:04:15, 21.45s/it]331it [2:04:15, 21.48s/it]331it [2:04:15, 21.47s/it]331it [2:04:15, 21.46s/it]331it [2:04:15, 21.49s/it]331it [2:04:15, 21.50s/it]win-rate: 74.70288624787777%, invalid-num: 73
+
+331it [2:04:15, 21.44s/it]332it [2:04:42, 23.16s/it]332it [2:04:42, 23.18s/it]332it [2:04:42, 23.19s/it]332it [2:04:42, 23.20s/it]332it [2:04:42, 23.19s/it]win-rate: 74.78849407783417%, invalid-num: 73
+
+332it [2:04:42, 23.22s/it]332it [2:04:42, 23.26s/it]332it [2:04:42, 23.21s/it]win-rate: 74.87352445193929%, invalid-num: 73
+
+333it [2:05:09, 24.46s/it]333it [2:05:09, 24.44s/it]333it [2:05:09, 24.46s/it]333it [2:05:09, 24.46s/it]333it [2:05:09, 24.49s/it]333it [2:05:09, 24.48s/it]333it [2:05:09, 24.52s/it]333it [2:05:09, 24.40s/it]334it [2:05:33, 24.18s/it]334it [2:05:33, 24.20s/it]334it [2:05:33, 24.19s/it]334it [2:05:33, 24.20s/it]334it [2:05:33, 24.20s/it]334it [2:05:33, 24.19s/it]win-rate: 74.95798319327731%, invalid-num: 73
+
+334it [2:05:33, 24.24s/it]334it [2:05:33, 24.19s/it]335it [2:05:58, 24.42s/it]335it [2:05:58, 24.47s/it]335it [2:05:58, 24.46s/it]335it [2:05:58, 24.48s/it]335it [2:05:58, 24.47s/it]win-rate: 75.04187604690117%, invalid-num: 73
+
+335it [2:05:58, 24.49s/it]335it [2:05:58, 24.50s/it]335it [2:05:58, 24.46s/it]336it [2:06:21, 23.89s/it]336it [2:06:21, 23.90s/it]336it [2:06:21, 23.90s/it]336it [2:06:21, 23.92s/it]336it [2:06:21, 23.92s/it]336it [2:06:21, 23.90s/it]336it [2:06:21, 23.92s/it]win-rate: 75.12520868113522%, invalid-num: 73
+
+336it [2:06:21, 23.91s/it]337it [2:06:41, 22.99s/it]337it [2:06:41, 23.01s/it]337it [2:06:41, 23.01s/it]337it [2:06:41, 23.00s/it]337it [2:06:42, 23.01s/it]337it [2:06:41, 23.01s/it]337it [2:06:42, 23.02s/it]win-rate: 75.20798668885192%, invalid-num: 73
+
+337it [2:06:42, 23.03s/it]338it [2:06:59, 21.51s/it]338it [2:06:59, 21.52s/it]338it [2:07:00, 21.55s/it]338it [2:07:00, 21.54s/it]338it [2:07:00, 21.54s/it]338it [2:07:00, 21.54s/it]338it [2:07:00, 21.55s/it]win-rate: 75.24916943521595%, invalid-num: 74
+
+338it [2:07:00, 21.55s/it]339it [2:07:28, 23.63s/it]339it [2:07:28, 23.64s/it]339it [2:07:28, 23.68s/it]339it [2:07:28, 23.69s/it]win-rate: 75.33112582781457%, invalid-num: 74
+
+339it [2:07:28, 23.68s/it]339it [2:07:28, 23.68s/it]339it [2:07:28, 23.70s/it]339it [2:07:29, 23.70s/it]340it [2:08:02, 26.67s/it]340it [2:08:02, 26.68s/it]340it [2:08:02, 26.69s/it]340it [2:08:02, 26.67s/it]win-rate: 75.37190082644628%, invalid-num: 75
+
+340it [2:08:02, 26.69s/it]340it [2:08:02, 26.71s/it]340it [2:08:02, 26.73s/it]340it [2:08:02, 26.65s/it]341it [2:08:21, 24.34s/it]341it [2:08:21, 24.35s/it]341it [2:08:21, 24.34s/it]341it [2:08:21, 24.34s/it]341it [2:08:21, 24.36s/it]341it [2:08:21, 24.34s/it]341it [2:08:21, 24.37s/it]win-rate: 75.45304777594728%, invalid-num: 75
+
+341it [2:08:21, 24.35s/it]342it [2:08:51, 26.16s/it]342it [2:08:51, 26.21s/it]342it [2:08:51, 26.24s/it]win-rate: 75.49342105263158%, invalid-num: 76
+
+342it [2:08:51, 26.23s/it]342it [2:08:51, 26.21s/it]342it [2:08:52, 26.25s/it]342it [2:08:52, 26.26s/it]342it [2:08:52, 26.19s/it]343it [2:09:20, 27.06s/it]343it [2:09:20, 27.06s/it]343it [2:09:20, 27.07s/it]343it [2:09:20, 27.05s/it]343it [2:09:20, 27.05s/it]343it [2:09:20, 27.06s/it]343it [2:09:20, 27.07s/it]win-rate: 75.40983606557377%, invalid-num: 76
+
+343it [2:09:21, 27.07s/it]344it [2:09:44, 25.97s/it]344it [2:09:44, 25.98s/it]344it [2:09:44, 25.98s/it]344it [2:09:44, 25.99s/it]344it [2:09:44, 25.98s/it]344it [2:09:44, 26.00s/it]344it [2:09:44, 25.99s/it]win-rate: 75.49019607843137%, invalid-num: 76
+
+344it [2:09:44, 25.99s/it]345it [2:10:10, 26.06s/it]345it [2:10:10, 26.06s/it]345it [2:10:10, 26.10s/it]345it [2:10:10, 26.08s/it]345it [2:10:10, 26.08s/it]345it [2:10:10, 26.08s/it]345it [2:10:10, 26.09s/it]win-rate: 75.4071661237785%, invalid-num: 76
+
+345it [2:10:11, 26.08s/it]346it [2:10:35, 25.67s/it]346it [2:10:35, 25.69s/it]346it [2:10:35, 25.69s/it]346it [2:10:35, 25.69s/it]346it [2:10:35, 25.69s/it]win-rate: 75.32467532467533%, invalid-num: 76
+
+346it [2:10:35, 25.71s/it]346it [2:10:35, 25.70s/it]346it [2:10:35, 25.72s/it]347it [2:10:54, 23.64s/it]347it [2:10:54, 23.65s/it]347it [2:10:54, 23.65s/it]347it [2:10:54, 23.65s/it]347it [2:10:54, 23.67s/it]347it [2:10:54, 23.66s/it]347it [2:10:54, 23.65s/it]win-rate: 75.08090614886731%, invalid-num: 76
+
+347it [2:10:54, 23.66s/it]348it [2:11:22, 24.96s/it]348it [2:11:22, 24.96s/it]348it [2:11:22, 24.98s/it]348it [2:11:22, 25.00s/it]win-rate: 75.16129032258064%, invalid-num: 76
+
+348it [2:11:22, 24.98s/it]348it [2:11:22, 24.98s/it]348it [2:11:22, 24.98s/it]348it [2:11:22, 24.97s/it]349it [2:11:45, 24.47s/it]349it [2:11:45, 24.46s/it]349it [2:11:45, 24.46s/it]349it [2:11:45, 24.47s/it]349it [2:11:45, 24.47s/it]349it [2:11:45, 24.47s/it]349it [2:11:45, 24.47s/it]win-rate: 74.91961414790997%, invalid-num: 76
+
+349it [2:11:46, 24.54s/it]350it [2:12:06, 23.23s/it]350it [2:12:06, 23.24s/it]350it [2:12:06, 23.28s/it]350it [2:12:06, 23.27s/it]350it [2:12:06, 23.26s/it]350it [2:12:06, 23.26s/it]350it [2:12:06, 23.26s/it]win-rate: 75.0%, invalid-num: 76
+
+350it [2:12:06, 23.25s/it]351it [2:12:32, 24.22s/it]351it [2:12:32, 24.21s/it]351it [2:12:32, 24.22s/it]351it [2:12:32, 24.21s/it]351it [2:12:32, 24.22s/it]351it [2:12:32, 24.23s/it]351it [2:12:32, 24.23s/it]win-rate: 74.92012779552716%, invalid-num: 76
+
+351it [2:12:32, 24.21s/it]352it [2:12:52, 22.86s/it]352it [2:12:52, 22.86s/it]352it [2:12:52, 22.87s/it]352it [2:12:52, 22.88s/it]352it [2:12:52, 22.89s/it]352it [2:12:52, 22.88s/it]352it [2:12:52, 22.88s/it]win-rate: 75.0%, invalid-num: 76
+
+352it [2:12:52, 22.86s/it]353it [2:13:16, 23.39s/it]353it [2:13:17, 23.41s/it]353it [2:13:17, 23.40s/it]353it [2:13:17, 23.42s/it]353it [2:13:17, 23.41s/it]353it [2:13:17, 23.41s/it]353it [2:13:17, 23.41s/it]win-rate: 74.92063492063492%, invalid-num: 76
+
+353it [2:13:17, 23.41s/it]354it [2:13:43, 24.26s/it]354it [2:13:43, 24.27s/it]354it [2:13:43, 24.26s/it]354it [2:13:43, 24.27s/it]win-rate: 74.84177215189874%, invalid-num: 76
+
+354it [2:13:43, 24.29s/it]354it [2:13:43, 24.29s/it]354it [2:13:43, 24.28s/it]354it [2:13:43, 24.27s/it]355it [2:14:10, 25.01s/it]355it [2:14:10, 25.02s/it]355it [2:14:10, 25.02s/it]355it [2:14:10, 25.02s/it]355it [2:14:10, 25.03s/it]355it [2:14:10, 25.03s/it]355it [2:14:10, 25.03s/it]win-rate: 74.9211356466877%, invalid-num: 76
+
+355it [2:14:10, 25.04s/it]356it [2:14:31, 23.81s/it]356it [2:14:31, 23.81s/it]356it [2:14:31, 23.81s/it]356it [2:14:31, 23.82s/it]356it [2:14:31, 23.82s/it]356it [2:14:31, 23.85s/it]win-rate: 75.0%, invalid-num: 76
+
+356it [2:14:31, 23.86s/it]356it [2:14:31, 23.79s/it]357it [2:14:51, 22.64s/it]357it [2:14:51, 22.67s/it]357it [2:14:51, 22.67s/it]357it [2:14:51, 22.67s/it]357it [2:14:51, 22.67s/it]357it [2:14:51, 22.68s/it]357it [2:14:51, 22.68s/it]win-rate: 75.07836990595611%, invalid-num: 76
+
+357it [2:14:51, 22.67s/it]358it [2:15:12, 22.30s/it]358it [2:15:12, 22.31s/it]358it [2:15:12, 22.31s/it]358it [2:15:12, 22.33s/it]358it [2:15:12, 22.32s/it]358it [2:15:12, 22.34s/it]win-rate: 75.15625%, invalid-num: 76
+
+358it [2:15:12, 22.36s/it]358it [2:15:12, 22.31s/it]359it [2:15:41, 24.22s/it]359it [2:15:41, 24.22s/it]359it [2:15:41, 24.23s/it]359it [2:15:41, 24.23s/it]359it [2:15:41, 24.22s/it]359it [2:15:41, 24.24s/it]win-rate: 75.23364485981308%, invalid-num: 76
+
+359it [2:15:41, 24.24s/it]359it [2:15:41, 24.23s/it]360it [2:16:00, 22.87s/it]360it [2:16:00, 22.88s/it]360it [2:16:01, 22.86s/it]360it [2:16:00, 22.87s/it]360it [2:16:01, 22.88s/it]360it [2:16:01, 22.90s/it]win-rate: 75.27216174183515%, invalid-num: 77
+
+360it [2:16:01, 22.93s/it]360it [2:16:01, 22.87s/it]361it [2:16:26, 23.68s/it]361it [2:16:26, 23.70s/it]361it [2:16:26, 23.69s/it]361it [2:16:26, 23.70s/it]361it [2:16:26, 23.69s/it]361it [2:16:26, 23.71s/it]361it [2:16:26, 23.70s/it]win-rate: 75.34883720930232%, invalid-num: 77
+
+361it [2:16:26, 23.70s/it]362it [2:16:48, 23.07s/it]362it [2:16:48, 23.06s/it]362it [2:16:48, 23.06s/it]362it [2:16:48, 23.07s/it]362it [2:16:48, 23.09s/it]win-rate: 75.42503863987635%, invalid-num: 77
+
+362it [2:16:48, 23.09s/it]362it [2:16:48, 23.10s/it]362it [2:16:48, 23.06s/it]363it [2:17:08, 22.30s/it]363it [2:17:08, 22.28s/it]363it [2:17:08, 22.31s/it]363it [2:17:08, 22.30s/it]363it [2:17:08, 22.30s/it]363it [2:17:08, 22.29s/it]363it [2:17:08, 22.31s/it]win-rate: 75.346687211094%, invalid-num: 77
+
+363it [2:17:09, 22.33s/it]364it [2:17:33, 22.99s/it]364it [2:17:33, 23.01s/it]364it [2:17:33, 23.00s/it]364it [2:17:33, 23.01s/it]364it [2:17:33, 23.01s/it]364it [2:17:33, 23.01s/it]364it [2:17:33, 23.01s/it]win-rate: 75.42242703533026%, invalid-num: 77
+
+364it [2:17:33, 23.02s/it]365it [2:17:55, 22.62s/it]365it [2:17:55, 22.64s/it]365it [2:17:55, 22.66s/it]365it [2:17:55, 22.66s/it]365it [2:17:55, 22.68s/it]365it [2:17:55, 22.66s/it]365it [2:17:55, 22.67s/it]win-rate: 75.49770290964778%, invalid-num: 77
+
+365it [2:17:55, 22.68s/it]366it [2:18:25, 25.08s/it]366it [2:18:25, 25.09s/it]366it [2:18:25, 25.08s/it]366it [2:18:26, 25.09s/it]366it [2:18:26, 25.10s/it]366it [2:18:26, 25.11s/it]366it [2:18:26, 25.10s/it]win-rate: 75.53516819571865%, invalid-num: 78
+
+366it [2:18:26, 25.10s/it]367it [2:18:49, 24.74s/it]367it [2:18:49, 24.73s/it]367it [2:18:49, 24.73s/it]367it [2:18:49, 24.75s/it]367it [2:18:49, 24.74s/it]367it [2:18:49, 24.73s/it]win-rate: 75.60975609756098%, invalid-num: 78
+
+367it [2:18:49, 24.76s/it]367it [2:18:50, 24.72s/it]368it [2:19:16, 25.20s/it]368it [2:19:16, 25.22s/it]368it [2:19:16, 25.25s/it]368it [2:19:16, 25.25s/it]368it [2:19:16, 25.24s/it]368it [2:19:16, 25.25s/it]368it [2:19:16, 25.24s/it]win-rate: 75.53191489361703%, invalid-num: 78
+
+368it [2:19:16, 25.21s/it]369it [2:19:40, 24.94s/it]369it [2:19:40, 24.95s/it]369it [2:19:40, 24.96s/it]369it [2:19:40, 24.98s/it]369it [2:19:40, 24.98s/it]369it [2:19:40, 24.98s/it]369it [2:19:40, 24.98s/it]win-rate: 75.60606060606061%, invalid-num: 78
+
+369it [2:19:40, 24.95s/it]370it [2:19:58, 22.87s/it]370it [2:19:58, 22.89s/it]370it [2:19:58, 22.89s/it]370it [2:19:58, 22.90s/it]370it [2:19:58, 22.90s/it]370it [2:19:58, 22.92s/it]370it [2:19:58, 22.90s/it]win-rate: 75.67975830815709%, invalid-num: 78
+
+370it [2:19:59, 22.91s/it]371it [2:20:23, 23.46s/it]371it [2:20:23, 23.47s/it]371it [2:20:23, 23.50s/it]371it [2:20:23, 23.51s/it]371it [2:20:23, 23.49s/it]371it [2:20:23, 23.49s/it]371it [2:20:23, 23.49s/it]win-rate: 75.75301204819277%, invalid-num: 78
+
+371it [2:20:23, 23.49s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.88 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+372it [2:20:49, 24.18s/it]372it [2:20:49, 24.22s/it]372it [2:20:49, 24.21s/it]372it [2:20:49, 24.21s/it]372it [2:20:49, 24.22s/it]372it [2:20:49, 24.23s/it]372it [2:20:49, 24.22s/it]win-rate: 75.67567567567568%, invalid-num: 78
+
+372it [2:20:49, 24.23s/it]373it [2:21:18, 25.67s/it]373it [2:21:18, 25.67s/it]373it [2:21:18, 25.66s/it]373it [2:21:18, 25.70s/it]373it [2:21:18, 25.68s/it]373it [2:21:18, 25.68s/it]373it [2:21:18, 25.68s/it]win-rate: 75.74850299401199%, invalid-num: 78
+
+373it [2:21:18, 25.66s/it]374it [2:21:39, 24.37s/it]374it [2:21:39, 24.37s/it]374it [2:21:39, 24.39s/it]374it [2:21:39, 24.37s/it]374it [2:21:39, 24.40s/it]374it [2:21:40, 24.38s/it]374it [2:21:39, 24.38s/it]win-rate: 75.82089552238806%, invalid-num: 78
+
+374it [2:21:40, 24.38s/it]375it [2:22:08, 25.68s/it]375it [2:22:08, 25.68s/it]375it [2:22:08, 25.69s/it]375it [2:22:08, 25.69s/it]375it [2:22:08, 25.69s/it]375it [2:22:08, 25.70s/it]375it [2:22:08, 25.70s/it]win-rate: 75.89285714285714%, invalid-num: 78
+
+375it [2:22:09, 25.76s/it]376it [2:22:26, 23.32s/it]376it [2:22:26, 23.33s/it]376it [2:22:26, 23.36s/it]376it [2:22:26, 23.34s/it]376it [2:22:26, 23.35s/it]376it [2:22:26, 23.35s/it]376it [2:22:26, 23.35s/it]win-rate: 75.8160237388724%, invalid-num: 78
+
+376it [2:22:27, 23.38s/it]377it [2:22:55, 25.18s/it]win-rate: 75.88757396449705%, invalid-num: 78
+
+377it [2:22:55, 25.18s/it]377it [2:22:56, 25.19s/it]377it [2:22:56, 25.18s/it]377it [2:22:56, 25.18s/it]377it [2:22:56, 25.19s/it]377it [2:22:56, 25.20s/it]377it [2:22:56, 25.10s/it]378it [2:23:23, 25.96s/it]378it [2:23:23, 25.99s/it]378it [2:23:23, 25.99s/it]378it [2:23:23, 25.98s/it]378it [2:23:23, 26.00s/it]378it [2:23:23, 26.01s/it]378it [2:23:24, 26.00s/it]win-rate: 75.81120943952803%, invalid-num: 78
+
+378it [2:23:24, 25.98s/it]379it [2:23:42, 23.80s/it]379it [2:23:42, 23.82s/it]379it [2:23:42, 23.82s/it]379it [2:23:42, 23.83s/it]379it [2:23:42, 23.85s/it]379it [2:23:42, 23.86s/it]379it [2:23:42, 23.83s/it]win-rate: 75.88235294117646%, invalid-num: 78
+
+379it [2:23:42, 23.80s/it]380it [2:24:01, 22.43s/it]380it [2:24:01, 22.46s/it]380it [2:24:02, 22.48s/it]380it [2:24:02, 22.49s/it]380it [2:24:01, 22.49s/it]380it [2:24:02, 22.48s/it]win-rate: 75.80645161290323%, invalid-num: 78
+
+380it [2:24:02, 22.55s/it]380it [2:24:02, 22.48s/it]381it [2:24:23, 22.29s/it]381it [2:24:23, 22.30s/it]381it [2:24:23, 22.31s/it]381it [2:24:23, 22.29s/it]381it [2:24:23, 22.32s/it]381it [2:24:23, 22.31s/it]381it [2:24:23, 22.32s/it]win-rate: 75.87719298245614%, invalid-num: 78
+
+381it [2:24:24, 22.35s/it]382it [2:24:48, 23.10s/it]382it [2:24:49, 23.16s/it]382it [2:24:49, 23.15s/it]382it [2:24:49, 23.18s/it]382it [2:24:49, 23.16s/it]win-rate: 75.94752186588921%, invalid-num: 78
+
+382it [2:24:49, 23.18s/it]382it [2:24:49, 23.21s/it]382it [2:24:49, 23.15s/it]383it [2:25:10, 22.74s/it]383it [2:25:11, 22.77s/it]383it [2:25:10, 22.79s/it]383it [2:25:10, 22.77s/it]383it [2:25:11, 22.78s/it]383it [2:25:10, 22.81s/it]383it [2:25:11, 22.77s/it]win-rate: 75.9825327510917%, invalid-num: 79
+
+383it [2:25:11, 22.76s/it]384it [2:25:40, 24.72s/it]384it [2:25:40, 24.78s/it]384it [2:25:40, 24.76s/it]384it [2:25:40, 24.78s/it]384it [2:25:40, 24.76s/it]384it [2:25:40, 24.76s/it]384it [2:25:40, 24.77s/it]win-rate: 76.01744186046511%, invalid-num: 80
+
+384it [2:25:40, 24.76s/it]385it [2:26:03, 24.28s/it]385it [2:26:03, 24.27s/it]385it [2:26:03, 24.28s/it]385it [2:26:03, 24.27s/it]385it [2:26:03, 24.29s/it]385it [2:26:03, 24.30s/it]385it [2:26:03, 24.29s/it]win-rate: 76.08695652173914%, invalid-num: 80
+
+385it [2:26:03, 24.27s/it]386it [2:26:25, 23.47s/it]386it [2:26:25, 23.46s/it]386it [2:26:25, 23.47s/it]386it [2:26:25, 23.46s/it]386it [2:26:25, 23.47s/it]386it [2:26:25, 23.47s/it]win-rate: 76.12156295224312%, invalid-num: 81
+
+386it [2:26:25, 23.52s/it]386it [2:26:25, 23.46s/it]387it [2:26:45, 22.51s/it]387it [2:26:45, 22.50s/it]387it [2:26:45, 22.50s/it]387it [2:26:45, 22.51s/it]387it [2:26:45, 22.52s/it]387it [2:26:45, 22.52s/it]387it [2:26:45, 22.52s/it]win-rate: 76.04617604617604%, invalid-num: 81
+
+387it [2:26:45, 22.53s/it]388it [2:27:08, 22.79s/it]388it [2:27:08, 22.82s/it]388it [2:27:08, 22.84s/it]388it [2:27:08, 22.82s/it]388it [2:27:08, 22.82s/it]388it [2:27:08, 22.83s/it]388it [2:27:08, 22.82s/it]win-rate: 76.0806916426513%, invalid-num: 82
+
+388it [2:27:09, 22.88s/it]389it [2:27:29, 22.14s/it]389it [2:27:29, 22.13s/it]389it [2:27:29, 22.13s/it]389it [2:27:29, 22.13s/it]389it [2:27:29, 22.14s/it]389it [2:27:29, 22.15s/it]389it [2:27:29, 22.17s/it]win-rate: 76.11510791366906%, invalid-num: 83
+
+389it [2:27:29, 22.12s/it]390it [2:27:49, 21.46s/it]390it [2:27:49, 21.47s/it]390it [2:27:49, 21.47s/it]390it [2:27:49, 21.48s/it]390it [2:27:49, 21.48s/it]390it [2:27:49, 21.48s/it]390it [2:27:49, 21.48s/it]win-rate: 76.18364418938307%, invalid-num: 83
+
+390it [2:27:49, 21.52s/it]391it [2:28:12, 21.83s/it]391it [2:28:12, 21.84s/it]391it [2:28:12, 21.85s/it]391it [2:28:12, 21.84s/it]391it [2:28:12, 21.84s/it]391it [2:28:12, 21.84s/it]391it [2:28:12, 21.84s/it]win-rate: 76.10872675250357%, invalid-num: 83
+
+391it [2:28:12, 21.81s/it]392it [2:28:36, 22.65s/it]392it [2:28:36, 22.68s/it]392it [2:28:36, 22.68s/it]392it [2:28:36, 22.68s/it]392it [2:28:36, 22.68s/it]392it [2:28:36, 22.68s/it]392it [2:28:36, 22.68s/it]win-rate: 76.17689015691869%, invalid-num: 83
+
+392it [2:28:36, 22.64s/it]393it [2:29:11, 26.31s/it]393it [2:29:11, 26.31s/it]393it [2:29:11, 26.31s/it]393it [2:29:11, 26.31s/it]393it [2:29:11, 26.32s/it]393it [2:29:11, 26.32s/it]393it [2:29:11, 26.32s/it]win-rate: 76.10241820768137%, invalid-num: 83
+
+393it [2:29:12, 26.51s/it]394it [2:29:50, 30.13s/it]394it [2:29:50, 30.19s/it]394it [2:29:50, 30.20s/it]394it [2:29:50, 30.18s/it]394it [2:29:50, 30.19s/it]394it [2:29:50, 30.18s/it]394it [2:29:50, 30.19s/it]win-rate: 76.17021276595744%, invalid-num: 83
+
+394it [2:29:51, 30.14s/it]395it [2:30:14, 28.18s/it]395it [2:30:14, 28.22s/it]395it [2:30:14, 28.23s/it]395it [2:30:14, 28.23s/it]395it [2:30:14, 28.23s/it]395it [2:30:14, 28.24s/it]395it [2:30:14, 28.23s/it]win-rate: 76.23762376237624%, invalid-num: 83
+
+395it [2:30:14, 28.16s/it]396it [2:30:36, 26.34s/it]396it [2:30:36, 26.35s/it]396it [2:30:36, 26.36s/it]396it [2:30:36, 26.38s/it]396it [2:30:36, 26.36s/it]396it [2:30:36, 26.39s/it]win-rate: 76.3046544428773%, invalid-num: 83
+
+396it [2:30:36, 26.43s/it]396it [2:30:36, 26.34s/it]397it [2:31:05, 27.08s/it]397it [2:31:05, 27.11s/it]397it [2:31:05, 27.11s/it]397it [2:31:05, 27.15s/it]397it [2:31:05, 27.12s/it]397it [2:31:05, 27.15s/it]397it [2:31:05, 27.14s/it]win-rate: 76.23066104078762%, invalid-num: 83
+
+397it [2:31:05, 27.13s/it]398it [2:31:28, 26.04s/it]398it [2:31:28, 26.04s/it]398it [2:31:28, 26.03s/it]398it [2:31:28, 26.03s/it]398it [2:31:28, 26.06s/it]win-rate: 76.29733520336606%, invalid-num: 83
+
+398it [2:31:28, 26.11s/it]398it [2:31:29, 26.09s/it]398it [2:31:29, 26.04s/it]399it [2:31:49, 24.56s/it]399it [2:31:50, 24.56s/it]399it [2:31:49, 24.59s/it]399it [2:31:50, 24.57s/it]399it [2:31:49, 24.59s/it]399it [2:31:50, 24.60s/it]399it [2:31:50, 24.58s/it]win-rate: 76.36363636363637%, invalid-num: 83
+
+399it [2:32:01, 27.80s/it]400it [2:32:20, 26.33s/it]400it [2:32:20, 26.33s/it]400it [2:32:20, 26.31s/it]400it [2:32:20, 26.33s/it]400it [2:32:20, 26.32s/it]400it [2:32:20, 26.32s/it]400it [2:32:20, 26.34s/it]win-rate: 76.42956764295677%, invalid-num: 83
+
+400it [2:32:20, 25.34s/it]401it [2:32:42, 24.95s/it]401it [2:32:42, 24.97s/it]401it [2:32:42, 24.96s/it]401it [2:32:42, 24.96s/it]401it [2:32:42, 24.97s/it]win-rate: 76.49513212795549%, invalid-num: 83
+
+401it [2:32:42, 24.98s/it]401it [2:32:42, 24.98s/it]401it [2:32:42, 24.25s/it]402it [2:33:07, 24.93s/it]402it [2:33:07, 24.98s/it]402it [2:33:07, 24.98s/it]402it [2:33:07, 24.98s/it]402it [2:33:07, 24.98s/it]402it [2:33:07, 24.97s/it]402it [2:33:07, 24.98s/it]win-rate: 76.42163661581137%, invalid-num: 83
+
+402it [2:33:07, 24.52s/it]403it [2:33:29, 24.26s/it]403it [2:33:29, 24.29s/it]403it [2:33:29, 24.28s/it]403it [2:33:29, 24.28s/it]403it [2:33:29, 24.29s/it]403it [2:33:29, 24.28s/it]403it [2:33:29, 24.28s/it]win-rate: 76.21023513139696%, invalid-num: 83
+
+403it [2:33:30, 23.94s/it]404it [2:33:50, 23.30s/it]404it [2:33:50, 23.30s/it]404it [2:33:50, 23.31s/it]404it [2:33:50, 23.31s/it]404it [2:33:50, 23.32s/it]404it [2:33:50, 23.33s/it]404it [2:33:50, 23.32s/it]win-rate: 76.27586206896552%, invalid-num: 83
+
+404it [2:33:51, 23.08s/it]405it [2:34:14, 23.34s/it]405it [2:34:14, 23.39s/it]405it [2:34:14, 23.39s/it]405it [2:34:14, 23.38s/it]405it [2:34:14, 23.38s/it]405it [2:34:14, 23.38s/it]405it [2:34:14, 23.38s/it]win-rate: 76.34112792297113%, invalid-num: 83
+
+405it [2:34:14, 23.23s/it]406it [2:34:45, 25.77s/it]406it [2:34:45, 25.79s/it]406it [2:34:45, 25.78s/it]406it [2:34:45, 25.78s/it]406it [2:34:45, 25.78s/it]406it [2:34:45, 25.79s/it]406it [2:34:45, 25.81s/it]win-rate: 76.40603566529492%, invalid-num: 83
+
+406it [2:34:46, 25.66s/it]407it [2:35:20, 28.56s/it]407it [2:35:20, 28.57s/it]win-rate: 76.43835616438356%, invalid-num: 84
+
+407it [2:35:20, 28.57s/it]407it [2:35:20, 28.57s/it]407it [2:35:20, 28.59s/it]407it [2:35:20, 28.57s/it]407it [2:35:21, 28.60s/it]407it [2:35:21, 28.45s/it]408it [2:35:43, 26.75s/it]408it [2:35:43, 26.76s/it]408it [2:35:43, 26.75s/it]408it [2:35:43, 26.75s/it]408it [2:35:43, 26.75s/it]408it [2:35:43, 26.74s/it]408it [2:35:43, 26.77s/it]win-rate: 76.50273224043715%, invalid-num: 84
+
+408it [2:35:43, 26.70s/it]409it [2:36:08, 26.11s/it]409it [2:36:08, 26.17s/it]409it [2:36:08, 26.16s/it]409it [2:36:08, 26.17s/it]win-rate: 76.566757493188%, invalid-num: 84
+
+409it [2:36:08, 26.18s/it]409it [2:36:08, 26.19s/it]409it [2:36:08, 26.20s/it]409it [2:36:08, 26.10s/it]410it [2:36:32, 25.61s/it]410it [2:36:32, 25.63s/it]410it [2:36:32, 25.63s/it]410it [2:36:32, 25.65s/it]410it [2:36:32, 25.63s/it]410it [2:36:32, 25.65s/it]410it [2:36:32, 25.63s/it]win-rate: 76.63043478260869%, invalid-num: 84
+
+410it [2:36:33, 25.69s/it]411it [2:37:01, 26.49s/it]411it [2:37:01, 26.52s/it]411it [2:37:01, 26.52s/it]411it [2:37:01, 26.52s/it]411it [2:37:01, 26.51s/it]411it [2:37:01, 26.53s/it]411it [2:37:01, 26.54s/it]win-rate: 76.69376693766937%, invalid-num: 84
+
+411it [2:37:01, 26.49s/it]412it [2:37:23, 25.19s/it]412it [2:37:23, 25.21s/it]412it [2:37:23, 25.21s/it]412it [2:37:23, 25.21s/it]412it [2:37:23, 25.20s/it]412it [2:37:23, 25.20s/it]412it [2:37:23, 25.21s/it]win-rate: 76.75675675675676%, invalid-num: 84
+
+412it [2:37:23, 25.18s/it]413it [2:37:51, 25.97s/it]413it [2:37:51, 25.97s/it]413it [2:37:51, 26.01s/it]413it [2:37:51, 26.01s/it]413it [2:37:51, 26.00s/it]413it [2:37:51, 26.01s/it]413it [2:37:51, 26.00s/it]win-rate: 76.68463611859838%, invalid-num: 84
+
+413it [2:37:51, 26.05s/it]414it [2:38:18, 26.34s/it]414it [2:38:18, 26.33s/it]414it [2:38:18, 26.33s/it]414it [2:38:18, 26.35s/it]414it [2:38:18, 26.35s/it]414it [2:38:18, 26.35s/it]414it [2:38:18, 26.36s/it]win-rate: 76.74731182795699%, invalid-num: 84
+
+414it [2:38:18, 26.33s/it]415it [2:38:37, 24.20s/it]415it [2:38:37, 24.24s/it]415it [2:38:37, 24.23s/it]415it [2:38:37, 24.23s/it]415it [2:38:37, 24.23s/it]415it [2:38:37, 24.25s/it]win-rate: 76.80965147453082%, invalid-num: 84
+
+415it [2:38:37, 24.27s/it]415it [2:38:38, 24.48s/it]416it [2:39:00, 23.72s/it]416it [2:39:00, 23.72s/it]416it [2:39:00, 23.74s/it]416it [2:39:00, 23.76s/it]416it [2:39:00, 23.75s/it]416it [2:39:00, 23.74s/it]win-rate: 76.70682730923694%, invalid-num: 85
+
+416it [2:39:00, 23.78s/it]416it [2:39:00, 23.64s/it]417it [2:39:28, 24.98s/it]417it [2:39:28, 24.98s/it]417it [2:39:28, 24.99s/it]417it [2:39:28, 24.97s/it]417it [2:39:28, 24.99s/it]417it [2:39:28, 25.00s/it]417it [2:39:28, 25.00s/it]win-rate: 76.7690253671562%, invalid-num: 85
+
+417it [2:39:28, 24.91s/it]418it [2:39:48, 23.67s/it]418it [2:39:48, 23.67s/it]418it [2:39:48, 23.68s/it]418it [2:39:48, 23.70s/it]418it [2:39:48, 23.68s/it]418it [2:39:48, 23.69s/it]win-rate: 76.83089214380826%, invalid-num: 85
+
+418it [2:39:48, 23.70s/it]418it [2:39:49, 23.64s/it]419it [2:40:17, 25.26s/it]419it [2:40:17, 25.26s/it]419it [2:40:17, 25.29s/it]419it [2:40:17, 25.29s/it]419it [2:40:17, 25.29s/it]419it [2:40:17, 25.27s/it]419it [2:40:17, 25.29s/it]win-rate: 76.89243027888446%, invalid-num: 85
+
+419it [2:40:18, 25.25s/it]420it [2:40:46, 26.21s/it]420it [2:40:46, 26.18s/it]win-rate: 76.82119205298014%, invalid-num: 85
+
+420it [2:40:46, 26.20s/it]420it [2:40:46, 26.22s/it]420it [2:40:46, 26.22s/it]420it [2:40:46, 26.22s/it]420it [2:40:46, 26.22s/it]420it [2:40:46, 26.15s/it]421it [2:41:08, 25.14s/it]421it [2:41:08, 25.15s/it]421it [2:41:08, 25.14s/it]421it [2:41:08, 25.14s/it]421it [2:41:08, 25.14s/it]421it [2:41:08, 25.18s/it]win-rate: 76.71957671957672%, invalid-num: 86
+
+421it [2:41:08, 25.20s/it]421it [2:41:09, 25.13s/it]422it [2:41:34, 25.43s/it]422it [2:41:35, 25.46s/it]422it [2:41:35, 25.47s/it]422it [2:41:35, 25.47s/it]422it [2:41:35, 25.48s/it]422it [2:41:35, 25.48s/it]win-rate: 76.78100263852242%, invalid-num: 86
+
+422it [2:41:35, 25.50s/it]422it [2:41:35, 25.47s/it]423it [2:41:56, 24.19s/it]423it [2:41:56, 24.20s/it]423it [2:41:56, 24.20s/it]423it [2:41:56, 24.20s/it]423it [2:41:56, 24.20s/it]423it [2:41:56, 24.21s/it]423it [2:41:56, 24.21s/it]win-rate: 76.71052631578948%, invalid-num: 86
+
+423it [2:41:56, 24.20s/it]424it [2:42:24, 25.46s/it]424it [2:42:24, 25.48s/it]424it [2:42:24, 25.50s/it]424it [2:42:24, 25.52s/it]424it [2:42:24, 25.53s/it]424it [2:42:25, 25.56s/it]424it [2:42:24, 25.54s/it]win-rate: 76.74113009198423%, invalid-num: 87
+
+424it [2:42:25, 25.56s/it]425it [2:42:48, 24.89s/it]425it [2:42:48, 24.91s/it]425it [2:42:48, 24.90s/it]425it [2:42:48, 24.92s/it]425it [2:42:48, 24.93s/it]425it [2:42:48, 24.94s/it]425it [2:42:48, 24.93s/it]win-rate: 76.77165354330708%, invalid-num: 88
+
+425it [2:42:48, 24.95s/it]426it [2:43:17, 26.04s/it]426it [2:43:17, 26.07s/it]426it [2:43:17, 26.06s/it]426it [2:43:17, 26.08s/it]426it [2:43:17, 26.07s/it]426it [2:43:17, 26.07s/it]win-rate: 76.70157068062828%, invalid-num: 88
+
+426it [2:43:17, 26.11s/it]426it [2:43:17, 26.03s/it]427it [2:43:35, 23.67s/it]427it [2:43:35, 23.70s/it]427it [2:43:35, 23.71s/it]427it [2:43:35, 23.73s/it]427it [2:43:35, 23.71s/it]427it [2:43:35, 23.72s/it]427it [2:43:35, 23.72s/it]win-rate: 76.76240208877284%, invalid-num: 88
+
+427it [2:43:35, 23.71s/it]428it [2:43:55, 22.65s/it]428it [2:43:55, 22.65s/it]428it [2:43:55, 22.65s/it]428it [2:43:55, 22.68s/it]428it [2:43:55, 22.67s/it]428it [2:43:55, 22.68s/it]win-rate: 76.79269882659713%, invalid-num: 89
+
+428it [2:43:55, 22.69s/it]428it [2:43:55, 22.67s/it]429it [2:44:17, 22.36s/it]429it [2:44:17, 22.37s/it]429it [2:44:17, 22.36s/it]429it [2:44:17, 22.38s/it]429it [2:44:17, 22.37s/it]429it [2:44:17, 22.37s/it]429it [2:44:17, 22.37s/it]win-rate: 76.82291666666666%, invalid-num: 90
+
+429it [2:44:17, 22.37s/it]win-rate: 76.88311688311688%, invalid-num: 90
+
+430it [2:44:44, 23.86s/it]430it [2:44:44, 23.88s/it]430it [2:44:44, 23.88s/it]430it [2:44:44, 23.87s/it]430it [2:44:44, 23.87s/it]430it [2:44:44, 23.88s/it]430it [2:44:44, 23.89s/it]430it [2:44:44, 23.81s/it]431it [2:45:20, 27.34s/it]431it [2:45:20, 27.35s/it]431it [2:45:20, 27.35s/it]431it [2:45:20, 27.35s/it]431it [2:45:20, 27.34s/it]431it [2:45:20, 27.34s/it]431it [2:45:20, 27.34s/it]win-rate: 76.94300518134715%, invalid-num: 90
+
+431it [2:45:20, 27.34s/it]432it [2:45:46, 27.07s/it]432it [2:45:46, 27.08s/it]432it [2:45:46, 27.10s/it]432it [2:45:46, 27.10s/it]432it [2:45:46, 27.09s/it]432it [2:45:46, 27.10s/it]432it [2:45:46, 27.09s/it]win-rate: 76.8733850129199%, invalid-num: 90
+
+432it [2:45:47, 27.14s/it]433it [2:46:06, 25.09s/it]433it [2:46:07, 25.09s/it]433it [2:46:07, 25.08s/it]433it [2:46:07, 25.08s/it]433it [2:46:07, 25.09s/it]433it [2:46:07, 25.08s/it]433it [2:46:06, 25.09s/it]win-rate: 76.80412371134021%, invalid-num: 90
+
+433it [2:46:07, 25.08s/it]win-rate: 76.73521850899743%, invalid-num: 90
+
+434it [2:46:39, 27.36s/it]434it [2:46:39, 27.36s/it]434it [2:46:39, 27.37s/it]434it [2:46:39, 27.38s/it]434it [2:46:39, 27.38s/it]434it [2:46:39, 27.37s/it]434it [2:46:39, 27.38s/it]434it [2:46:40, 27.36s/it]435it [2:47:12, 28.93s/it]435it [2:47:12, 28.93s/it]435it [2:47:12, 28.94s/it]435it [2:47:12, 28.95s/it]435it [2:47:12, 28.96s/it]435it [2:47:12, 28.94s/it]435it [2:47:12, 28.95s/it]win-rate: 76.6367137355584%, invalid-num: 91
+
+435it [2:47:12, 28.95s/it]436it [2:47:39, 28.37s/it]436it [2:47:39, 28.38s/it]436it [2:47:39, 28.39s/it]436it [2:47:39, 28.40s/it]436it [2:47:39, 28.42s/it]436it [2:47:39, 28.45s/it]436it [2:47:39, 28.45s/it]win-rate: 76.69654289372599%, invalid-num: 91
+
+436it [2:47:40, 28.73s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.29 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+437it [2:48:02, 26.81s/it]437it [2:48:02, 26.82s/it]437it [2:48:02, 26.81s/it]437it [2:48:02, 26.82s/it]437it [2:48:02, 26.82s/it]437it [2:48:02, 26.82s/it]437it [2:48:02, 26.84s/it]win-rate: 76.62835249042146%, invalid-num: 91
+
+437it [2:48:02, 26.70s/it]438it [2:48:23, 24.94s/it]438it [2:48:23, 24.96s/it]438it [2:48:23, 24.95s/it]438it [2:48:23, 24.96s/it]438it [2:48:23, 24.97s/it]438it [2:48:23, 24.96s/it]438it [2:48:23, 24.96s/it]win-rate: 76.56050955414014%, invalid-num: 91
+
+438it [2:48:23, 24.91s/it]439it [2:48:45, 24.30s/it]439it [2:48:45, 24.30s/it]439it [2:48:46, 24.31s/it]439it [2:48:46, 24.32s/it]439it [2:48:46, 24.32s/it]439it [2:48:46, 24.33s/it]439it [2:48:46, 24.32s/it]win-rate: 76.62007623888184%, invalid-num: 91
+
+439it [2:48:46, 24.29s/it]440it [2:49:13, 25.30s/it]440it [2:49:13, 25.31s/it]440it [2:49:13, 25.33s/it]440it [2:49:13, 25.33s/it]440it [2:49:13, 25.32s/it]440it [2:49:13, 25.33s/it]440it [2:49:13, 25.32s/it]win-rate: 76.67934093789607%, invalid-num: 91
+
+440it [2:49:13, 25.27s/it]441it [2:49:34, 24.03s/it]441it [2:49:34, 24.03s/it]441it [2:49:34, 24.02s/it]441it [2:49:34, 24.03s/it]441it [2:49:34, 24.03s/it]441it [2:49:34, 24.03s/it]441it [2:49:34, 24.03s/it]win-rate: 76.73830594184577%, invalid-num: 91
+
+441it [2:49:35, 24.05s/it]442it [2:49:57, 23.61s/it]442it [2:49:57, 23.61s/it]442it [2:49:57, 23.61s/it]442it [2:49:57, 23.62s/it]442it [2:49:57, 23.63s/it]442it [2:49:57, 23.63s/it]442it [2:49:57, 23.63s/it]win-rate: 76.76767676767676%, invalid-num: 92
+
+442it [2:49:57, 23.59s/it]443it [2:50:19, 23.25s/it]443it [2:50:19, 23.27s/it]443it [2:50:19, 23.26s/it]win-rate: 76.82619647355163%, invalid-num: 92
+
+443it [2:50:19, 23.27s/it]443it [2:50:19, 23.27s/it]443it [2:50:19, 23.28s/it]443it [2:50:19, 23.28s/it]443it [2:50:20, 23.26s/it]444it [2:50:39, 22.14s/it]444it [2:50:39, 22.15s/it]444it [2:50:39, 22.17s/it]win-rate: 76.88442211055276%, invalid-num: 92
+
+444it [2:50:39, 22.19s/it]444it [2:50:39, 22.21s/it]444it [2:50:39, 22.20s/it]444it [2:50:39, 22.21s/it]444it [2:50:39, 22.13s/it]445it [2:51:09, 24.59s/it]445it [2:51:09, 24.61s/it]win-rate: 76.94235588972431%, invalid-num: 92
+
+445it [2:51:09, 24.59s/it]445it [2:51:09, 24.59s/it]445it [2:51:09, 24.61s/it]445it [2:51:09, 24.63s/it]445it [2:51:09, 24.63s/it]445it [2:51:09, 24.59s/it]446it [2:51:33, 24.29s/it]446it [2:51:33, 24.31s/it]446it [2:51:33, 24.30s/it]446it [2:51:33, 24.30s/it]446it [2:51:33, 24.31s/it]446it [2:51:33, 24.33s/it]446it [2:51:33, 24.34s/it]win-rate: 76.875%, invalid-num: 92
+
+446it [2:51:33, 24.31s/it]447it [2:51:55, 23.58s/it]447it [2:51:55, 23.58s/it]447it [2:51:55, 23.59s/it]447it [2:51:55, 23.59s/it]447it [2:51:55, 23.59s/it]447it [2:51:55, 23.62s/it]447it [2:51:55, 23.60s/it]win-rate: 76.90387016229712%, invalid-num: 93
+
+447it [2:51:55, 23.59s/it]448it [2:52:23, 25.12s/it]448it [2:52:23, 25.13s/it]448it [2:52:23, 25.12s/it]448it [2:52:24, 25.13s/it]448it [2:52:24, 25.14s/it]448it [2:52:24, 25.14s/it]win-rate: 76.96139476961395%, invalid-num: 93
+
+448it [2:52:24, 25.19s/it]448it [2:52:24, 25.15s/it]449it [2:53:04, 29.62s/it]win-rate: 77.01863354037268%, invalid-num: 93
+
+449it [2:53:04, 29.60s/it]449it [2:53:04, 29.62s/it]449it [2:53:04, 29.63s/it]449it [2:53:04, 29.63s/it]449it [2:53:04, 29.63s/it]449it [2:53:04, 29.65s/it]449it [2:53:04, 29.58s/it]450it [2:53:34, 29.87s/it]450it [2:53:34, 29.88s/it]450it [2:53:34, 29.88s/it]450it [2:53:34, 29.89s/it]450it [2:53:34, 29.89s/it]450it [2:53:34, 29.89s/it]450it [2:53:34, 29.88s/it]win-rate: 77.07558859975217%, invalid-num: 93
+
+450it [2:53:34, 29.90s/it]451it [2:53:58, 27.97s/it]451it [2:53:58, 27.96s/it]451it [2:53:58, 27.97s/it]451it [2:53:58, 27.98s/it]451it [2:53:58, 27.99s/it]451it [2:53:58, 27.99s/it]451it [2:53:58, 27.97s/it]win-rate: 77.00865265760197%, invalid-num: 93
+
+451it [2:53:58, 27.97s/it]452it [2:54:26, 28.18s/it]452it [2:54:26, 28.21s/it]452it [2:54:26, 28.21s/it]452it [2:54:26, 28.21s/it]452it [2:54:26, 28.21s/it]452it [2:54:26, 28.22s/it]452it [2:54:26, 28.22s/it]win-rate: 76.94204685573366%, invalid-num: 93
+
+452it [2:54:27, 28.23s/it]453it [2:54:51, 27.24s/it]453it [2:54:51, 27.24s/it]453it [2:54:51, 27.24s/it]453it [2:54:51, 27.25s/it]453it [2:54:51, 27.25s/it]453it [2:54:51, 27.25s/it]453it [2:54:51, 27.26s/it]win-rate: 76.9704433497537%, invalid-num: 94
+
+453it [2:54:52, 27.27s/it]454it [2:55:19, 27.50s/it]454it [2:55:20, 27.51s/it]454it [2:55:20, 27.56s/it]454it [2:55:20, 27.55s/it]454it [2:55:20, 27.54s/it]454it [2:55:20, 27.54s/it]454it [2:55:20, 27.54s/it]win-rate: 77.02702702702703%, invalid-num: 94
+
+454it [2:55:20, 27.53s/it]455it [2:55:49, 28.17s/it]455it [2:55:49, 28.18s/it]455it [2:55:49, 28.22s/it]455it [2:55:49, 28.22s/it]455it [2:55:49, 28.23s/it]455it [2:55:49, 28.23s/it]win-rate: 77.05521472392638%, invalid-num: 95
+
+455it [2:55:49, 28.22s/it]455it [2:55:50, 28.20s/it]456it [2:56:22, 29.66s/it]456it [2:56:22, 29.67s/it]456it [2:56:22, 29.68s/it]456it [2:56:22, 29.69s/it]456it [2:56:23, 29.68s/it]456it [2:56:22, 29.67s/it]456it [2:56:23, 29.67s/it]win-rate: 77.11138310893513%, invalid-num: 95
+
+456it [2:56:23, 29.65s/it]457it [2:56:46, 27.80s/it]457it [2:56:46, 27.82s/it]457it [2:56:46, 27.82s/it]457it [2:56:46, 27.81s/it]457it [2:56:46, 27.81s/it]457it [2:56:46, 27.82s/it]457it [2:56:46, 27.83s/it]win-rate: 77.04517704517706%, invalid-num: 95
+
+457it [2:56:46, 27.83s/it]458it [2:57:11, 26.92s/it]458it [2:57:11, 26.92s/it]458it [2:57:11, 26.92s/it]458it [2:57:11, 26.93s/it]458it [2:57:11, 26.93s/it]458it [2:57:11, 26.93s/it]458it [2:57:11, 26.93s/it]win-rate: 77.10109622411693%, invalid-num: 95
+
+458it [2:57:11, 26.92s/it]459it [2:57:41, 27.89s/it]459it [2:57:41, 27.91s/it]459it [2:57:41, 27.91s/it]459it [2:57:41, 27.93s/it]459it [2:57:41, 27.91s/it]459it [2:57:41, 27.93s/it]459it [2:57:41, 27.91s/it]win-rate: 77.15674362089915%, invalid-num: 95
+
+459it [2:57:42, 28.00s/it]460it [2:58:06, 27.10s/it]460it [2:58:06, 27.10s/it]460it [2:58:06, 27.13s/it]460it [2:58:06, 27.12s/it]460it [2:58:06, 27.13s/it]win-rate: 77.2121212121212%, invalid-num: 95
+
+460it [2:58:06, 27.16s/it]460it [2:58:06, 27.18s/it]460it [2:58:07, 27.10s/it]461it [2:58:31, 26.28s/it]461it [2:58:31, 26.35s/it]461it [2:58:31, 26.35s/it]461it [2:58:31, 26.34s/it]461it [2:58:31, 26.35s/it]461it [2:58:31, 26.35s/it]461it [2:58:31, 26.35s/it]win-rate: 77.26723095525998%, invalid-num: 95
+
+461it [2:58:31, 26.35s/it]462it [2:59:00, 27.10s/it]462it [2:59:00, 27.11s/it]462it [2:59:00, 27.13s/it]462it [2:59:00, 27.11s/it]462it [2:59:00, 27.12s/it]win-rate: 77.29468599033817%, invalid-num: 96
+
+462it [2:59:00, 27.13s/it]462it [2:59:00, 27.15s/it]462it [2:59:00, 27.13s/it]463it [2:59:21, 25.44s/it]463it [2:59:21, 25.44s/it]463it [2:59:21, 25.45s/it]463it [2:59:21, 25.46s/it]463it [2:59:21, 25.45s/it]463it [2:59:21, 25.46s/it]463it [2:59:21, 25.45s/it]win-rate: 77.22891566265059%, invalid-num: 96
+
+463it [2:59:22, 25.43s/it]464it [2:59:45, 24.88s/it]464it [2:59:45, 24.87s/it]464it [2:59:45, 24.89s/it]464it [2:59:45, 24.91s/it]464it [2:59:45, 24.89s/it]464it [2:59:45, 24.92s/it]464it [2:59:45, 24.90s/it]win-rate: 77.28365384615384%, invalid-num: 96
+
+464it [2:59:45, 24.87s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.88 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+465it [3:00:08, 24.32s/it]465it [3:00:08, 24.35s/it]465it [3:00:08, 24.34s/it]465it [3:00:08, 24.34s/it]465it [3:00:08, 24.34s/it]465it [3:00:08, 24.34s/it]465it [3:00:08, 24.35s/it]win-rate: 77.33812949640287%, invalid-num: 96
+
+465it [3:00:08, 24.33s/it]466it [3:00:37, 25.66s/it]466it [3:00:37, 25.66s/it]466it [3:00:37, 25.67s/it]466it [3:00:37, 25.68s/it]466it [3:00:37, 25.67s/it]466it [3:00:37, 25.68s/it]466it [3:00:37, 25.70s/it]win-rate: 77.39234449760765%, invalid-num: 96
+
+466it [3:00:39, 26.15s/it]467it [3:01:03, 25.93s/it]467it [3:01:03, 25.94s/it]467it [3:01:03, 25.95s/it]467it [3:01:03, 25.98s/it]467it [3:01:03, 25.99s/it]467it [3:01:03, 25.97s/it]467it [3:01:03, 25.96s/it]win-rate: 77.44630071599046%, invalid-num: 96
+
+467it [3:01:04, 25.80s/it]468it [3:01:32, 26.81s/it]468it [3:01:32, 23.27s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.81s/it]468it [3:01:32, 23.27s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.82s/it]468it [3:01:32, 23.27s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.82s/it]468it [3:01:32, 23.28s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.82s/it]468it [3:01:32, 23.28s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.83s/it]468it [3:01:32, 23.28s/it]
+0it [00:00, ?it/s]468it [3:01:32, 26.83s/it]468it [3:01:32, 23.28s/it]
+0it [00:00, ?it/s]win-rate: 77.38095238095238%, invalid-num: 96
+
+468it [3:01:33, 26.74s/it]468it [3:01:33, 23.28s/it]
+0it [00:00, ?it/s]1it [00:26, 26.89s/it]1it [00:26, 26.99s/it]1it [00:27, 27.09s/it]1it [00:27, 27.10s/it]1it [00:27, 27.03s/it]1it [00:27, 27.04s/it]1it [00:27, 27.03s/it]win-rate: 77.43467933491686%, invalid-num: 96
+
+1it [00:26, 26.90s/it]2it [00:48, 23.60s/it]2it [00:48, 23.60s/it]2it [00:48, 23.61s/it]2it [00:48, 23.63s/it]2it [00:48, 23.61s/it]2it [00:48, 23.63s/it]2it [00:48, 23.63s/it]win-rate: 77.48815165876776%, invalid-num: 96
+
+2it [00:48, 23.63s/it]3it [01:08, 21.90s/it]3it [01:08, 21.96s/it]3it [01:08, 21.94s/it]3it [01:08, 21.95s/it]3it [01:08, 22.00s/it]3it [01:08, 21.98s/it]3it [01:08, 21.99s/it]win-rate: 77.54137115839244%, invalid-num: 96
+
+3it [01:08, 21.94s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -3.33 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+4it [01:32, 22.77s/it]4it [01:32, 22.79s/it]4it [01:32, 22.80s/it]4it [01:32, 22.79s/it]4it [01:32, 22.80s/it]4it [01:32, 22.79s/it]4it [01:32, 22.81s/it]win-rate: 77.59433962264151%, invalid-num: 96
+
+4it [01:32, 22.85s/it]5it [01:58, 24.17s/it]5it [01:58, 24.20s/it]5it [01:58, 24.19s/it]5it [01:59, 24.22s/it]5it [01:58, 24.19s/it]5it [01:58, 24.19s/it]5it [01:58, 24.19s/it]win-rate: 77.64705882352942%, invalid-num: 96
+
+5it [01:58, 24.19s/it]6it [02:29, 26.34s/it]6it [02:29, 26.36s/it]6it [02:29, 26.35s/it]6it [02:29, 26.36s/it]6it [02:29, 26.36s/it]6it [02:29, 26.36s/it]6it [02:29, 26.37s/it]win-rate: 77.58215962441315%, invalid-num: 96
+
+6it [02:29, 26.34s/it]7it [02:59, 27.56s/it]7it [02:59, 27.60s/it]7it [02:59, 27.62s/it]7it [02:59, 27.60s/it]7it [02:59, 27.60s/it]7it [02:59, 27.60s/it]7it [02:59, 27.59s/it]win-rate: 77.63466042154566%, invalid-num: 96
+
+7it [02:59, 27.56s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.28 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+8it [03:19, 24.99s/it]8it [03:19, 25.01s/it]8it [03:19, 25.01s/it]8it [03:19, 25.01s/it]8it [03:19, 25.03s/it]8it [03:19, 25.02s/it]8it [03:19, 25.02s/it]win-rate: 77.68691588785047%, invalid-num: 96
+
+8it [03:19, 25.01s/it]9it [03:52, 27.66s/it]9it [03:52, 27.67s/it]9it [03:52, 27.70s/it]9it [03:52, 27.68s/it]9it [03:52, 27.70s/it]9it [03:52, 27.69s/it]9it [03:52, 27.69s/it]win-rate: 77.62237762237763%, invalid-num: 96
+
+9it [03:52, 27.69s/it]10it [04:15, 26.15s/it]10it [04:15, 26.14s/it]10it [04:15, 26.14s/it]10it [04:15, 26.18s/it]10it [04:15, 26.17s/it]10it [04:15, 26.16s/it]10it [04:15, 26.16s/it]win-rate: 77.67441860465117%, invalid-num: 96
+
+10it [04:15, 26.19s/it]11it [04:41, 26.02s/it]11it [04:41, 26.02s/it]11it [04:41, 26.02s/it]11it [04:41, 26.02s/it]11it [04:41, 26.02s/it]11it [04:41, 26.02s/it]11it [04:41, 26.03s/it]win-rate: 77.7262180974478%, invalid-num: 96
+
+11it [04:41, 26.08s/it]12it [05:03, 24.96s/it]12it [05:03, 24.98s/it]12it [05:03, 24.99s/it]12it [05:03, 24.98s/it]12it [05:03, 24.99s/it]12it [05:03, 24.98s/it]12it [05:03, 24.98s/it]win-rate: 77.66203703703704%, invalid-num: 96
+
+12it [05:03, 24.93s/it]13it [05:25, 23.89s/it]13it [05:25, 23.89s/it]13it [05:25, 23.88s/it]13it [05:25, 23.88s/it]13it [05:25, 23.88s/it]13it [05:25, 23.89s/it]13it [05:25, 23.89s/it]win-rate: 77.59815242494227%, invalid-num: 96
+
+13it [05:25, 23.93s/it]14it [05:49, 23.88s/it]14it [05:49, 23.87s/it]14it [05:48, 23.88s/it]14it [05:49, 23.89s/it]14it [05:49, 23.89s/it]14it [05:49, 23.89s/it]14it [05:49, 23.89s/it]win-rate: 77.64976958525345%, invalid-num: 96
+
+14it [05:48, 23.86s/it]15it [06:18, 25.58s/it]15it [06:18, 25.63s/it]15it [06:18, 25.62s/it]win-rate: 77.64976958525345%, invalid-num: 98
+
+15it [06:18, 25.64s/it]15it [06:18, 25.63s/it]15it [06:18, 25.63s/it]15it [06:18, 25.63s/it]15it [06:18, 25.59s/it]16it [06:53, 28.30s/it]16it [06:53, 28.31s/it]16it [06:53, 28.31s/it]16it [06:53, 28.33s/it]16it [06:53, 28.32s/it]16it [06:53, 28.32s/it]16it [06:53, 28.32s/it]win-rate: 77.58620689655173%, invalid-num: 98
+
+16it [06:53, 28.34s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]17it [07:09, 24.82s/it]win-rate: 77.52293577981652%, invalid-num: 98
+
+17it [07:09, 24.81s/it]18it [07:37, 25.69s/it]18it [07:37, 25.70s/it]18it [07:37, 25.69s/it]18it [07:37, 25.69s/it]18it [07:37, 25.72s/it]18it [07:37, 25.71s/it]win-rate: 77.4599542334096%, invalid-num: 98
+
+18it [07:37, 25.74s/it]18it [07:37, 25.73s/it]19it [07:59, 24.60s/it]19it [07:59, 24.61s/it]19it [07:59, 24.60s/it]19it [07:59, 24.59s/it]19it [07:59, 24.61s/it]19it [07:59, 24.62s/it]19it [07:59, 24.62s/it]win-rate: 77.51141552511416%, invalid-num: 98
+
+19it [07:59, 24.64s/it]20it [08:33, 27.35s/it]20it [08:33, 27.35s/it]win-rate: 77.44874715261959%, invalid-num: 98
+
+20it [08:33, 27.36s/it]20it [08:33, 27.38s/it]20it [08:33, 27.39s/it]20it [08:33, 27.40s/it]20it [08:33, 27.41s/it]20it [08:33, 27.31s/it]21it [08:55, 25.86s/it]21it [08:55, 25.87s/it]21it [08:55, 25.88s/it]21it [08:55, 25.85s/it]21it [08:55, 25.86s/it]21it [08:55, 25.86s/it]21it [08:55, 25.87s/it]win-rate: 77.5%, invalid-num: 98
+
+21it [08:55, 25.83s/it]22it [09:20, 25.56s/it]22it [09:20, 25.56s/it]22it [09:20, 25.56s/it]22it [09:20, 25.57s/it]22it [09:20, 25.57s/it]22it [09:20, 25.58s/it]22it [09:20, 25.60s/it]win-rate: 77.55102040816327%, invalid-num: 98
+
+22it [09:20, 25.57s/it]23it [09:52, 27.37s/it]23it [09:52, 27.38s/it]23it [09:52, 27.38s/it]23it [09:52, 27.39s/it]23it [09:52, 27.41s/it]23it [09:52, 27.41s/it]23it [09:52, 27.40s/it]win-rate: 77.60180995475113%, invalid-num: 98
+
+23it [09:52, 27.38s/it]24it [10:26, 29.26s/it]24it [10:26, 29.26s/it]24it [10:26, 29.26s/it]24it [10:26, 29.27s/it]win-rate: 77.65237020316027%, invalid-num: 98
+
+24it [10:26, 29.29s/it]24it [10:26, 29.28s/it]24it [10:26, 29.29s/it]24it [10:26, 29.27s/it]25it [10:52, 28.39s/it]25it [10:52, 28.41s/it]25it [10:52, 28.41s/it]25it [10:52, 28.41s/it]25it [10:52, 28.41s/it]win-rate: 77.7027027027027%, invalid-num: 98
+
+25it [10:52, 28.42s/it]25it [10:52, 28.43s/it]25it [10:52, 28.40s/it]26it [11:24, 29.50s/it]26it [11:24, 29.51s/it]26it [11:24, 29.51s/it]26it [11:24, 29.53s/it]win-rate: 77.75280898876404%, invalid-num: 98
+
+26it [11:24, 29.54s/it]26it [11:24, 29.54s/it]26it [11:24, 29.57s/it]26it [11:24, 29.52s/it]27it [11:50, 28.41s/it]27it [11:50, 28.41s/it]27it [11:50, 28.42s/it]27it [11:50, 28.42s/it]27it [11:50, 28.42s/it]27it [11:50, 28.41s/it]27it [11:50, 28.42s/it]win-rate: 77.80269058295964%, invalid-num: 98
+
+27it [11:50, 28.45s/it]28it [12:13, 26.69s/it]28it [12:13, 26.68s/it]28it [12:13, 26.69s/it]win-rate: 77.74049217002236%, invalid-num: 98
+
+28it [12:13, 26.68s/it]28it [12:13, 26.68s/it]28it [12:13, 26.69s/it]28it [12:13, 26.69s/it]28it [12:12, 26.65s/it]29it [12:36, 25.74s/it]29it [12:36, 25.72s/it]29it [12:36, 25.75s/it]29it [12:36, 25.72s/it]win-rate: 77.67857142857143%, invalid-num: 98
+
+29it [12:36, 25.73s/it]29it [12:36, 25.74s/it]29it [12:36, 25.74s/it]29it [12:36, 25.72s/it]30it [13:02, 25.77s/it]30it [13:02, 25.78s/it]30it [13:02, 25.78s/it]30it [13:02, 25.78s/it]30it [13:02, 25.81s/it]30it [13:02, 25.79s/it]win-rate: 77.70345596432553%, invalid-num: 99
+
+30it [13:02, 25.84s/it]30it [13:02, 25.80s/it]31it [13:28, 25.72s/it]31it [13:28, 25.72s/it]31it [13:28, 25.73s/it]31it [13:28, 25.77s/it]31it [13:28, 25.73s/it]31it [13:28, 25.74s/it]31it [13:28, 25.74s/it]win-rate: 77.75305895439377%, invalid-num: 99
+
+31it [13:28, 25.74s/it]32it [13:56, 26.50s/it]32it [13:56, 26.50s/it]32it [13:56, 26.50s/it]32it [13:56, 26.50s/it]32it [13:56, 26.50s/it]32it [13:56, 26.51s/it]32it [13:56, 26.51s/it]win-rate: 77.80244173140954%, invalid-num: 99
+
+32it [13:56, 26.55s/it]33it [14:27, 27.88s/it]33it [14:27, 27.90s/it]33it [14:27, 27.88s/it]33it [14:27, 27.91s/it]33it [14:27, 27.89s/it]33it [14:27, 27.89s/it]33it [14:27, 27.89s/it]win-rate: 77.74086378737542%, invalid-num: 99
+
+33it [14:27, 27.88s/it]34it [14:52, 26.86s/it]34it [14:52, 26.89s/it]34it [14:52, 26.87s/it]34it [14:52, 26.88s/it]34it [14:52, 26.88s/it]34it [14:52, 26.89s/it]34it [14:52, 26.89s/it]win-rate: 77.79005524861878%, invalid-num: 99
+
+34it [14:52, 26.89s/it]35it [15:12, 25.02s/it]35it [15:12, 25.02s/it]35it [15:12, 25.01s/it]35it [15:12, 25.01s/it]35it [15:12, 25.02s/it]35it [15:12, 25.02s/it]35it [15:12, 25.01s/it]win-rate: 77.81456953642383%, invalid-num: 100
+
+35it [15:12, 25.02s/it]36it [15:35, 24.35s/it]36it [15:35, 24.36s/it]36it [15:35, 24.36s/it]36it [15:35, 24.38s/it]36it [15:35, 24.39s/it]36it [15:35, 24.37s/it]36it [15:35, 24.37s/it]win-rate: 77.86343612334802%, invalid-num: 100
+
+36it [15:35, 24.40s/it]37it [16:01, 24.78s/it]37it [16:01, 24.80s/it]37it [16:01, 24.79s/it]37it [16:01, 24.79s/it]37it [16:01, 24.80s/it]37it [16:01, 24.80s/it]37it [16:01, 24.81s/it]win-rate: 77.80219780219781%, invalid-num: 100
+
+37it [16:01, 24.83s/it]38it [16:28, 25.49s/it]38it [16:28, 25.51s/it]38it [16:28, 25.50s/it]38it [16:28, 25.50s/it]38it [16:28, 25.50s/it]38it [16:28, 25.51s/it]38it [16:28, 25.51s/it]win-rate: 77.74122807017544%, invalid-num: 100
+
+38it [16:28, 25.48s/it]39it [16:54, 25.69s/it]39it [16:54, 25.69s/it]39it [16:54, 25.70s/it]39it [16:54, 25.70s/it]39it [16:54, 25.70s/it]39it [16:54, 25.70s/it]39it [16:54, 25.70s/it]win-rate: 77.78993435448578%, invalid-num: 100
+
+39it [16:54, 25.70s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]40it [17:21, 25.97s/it]win-rate: 77.83842794759825%, invalid-num: 100
+
+40it [17:21, 25.96s/it]41it [17:42, 24.52s/it]41it [17:42, 24.57s/it]41it [17:42, 24.55s/it]41it [17:42, 24.55s/it]41it [17:42, 24.55s/it]41it [17:42, 24.56s/it]41it [17:42, 24.56s/it]win-rate: 77.8867102396514%, invalid-num: 100
+
+41it [17:42, 24.56s/it]42it [18:02, 23.30s/it]42it [18:02, 23.31s/it]42it [18:03, 23.33s/it]42it [18:02, 23.31s/it]42it [18:03, 23.35s/it]42it [18:03, 23.32s/it]42it [18:03, 23.32s/it]win-rate: 77.93478260869566%, invalid-num: 100
+
+42it [18:02, 23.32s/it]43it [18:30, 24.45s/it]43it [18:30, 24.46s/it]43it [18:30, 24.46s/it]43it [18:30, 24.46s/it]43it [18:30, 24.46s/it]43it [18:30, 24.47s/it]43it [18:30, 24.47s/it]win-rate: 77.87418655097615%, invalid-num: 100
+
+43it [18:30, 24.46s/it]44it [18:51, 23.50s/it]44it [18:51, 23.52s/it]44it [18:51, 23.51s/it]44it [18:51, 23.53s/it]44it [18:51, 23.53s/it]44it [18:51, 23.55s/it]win-rate: 77.92207792207793%, invalid-num: 100
+
+44it [18:51, 23.58s/it]44it [18:51, 23.51s/it]45it [19:11, 22.60s/it]45it [19:12, 22.63s/it]45it [19:12, 22.63s/it]45it [19:12, 22.63s/it]45it [19:12, 22.66s/it]45it [19:12, 22.65s/it]win-rate: 77.7537796976242%, invalid-num: 100
+
+45it [19:12, 22.66s/it]45it [19:11, 22.63s/it]46it [19:32, 22.01s/it]46it [19:32, 22.01s/it]46it [19:32, 22.01s/it]46it [19:32, 22.01s/it]46it [19:32, 22.01s/it]46it [19:32, 22.02s/it]46it [19:32, 22.02s/it]win-rate: 77.69396551724138%, invalid-num: 100
+
+46it [19:32, 22.11s/it]47it [19:55, 22.34s/it]47it [19:55, 22.34s/it]47it [19:55, 22.34s/it]47it [19:55, 22.34s/it]47it [19:55, 22.35s/it]47it [19:55, 22.34s/it]47it [19:55, 22.35s/it]win-rate: 77.74193548387098%, invalid-num: 100
+
+47it [19:55, 22.39s/it]48it [20:20, 22.93s/it]48it [20:20, 22.93s/it]48it [20:20, 22.94s/it]48it [20:20, 22.94s/it]48it [20:20, 22.96s/it]48it [20:20, 22.96s/it]48it [20:20, 22.95s/it]win-rate: 77.78969957081546%, invalid-num: 100
+
+48it [20:19, 22.89s/it]49it [20:39, 21.93s/it]49it [20:39, 21.93s/it]49it [20:39, 21.95s/it]49it [20:39, 21.95s/it]49it [20:39, 21.94s/it]49it [20:39, 21.95s/it]49it [20:39, 21.95s/it]win-rate: 77.81350482315112%, invalid-num: 101
+
+49it [20:39, 21.94s/it]50it [21:07, 23.59s/it]50it [21:07, 23.58s/it]50it [21:07, 23.58s/it]50it [21:07, 23.58s/it]50it [21:07, 23.58s/it]50it [21:07, 23.58s/it]50it [21:07, 23.60s/it]win-rate: 77.8372591006424%, invalid-num: 102
+
+50it [21:06, 23.53s/it]51it [21:36, 25.45s/it]51it [21:36, 25.46s/it]51it [21:37, 25.48s/it]win-rate: 77.88461538461539%, invalid-num: 102
+
+51it [21:36, 25.47s/it]51it [21:36, 25.48s/it]51it [21:36, 25.48s/it]51it [21:37, 25.48s/it]51it [21:36, 25.43s/it]52it [21:59, 24.63s/it]52it [21:59, 24.63s/it]52it [21:59, 24.66s/it]52it [21:59, 24.65s/it]52it [21:59, 24.66s/it]win-rate: 77.71855010660981%, invalid-num: 102
+
+52it [21:59, 24.66s/it]52it [21:59, 24.68s/it]52it [21:59, 24.63s/it]53it [22:35, 27.92s/it]53it [22:35, 27.95s/it]53it [22:35, 27.94s/it]53it [22:35, 27.94s/it]53it [22:35, 27.97s/it]53it [22:35, 27.95s/it]win-rate: 77.74227902023429%, invalid-num: 103
+
+53it [22:35, 27.99s/it]53it [22:35, 27.93s/it]54it [23:00, 26.97s/it]54it [23:00, 27.00s/it]54it [23:00, 27.01s/it]54it [23:00, 27.02s/it]54it [23:00, 27.01s/it]54it [23:00, 27.00s/it]54it [23:00, 27.03s/it]win-rate: 77.78958554729012%, invalid-num: 103
+
+54it [23:00, 27.02s/it]55it [23:16, 23.93s/it]55it [23:16, 23.95s/it]55it [23:16, 23.95s/it]55it [23:16, 23.95s/it]55it [23:16, 23.96s/it]55it [23:17, 23.96s/it]55it [23:17, 23.94s/it]win-rate: 77.83669141039236%, invalid-num: 103
+
+55it [23:17, 24.00s/it]56it [23:40, 23.96s/it]56it [23:40, 23.97s/it]56it [23:41, 23.97s/it]56it [23:41, 24.00s/it]56it [23:41, 24.00s/it]56it [23:41, 23.98s/it]56it [23:41, 23.97s/it]win-rate: 77.86016949152543%, invalid-num: 104
+
+56it [23:40, 23.95s/it]57it [24:01, 22.89s/it]57it [24:01, 22.91s/it]57it [24:01, 22.91s/it]57it [24:01, 22.91s/it]57it [24:01, 22.91s/it]57it [24:01, 22.90s/it]57it [24:01, 22.91s/it]win-rate: 77.80126849894292%, invalid-num: 104
+
+57it [24:01, 22.91s/it]58it [24:23, 22.56s/it]58it [24:23, 22.55s/it]58it [24:23, 22.56s/it]58it [24:23, 22.56s/it]58it [24:23, 22.57s/it]58it [24:23, 22.57s/it]58it [24:23, 22.57s/it]win-rate: 77.84810126582279%, invalid-num: 104
+
+58it [24:23, 22.56s/it]59it [24:47, 22.97s/it]59it [24:47, 22.98s/it]59it [24:47, 22.97s/it]59it [24:47, 22.97s/it]59it [24:47, 22.97s/it]59it [24:47, 22.97s/it]59it [24:47, 22.97s/it]win-rate: 77.89473684210526%, invalid-num: 104
+
+59it [24:47, 22.99s/it]60it [25:13, 24.10s/it]60it [25:13, 24.10s/it]60it [25:13, 24.08s/it]60it [25:13, 24.09s/it]60it [25:13, 24.10s/it]60it [25:13, 24.10s/it]60it [25:13, 24.11s/it]win-rate: 77.94117647058823%, invalid-num: 104
+
+60it [25:13, 24.11s/it]61it [25:38, 24.15s/it]61it [25:38, 24.16s/it]61it [25:38, 24.16s/it]61it [25:38, 24.17s/it]61it [25:38, 24.19s/it]61it [25:38, 24.19s/it]win-rate: 77.88259958071279%, invalid-num: 104
+
+61it [25:38, 24.18s/it]61it [25:38, 24.15s/it]62it [26:01, 24.05s/it]62it [26:01, 24.05s/it]62it [26:02, 24.06s/it]62it [26:02, 24.07s/it]62it [26:01, 24.05s/it]62it [26:02, 24.07s/it]62it [26:01, 24.07s/it]win-rate: 77.82426778242679%, invalid-num: 104
+
+62it [26:01, 24.04s/it]63it [26:21, 22.57s/it]63it [26:21, 22.61s/it]63it [26:21, 22.60s/it]63it [26:21, 22.61s/it]63it [26:21, 22.62s/it]63it [26:21, 22.61s/it]63it [26:21, 22.62s/it]win-rate: 77.8705636743215%, invalid-num: 104
+
+63it [26:21, 22.62s/it]64it [26:54, 25.67s/it]64it [26:54, 25.67s/it]64it [26:54, 25.70s/it]win-rate: 77.8125%, invalid-num: 104
+
+64it [26:54, 25.69s/it]64it [26:54, 25.70s/it]64it [26:54, 25.70s/it]64it [26:54, 25.72s/it]64it [26:54, 25.68s/it]65it [27:29, 28.55s/it]65it [27:29, 28.61s/it]65it [27:29, 28.63s/it]65it [27:29, 28.62s/it]65it [27:29, 28.63s/it]65it [27:29, 28.62s/it]65it [27:29, 28.64s/it]win-rate: 77.85862785862786%, invalid-num: 104
+
+65it [27:29, 28.66s/it]66it [27:59, 29.06s/it]66it [27:59, 29.07s/it]66it [27:59, 29.08s/it]66it [27:59, 29.09s/it]66it [27:59, 29.09s/it]66it [27:59, 29.08s/it]66it [27:59, 29.11s/it]win-rate: 77.88161993769471%, invalid-num: 105
+
+66it [27:59, 29.09s/it]67it [28:21, 27.03s/it]67it [28:22, 27.06s/it]67it [28:22, 27.06s/it]win-rate: 77.9045643153527%, invalid-num: 106
+
+67it [28:22, 27.08s/it]67it [28:22, 27.05s/it]67it [28:22, 27.09s/it]67it [28:22, 27.09s/it]67it [28:21, 27.03s/it]68it [28:42, 25.18s/it]68it [28:42, 25.20s/it]68it [28:42, 25.20s/it]68it [28:42, 25.21s/it]68it [28:42, 25.21s/it]68it [28:42, 25.19s/it]68it [28:42, 25.23s/it]win-rate: 77.95031055900621%, invalid-num: 106
+
+68it [28:42, 25.20s/it]69it [29:09, 25.68s/it]69it [29:09, 25.68s/it]69it [29:09, 25.69s/it]69it [29:09, 25.68s/it]69it [29:09, 25.69s/it]69it [29:09, 25.71s/it]69it [29:09, 25.70s/it]win-rate: 77.99586776859503%, invalid-num: 106
+
+69it [29:09, 25.73s/it]70it [29:37, 26.37s/it]70it [29:37, 26.37s/it]70it [29:37, 26.40s/it]70it [29:37, 26.39s/it]70it [29:37, 26.41s/it]70it [29:37, 26.40s/it]70it [29:37, 26.39s/it]win-rate: 77.93814432989691%, invalid-num: 106
+
+70it [29:37, 26.35s/it]71it [30:00, 25.30s/it]71it [30:00, 25.31s/it]71it [30:00, 25.32s/it]71it [30:00, 25.32s/it]71it [30:00, 25.33s/it]71it [30:00, 25.33s/it]71it [30:00, 25.35s/it]win-rate: 77.88065843621399%, invalid-num: 106
+
+71it [30:00, 25.34s/it]72it [30:23, 24.58s/it]72it [30:23, 24.58s/it]win-rate: 77.82340862422998%, invalid-num: 106
+
+72it [30:23, 24.61s/it]72it [30:23, 24.60s/it]72it [30:23, 24.60s/it]72it [30:23, 24.60s/it]72it [30:23, 24.62s/it]72it [30:23, 24.55s/it]73it [30:51, 25.54s/it]73it [30:51, 25.53s/it]73it [30:51, 25.54s/it]73it [30:51, 25.54s/it]73it [30:51, 25.54s/it]73it [30:51, 25.56s/it]win-rate: 77.84615384615384%, invalid-num: 107
+
+73it [30:51, 25.53s/it]73it [30:51, 25.51s/it]74it [31:12, 24.31s/it]74it [31:12, 24.31s/it]74it [31:12, 24.32s/it]74it [31:12, 24.33s/it]74it [31:12, 24.32s/it]74it [31:12, 24.35s/it]74it [31:12, 24.34s/it]win-rate: 77.89150460593655%, invalid-num: 107
+
+74it [31:12, 24.36s/it]75it [31:38, 24.90s/it]75it [31:38, 24.90s/it]75it [31:39, 24.93s/it]75it [31:39, 24.91s/it]75it [31:39, 24.92s/it]win-rate: 77.91411042944786%, invalid-num: 108
+
+75it [31:39, 24.96s/it]75it [31:39, 24.96s/it]75it [31:38, 24.92s/it]76it [32:07, 26.13s/it]76it [32:08, 26.16s/it]76it [32:08, 26.14s/it]76it [32:08, 26.18s/it]76it [32:08, 26.16s/it]win-rate: 77.93667007150154%, invalid-num: 109
+
+76it [32:08, 26.18s/it]76it [32:08, 26.19s/it]76it [32:08, 26.20s/it]77it [32:34, 26.16s/it]77it [32:34, 26.16s/it]77it [32:34, 26.17s/it]77it [32:34, 26.16s/it]77it [32:34, 26.17s/it]77it [32:34, 26.17s/it]77it [32:34, 26.18s/it]win-rate: 77.9591836734694%, invalid-num: 110
+
+77it [32:34, 26.16s/it]78it [33:02, 26.64s/it]78it [33:02, 26.66s/it]78it [33:02, 26.69s/it]78it [33:02, 26.67s/it]78it [33:02, 26.69s/it]78it [33:02, 26.67s/it]78it [33:02, 26.67s/it]win-rate: 77.9591836734694%, invalid-num: 112
+
+78it [33:02, 26.65s/it]79it [33:34, 28.36s/it]79it [33:34, 28.38s/it]79it [33:34, 28.40s/it]79it [33:34, 28.39s/it]79it [33:34, 28.41s/it]79it [33:34, 28.41s/it]79it [33:34, 28.41s/it]win-rate: 78.00407331975559%, invalid-num: 112
+
+79it [33:34, 28.45s/it]80it [33:57, 26.89s/it]80it [33:57, 26.88s/it]80it [33:57, 26.88s/it]80it [33:57, 26.89s/it]80it [33:57, 26.90s/it]80it [33:57, 26.90s/it]win-rate: 78.04878048780488%, invalid-num: 112
+
+80it [33:58, 26.95s/it]80it [33:57, 26.87s/it]81it [34:21, 25.96s/it]81it [34:21, 25.98s/it]81it [34:21, 25.99s/it]81it [34:21, 25.98s/it]win-rate: 77.99188640973631%, invalid-num: 112
+
+81it [34:22, 26.05s/it]81it [34:21, 26.02s/it]81it [34:22, 26.04s/it]81it [34:21, 25.96s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.31 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+82it [34:42, 24.38s/it]82it [34:42, 24.40s/it]82it [34:42, 24.39s/it]82it [34:42, 24.41s/it]82it [34:42, 24.39s/it]82it [34:42, 24.42s/it]82it [34:42, 24.43s/it]win-rate: 77.9128672745694%, invalid-num: 113
+
+82it [34:42, 24.42s/it]83it [35:05, 24.06s/it]83it [35:05, 24.04s/it]83it [35:05, 24.06s/it]83it [35:05, 24.08s/it]83it [35:05, 24.08s/it]win-rate: 77.85642062689585%, invalid-num: 113
+
+83it [35:06, 24.15s/it]83it [35:06, 24.17s/it]83it [35:06, 24.39s/it]84it [35:27, 23.39s/it]84it [35:27, 23.36s/it]84it [35:27, 23.38s/it]84it [35:27, 23.40s/it]84it [35:27, 23.40s/it]84it [35:27, 23.39s/it]84it [35:27, 23.38s/it]win-rate: 77.90110998990917%, invalid-num: 113
+
+84it [35:27, 23.30s/it]85it [35:51, 23.61s/it]85it [35:51, 23.63s/it]85it [35:51, 23.63s/it]win-rate: 77.74420946626385%, invalid-num: 113
+
+85it [35:51, 23.65s/it]85it [35:51, 23.66s/it]85it [35:51, 23.63s/it]85it [35:51, 23.64s/it]85it [35:51, 23.55s/it]86it [36:14, 23.44s/it]86it [36:14, 23.46s/it]86it [36:14, 23.46s/it]86it [36:14, 23.47s/it]86it [36:14, 23.45s/it]86it [36:14, 23.46s/it]86it [36:14, 23.45s/it]win-rate: 77.78894472361809%, invalid-num: 113
+
+86it [36:15, 23.48s/it]87it [36:38, 23.57s/it]87it [36:38, 23.58s/it]87it [36:38, 23.58s/it]87it [36:38, 23.59s/it]87it [36:38, 23.58s/it]87it [36:38, 23.58s/it]87it [36:38, 23.57s/it]win-rate: 77.83350050150452%, invalid-num: 113
+
+87it [36:38, 23.53s/it]88it [37:02, 23.57s/it]88it [37:02, 23.56s/it]88it [37:02, 23.58s/it]88it [37:02, 23.58s/it]88it [37:02, 23.59s/it]88it [37:02, 23.59s/it]88it [37:02, 23.59s/it]win-rate: 77.85571142284569%, invalid-num: 114
+
+88it [37:02, 23.55s/it]89it [37:22, 22.43s/it]89it [37:22, 22.44s/it]89it [37:22, 22.46s/it]89it [37:22, 22.46s/it]89it [37:22, 22.46s/it]89it [37:22, 22.46s/it]89it [37:22, 22.46s/it]win-rate: 77.8%, invalid-num: 114
+
+89it [37:22, 22.44s/it]90it [37:45, 22.61s/it]90it [37:45, 22.61s/it]90it [37:45, 22.62s/it]90it [37:45, 22.64s/it]90it [37:45, 22.63s/it]90it [37:45, 22.63s/it]90it [37:45, 22.63s/it]win-rate: 77.84431137724552%, invalid-num: 114
+
+90it [37:46, 22.93s/it]91it [38:09, 22.99s/it]91it [38:09, 22.99s/it]91it [38:09, 22.99s/it]91it [38:09, 23.00s/it]91it [38:09, 23.00s/it]win-rate: 77.86640079760718%, invalid-num: 115
+
+91it [38:09, 23.00s/it]91it [38:09, 23.01s/it]91it [38:08, 22.87s/it]92it [38:33, 23.37s/it]92it [38:33, 23.39s/it]92it [38:33, 23.39s/it]92it [38:33, 23.39s/it]92it [38:33, 23.41s/it]92it [38:33, 23.43s/it]92it [38:33, 23.42s/it]win-rate: 77.81094527363183%, invalid-num: 115
+
+92it [38:34, 23.63s/it]93it [38:56, 23.23s/it]93it [38:56, 23.25s/it]93it [38:56, 23.25s/it]93it [38:56, 23.27s/it]93it [38:56, 23.28s/it]93it [38:56, 23.28s/it]93it [38:56, 23.29s/it]win-rate: 77.8550148957299%, invalid-num: 115
+
+93it [38:56, 23.15s/it]94it [39:21, 23.72s/it]94it [39:21, 23.71s/it]94it [39:21, 23.73s/it]94it [39:21, 23.73s/it]94it [39:21, 23.72s/it]94it [39:21, 23.73s/it]94it [39:21, 23.73s/it]win-rate: 77.89890981169475%, invalid-num: 115
+
+94it [39:21, 23.64s/it]95it [39:44, 23.69s/it]95it [39:44, 23.69s/it]95it [39:44, 23.71s/it]95it [39:44, 23.72s/it]win-rate: 77.92079207920793%, invalid-num: 116
+
+95it [39:44, 23.72s/it]95it [39:44, 23.72s/it]95it [39:44, 23.73s/it]95it [39:44, 23.65s/it]96it [40:10, 24.36s/it]96it [40:10, 24.38s/it]96it [40:10, 24.37s/it]96it [40:10, 24.39s/it]96it [40:10, 24.38s/it]96it [40:10, 24.39s/it]96it [40:10, 24.38s/it]win-rate: 77.96442687747036%, invalid-num: 116
+
+96it [40:10, 24.31s/it]97it [40:38, 25.39s/it]97it [40:38, 25.40s/it]97it [40:38, 25.39s/it]97it [40:38, 25.40s/it]97it [40:38, 25.40s/it]97it [40:38, 25.40s/it]97it [40:38, 25.41s/it]win-rate: 78.00788954635108%, invalid-num: 116
+
+97it [40:38, 25.37s/it]win-rate: 78.0511811023622%, invalid-num: 116
+
+98it [41:05, 26.00s/it]98it [41:05, 26.00s/it]98it [41:05, 26.01s/it]98it [41:05, 25.99s/it]98it [41:05, 26.01s/it]98it [41:06, 26.03s/it]98it [41:06, 26.04s/it]98it [41:06, 26.30s/it]99it [41:32, 26.22s/it]99it [41:32, 26.25s/it]win-rate: 77.99607072691552%, invalid-num: 116
+
+99it [41:32, 26.24s/it]99it [41:32, 26.25s/it]99it [41:32, 26.26s/it]99it [41:32, 26.24s/it]99it [41:32, 26.26s/it]99it [41:32, 26.13s/it]100it [41:58, 26.03s/it]100it [41:58, 26.04s/it]100it [41:58, 26.03s/it]100it [41:58, 26.04s/it]100it [41:58, 26.05s/it]100it [41:58, 26.04s/it]100it [41:58, 26.05s/it]win-rate: 78.03921568627452%, invalid-num: 116
+
+100it [41:58, 26.03s/it]101it [42:28, 27.16s/it]101it [42:28, 27.17s/it]101it [42:28, 27.17s/it]101it [42:28, 27.21s/it]101it [42:28, 27.20s/it]101it [42:28, 27.18s/it]101it [42:28, 27.18s/it]win-rate: 78.06072477962782%, invalid-num: 117
+
+101it [42:28, 27.08s/it]102it [43:04, 29.80s/it]102it [43:04, 29.82s/it]102it [43:04, 29.80s/it]102it [43:04, 29.81s/it]102it [43:04, 29.82s/it]102it [43:04, 29.83s/it]102it [43:04, 29.84s/it]win-rate: 78.00586510263929%, invalid-num: 117
+
+102it [43:04, 29.80s/it]103it [43:30, 28.93s/it]103it [43:31, 28.93s/it]103it [43:31, 28.94s/it]103it [43:31, 28.95s/it]win-rate: 77.95121951219512%, invalid-num: 117
+
+103it [43:31, 28.97s/it]103it [43:31, 28.97s/it]103it [43:31, 28.95s/it]103it [43:30, 28.88s/it]104it [43:58, 28.49s/it]104it [43:58, 28.51s/it]104it [43:58, 28.50s/it]104it [43:58, 28.52s/it]104it [43:58, 28.51s/it]104it [43:58, 28.52s/it]win-rate: 77.99415774099319%, invalid-num: 117
+
+104it [43:58, 28.56s/it]104it [43:58, 28.47s/it]105it [44:21, 26.72s/it]105it [44:21, 26.75s/it]105it [44:21, 26.74s/it]105it [44:21, 26.75s/it]105it [44:21, 26.76s/it]105it [44:21, 26.74s/it]105it [44:21, 26.75s/it]win-rate: 77.93974732750243%, invalid-num: 117
+
+105it [44:21, 26.74s/it]106it [44:40, 24.55s/it]106it [44:40, 24.57s/it]106it [44:40, 24.59s/it]106it [44:40, 24.56s/it]106it [44:40, 24.56s/it]106it [44:40, 24.57s/it]106it [44:40, 24.57s/it]win-rate: 77.98254122211445%, invalid-num: 117
+
+106it [44:40, 24.53s/it]107it [45:07, 25.17s/it]107it [45:07, 25.17s/it]107it [45:07, 25.17s/it]107it [45:07, 25.17s/it]107it [45:07, 25.18s/it]107it [45:07, 25.18s/it]107it [45:07, 25.17s/it]win-rate: 77.92836398838335%, invalid-num: 117
+
+107it [45:07, 25.16s/it]108it [45:30, 24.59s/it]108it [45:30, 24.60s/it]108it [45:30, 24.60s/it]108it [45:30, 24.60s/it]108it [45:30, 24.61s/it]108it [45:30, 24.60s/it]108it [45:30, 24.60s/it]win-rate: 77.94970986460348%, invalid-num: 118
+
+108it [45:30, 24.66s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.20 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+109it [45:53, 24.20s/it]109it [45:53, 24.22s/it]109it [45:53, 24.22s/it]109it [45:53, 24.24s/it]109it [45:53, 24.22s/it]109it [45:53, 24.22s/it]109it [45:53, 24.23s/it]win-rate: 77.99227799227799%, invalid-num: 118
+
+109it [45:53, 24.21s/it]110it [46:18, 24.38s/it]110it [46:18, 24.39s/it]110it [46:18, 24.39s/it]110it [46:18, 24.39s/it]110it [46:18, 24.39s/it]110it [46:18, 24.40s/it]110it [46:18, 24.40s/it]win-rate: 77.9383429672447%, invalid-num: 118
+
+110it [46:18, 24.38s/it]111it [46:48, 26.03s/it]111it [46:48, 26.03s/it]111it [46:48, 26.04s/it]111it [46:48, 26.04s/it]111it [46:48, 26.06s/it]111it [46:48, 26.06s/it]111it [46:48, 26.05s/it]win-rate: 77.98076923076923%, invalid-num: 118
+
+111it [46:48, 26.04s/it]112it [47:15, 26.24s/it]112it [47:15, 26.24s/it]112it [47:15, 26.24s/it]112it [47:15, 26.25s/it]112it [47:15, 26.25s/it]112it [47:15, 26.25s/it]112it [47:15, 26.25s/it]win-rate: 78.00192122958694%, invalid-num: 119
+
+112it [47:15, 26.24s/it]113it [47:41, 26.26s/it]113it [47:41, 26.25s/it]113it [47:41, 26.26s/it]113it [47:41, 26.26s/it]113it [47:41, 26.26s/it]113it [47:41, 26.26s/it]113it [47:41, 26.27s/it]win-rate: 77.94822627037392%, invalid-num: 119
+
+113it [47:41, 26.27s/it]114it [48:00, 23.96s/it]114it [48:00, 23.96s/it]114it [48:00, 23.98s/it]114it [48:00, 23.98s/it]114it [48:00, 23.99s/it]114it [48:00, 23.98s/it]114it [48:00, 23.98s/it]win-rate: 77.99043062200957%, invalid-num: 119
+
+114it [48:00, 23.97s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -2.05 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+115it [48:28, 25.26s/it]115it [48:28, 25.26s/it]115it [48:28, 25.27s/it]115it [48:28, 25.29s/it]115it [48:28, 25.28s/it]115it [48:28, 25.30s/it]win-rate: 78.0114722753346%, invalid-num: 120
+
+115it [48:28, 25.31s/it]115it [48:28, 25.27s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -2.12 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+win-rate: 77.95801526717557%, invalid-num: 120
+
+116it [49:05, 28.84s/it]116it [49:05, 28.85s/it]116it [49:05, 28.86s/it]116it [49:05, 28.88s/it]116it [49:05, 28.88s/it]116it [49:05, 28.90s/it]116it [49:05, 28.94s/it]116it [49:06, 29.14s/it]117it [49:34, 28.72s/it]117it [49:34, 28.69s/it]117it [49:34, 28.71s/it]117it [49:34, 28.72s/it]117it [49:34, 28.73s/it]117it [49:34, 28.73s/it]117it [49:34, 28.71s/it]win-rate: 77.90476190476191%, invalid-num: 120
+
+117it [49:33, 28.62s/it]118it [50:02, 28.50s/it]118it [50:02, 28.51s/it]118it [50:02, 28.52s/it]118it [50:02, 28.51s/it]118it [50:02, 28.54s/it]118it [50:02, 28.53s/it]win-rate: 77.9467680608365%, invalid-num: 120
+
+118it [50:02, 28.58s/it]118it [50:02, 28.46s/it]119it [50:21, 25.83s/it]119it [50:21, 25.83s/it]119it [50:21, 25.84s/it]119it [50:21, 25.86s/it]119it [50:21, 25.85s/it]119it [50:21, 25.86s/it]119it [50:21, 25.86s/it]win-rate: 77.89373814041745%, invalid-num: 120
+
+119it [50:21, 25.88s/it]120it [50:50, 26.70s/it]120it [50:50, 26.73s/it]120it [50:50, 26.74s/it]120it [50:50, 26.75s/it]120it [50:50, 26.74s/it]win-rate: 77.93560606060606%, invalid-num: 120
+
+120it [50:50, 26.75s/it]120it [50:50, 26.74s/it]120it [50:50, 26.71s/it]121it [51:09, 24.25s/it]121it [51:09, 24.28s/it]121it [51:09, 24.27s/it]121it [51:09, 24.28s/it]121it [51:09, 24.28s/it]win-rate: 77.9773156899811%, invalid-num: 120
+
+121it [51:09, 24.30s/it]121it [51:09, 24.31s/it]121it [51:09, 24.23s/it]122it [51:32, 23.95s/it]122it [51:32, 23.99s/it]122it [51:32, 23.99s/it]122it [51:32, 24.02s/it]122it [51:32, 24.02s/it]122it [51:32, 24.00s/it]122it [51:32, 24.00s/it]win-rate: 78.01886792452831%, invalid-num: 120
+
+122it [51:32, 23.99s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.94 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -2.67 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+123it [51:48, 21.71s/it]123it [51:49, 21.75s/it]123it [51:49, 21.76s/it]123it [51:49, 21.74s/it]123it [51:49, 21.75s/it]123it [51:49, 21.75s/it]123it [51:49, 21.76s/it]win-rate: 78.060263653484%, invalid-num: 120
+
+123it [51:48, 21.74s/it]124it [52:13, 22.68s/it]124it [52:13, 22.69s/it]124it [52:13, 22.68s/it]124it [52:13, 22.68s/it]124it [52:13, 22.69s/it]124it [52:13, 22.68s/it]124it [52:13, 22.69s/it]win-rate: 78.1015037593985%, invalid-num: 120
+
+124it [52:13, 22.72s/it]125it [52:41, 24.30s/it]125it [52:41, 24.31s/it]125it [52:41, 24.31s/it]win-rate: 78.04878048780488%, invalid-num: 120
+
+125it [52:42, 24.32s/it]125it [52:42, 24.33s/it]125it [52:42, 24.35s/it]125it [52:42, 24.33s/it]125it [52:41, 24.28s/it]126it [53:06, 24.31s/it]126it [53:06, 24.29s/it]win-rate: 77.99625468164794%, invalid-num: 120
+
+126it [53:06, 24.33s/it]126it [53:06, 24.33s/it]126it [53:06, 24.33s/it]126it [53:06, 24.35s/it]126it [53:06, 24.38s/it]126it [53:06, 24.31s/it]127it [53:32, 24.97s/it]127it [53:32, 24.97s/it]127it [53:32, 24.98s/it]127it [53:32, 24.99s/it]127it [53:32, 24.98s/it]win-rate: 78.03738317757009%, invalid-num: 120
+
+127it [53:32, 24.97s/it]127it [53:32, 24.99s/it]127it [53:32, 24.98s/it]128it [53:58, 25.07s/it]128it [53:58, 25.08s/it]128it [53:58, 25.13s/it]128it [53:58, 25.14s/it]128it [53:58, 25.12s/it]128it [53:58, 25.12s/it]128it [53:58, 25.11s/it]win-rate: 78.07835820895522%, invalid-num: 120
+
+128it [53:58, 25.11s/it]129it [54:20, 24.29s/it]129it [54:20, 24.28s/it]129it [54:20, 24.29s/it]129it [54:20, 24.29s/it]129it [54:20, 24.30s/it]129it [54:20, 24.30s/it]129it [54:20, 24.31s/it]win-rate: 78.02607076350093%, invalid-num: 120
+
+129it [54:20, 24.30s/it]130it [54:45, 24.49s/it]130it [54:45, 24.52s/it]130it [54:45, 24.51s/it]130it [54:45, 24.51s/it]130it [54:45, 24.52s/it]130it [54:45, 24.52s/it]130it [54:45, 24.52s/it]win-rate: 78.06691449814126%, invalid-num: 120
+
+130it [54:45, 24.52s/it]131it [55:12, 25.05s/it]131it [55:11, 25.05s/it]131it [55:12, 25.06s/it]131it [55:12, 25.06s/it]131it [55:12, 25.07s/it]131it [55:12, 25.09s/it]win-rate: 78.10760667903524%, invalid-num: 120
+
+131it [55:12, 25.07s/it]131it [55:11, 25.06s/it]132it [55:40, 25.99s/it]132it [55:40, 25.99s/it]132it [55:40, 25.99s/it]132it [55:40, 25.99s/it]132it [55:40, 26.00s/it]132it [55:40, 26.00s/it]132it [55:40, 26.00s/it]win-rate: 78.12789620018535%, invalid-num: 121
+
+132it [55:40, 25.97s/it]133it [56:04, 25.61s/it]133it [56:05, 25.66s/it]133it [56:05, 25.66s/it]win-rate: 78.14814814814814%, invalid-num: 122
+
+133it [56:05, 25.65s/it]133it [56:05, 25.65s/it]133it [56:05, 25.69s/it]133it [56:05, 25.70s/it]133it [56:05, 25.88s/it]134it [56:35, 27.07s/it]134it [56:35, 27.05s/it]134it [56:35, 27.09s/it]134it [56:35, 27.08s/it]win-rate: 78.09611829944546%, invalid-num: 122
+
+134it [56:35, 27.08s/it]134it [56:35, 27.09s/it]134it [56:35, 27.10s/it]134it [56:35, 27.02s/it]135it [56:54, 24.72s/it]135it [56:54, 24.72s/it]135it [56:54, 24.71s/it]135it [56:54, 24.73s/it]135it [56:54, 24.72s/it]135it [56:54, 24.73s/it]135it [56:54, 24.72s/it]win-rate: 78.04428044280442%, invalid-num: 122
+
+135it [56:54, 24.69s/it]136it [57:17, 24.12s/it]136it [57:17, 24.13s/it]136it [57:17, 24.15s/it]136it [57:17, 24.16s/it]136it [57:17, 24.14s/it]136it [57:17, 24.16s/it]136it [57:17, 24.15s/it]win-rate: 77.99263351749539%, invalid-num: 122
+
+136it [57:17, 24.10s/it]137it [57:39, 23.52s/it]137it [57:39, 23.55s/it]137it [57:39, 23.55s/it]137it [57:39, 23.54s/it]137it [57:39, 23.54s/it]137it [57:39, 23.56s/it]137it [57:39, 23.55s/it]win-rate: 78.03308823529412%, invalid-num: 122
+
+137it [57:39, 23.52s/it]138it [58:11, 26.06s/it]138it [58:11, 26.07s/it]138it [58:11, 26.07s/it]138it [58:11, 26.07s/it]138it [58:11, 26.07s/it]win-rate: 78.0532598714417%, invalid-num: 123
+
+138it [58:11, 26.10s/it]138it [58:11, 26.11s/it]138it [58:11, 26.10s/it]139it [58:38, 26.18s/it]139it [58:37, 26.16s/it]139it [58:37, 26.16s/it]139it [58:38, 26.18s/it]win-rate: 78.00183318056828%, invalid-num: 123
+
+139it [58:38, 26.18s/it]139it [58:38, 26.18s/it]139it [58:38, 26.18s/it]139it [58:38, 26.16s/it]140it [59:02, 25.68s/it]140it [59:02, 25.69s/it]140it [59:02, 25.68s/it]140it [59:02, 25.69s/it]140it [59:02, 25.69s/it]140it [59:02, 25.69s/it]140it [59:02, 25.69s/it]win-rate: 77.8591033851784%, invalid-num: 123
+
+140it [59:02, 25.72s/it]/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/trl/trainer/ppo_trainer.py:1289: UserWarning: KL divergence is starting to become negative: -1.35 - this might be a precursor for failed training. sometimes this happens because the generation kwargs are not correctly set. Please make sure that the generation kwargs are set correctly, or review your training hyperparameters.
+  warnings.warn(
+141it [59:23, 24.34s/it]141it [59:23, 24.36s/it]141it [59:23, 24.36s/it]141it [59:23, 24.38s/it]141it [59:23, 24.36s/it]141it [59:23, 24.37s/it]141it [59:23, 24.36s/it]win-rate: 77.89954337899543%, invalid-num: 123
+
+141it [59:23, 24.33s/it]142it [59:52, 25.60s/it]142it [59:52, 25.59s/it]142it [59:52, 25.59s/it]142it [59:52, 25.62s/it]142it [59:52, 25.61s/it]142it [59:52, 25.60s/it]142it [59:52, 25.60s/it]win-rate: 77.84867821330901%, invalid-num: 123
+
+142it [59:52, 25.61s/it]143it [1:00:18, 25.75s/it]143it [1:00:18, 25.75s/it]143it [1:00:18, 25.75s/it]143it [1:00:18, 25.76s/it]143it [1:00:18, 25.76s/it]143it [1:00:18, 25.76s/it]143it [1:00:18, 25.76s/it]win-rate: 77.79799818016379%, invalid-num: 123
+
+143it [1:00:18, 25.75s/it]144it [1:00:43, 25.45s/it]144it [1:00:43, 25.49s/it]144it [1:00:43, 25.49s/it]win-rate: 77.83832879200726%, invalid-num: 123
+
+144it [1:00:43, 25.49s/it]144it [1:00:43, 25.51s/it]144it [1:00:43, 25.50s/it]144it [1:00:43, 25.50s/it]144it [1:00:43, 25.49s/it]145it [1:01:09, 25.68s/it]145it [1:01:09, 25.69s/it]145it [1:01:09, 25.68s/it]145it [1:01:09, 25.68s/it]145it [1:01:09, 25.70s/it]145it [1:01:09, 25.69s/it]145it [1:01:09, 25.70s/it]win-rate: 77.87851314596554%, invalid-num: 123
+
+145it [1:01:09, 25.77s/it]146it [1:01:43, 28.17s/it]146it [1:01:43, 28.19s/it]146it [1:01:43, 28.19s/it]146it [1:01:43, 28.19s/it]146it [1:01:43, 28.21s/it]146it [1:01:43, 28.19s/it]146it [1:01:43, 28.20s/it]win-rate: 77.9185520361991%, invalid-num: 123
+
+146it [1:01:43, 28.14s/it]win-rate: 77.95844625112917%, invalid-num: 123
+
+147it [1:02:06, 26.72s/it]147it [1:02:06, 26.72s/it]147it [1:02:06, 26.73s/it]147it [1:02:06, 26.73s/it]147it [1:02:06, 26.73s/it]147it [1:02:06, 26.74s/it]147it [1:02:06, 26.74s/it]147it [1:02:06, 26.64s/it]148it [1:02:32, 26.31s/it]148it [1:02:32, 26.30s/it]148it [1:02:32, 26.31s/it]148it [1:02:32, 26.32s/it]148it [1:02:32, 26.32s/it]148it [1:02:32, 26.33s/it]148it [1:02:32, 26.33s/it]win-rate: 77.9783393501805%, invalid-num: 124
+
+148it [1:02:32, 26.32s/it]149it [1:02:58, 26.29s/it]149it [1:02:58, 26.29s/it]149it [1:02:58, 26.27s/it]149it [1:02:58, 26.28s/it]149it [1:02:58, 26.29s/it]149it [1:02:58, 26.29s/it]win-rate: 78.01801801801803%, invalid-num: 124
+
+149it [1:02:58, 26.33s/it]149it [1:02:58, 26.27s/it]150it [1:03:26, 26.75s/it]150it [1:03:26, 26.82s/it]win-rate: 78.05755395683454%, invalid-num: 124
+
+150it [1:03:26, 26.82s/it]150it [1:03:26, 26.81s/it]150it [1:03:26, 26.81s/it]150it [1:03:26, 26.80s/it]150it [1:03:26, 26.86s/it]150it [1:03:26, 26.81s/it]151it [1:03:55, 27.41s/it]151it [1:03:55, 27.36s/it]151it [1:03:55, 27.41s/it]151it [1:03:55, 27.37s/it]win-rate: 78.09694793536805%, invalid-num: 124
+
+151it [1:03:55, 27.39s/it]151it [1:03:55, 27.41s/it]151it [1:03:55, 27.44s/it]151it [1:03:55, 27.38s/it]152it [1:04:28, 29.09s/it]152it [1:04:28, 29.11s/it]152it [1:04:28, 29.14s/it]152it [1:04:28, 29.14s/it]win-rate: 78.13620071684588%, invalid-num: 124
+
+152it [1:04:28, 29.14s/it]152it [1:04:28, 29.14s/it]152it [1:04:28, 29.14s/it]152it [1:04:28, 29.16s/it]153it [1:04:49, 26.81s/it]153it [1:04:49, 26.81s/it]153it [1:04:49, 26.78s/it]153it [1:04:49, 26.78s/it]153it [1:04:49, 26.79s/it]153it [1:04:49, 26.80s/it]153it [1:04:49, 26.78s/it]win-rate: 78.175313059034%, invalid-num: 124
+
+153it [1:04:49, 26.79s/it]154it [1:05:17, 27.22s/it]154it [1:05:18, 27.24s/it]154it [1:05:18, 27.24s/it]154it [1:05:18, 27.28s/it]154it [1:05:18, 27.26s/it]win-rate: 78.21428571428571%, invalid-num: 124
+
+154it [1:05:18, 27.27s/it]154it [1:05:18, 27.31s/it]154it [1:05:17, 27.24s/it]155it [1:05:47, 27.92s/it]155it [1:05:47, 27.90s/it]155it [1:05:47, 27.91s/it]155it [1:05:47, 27.90s/it]155it [1:05:47, 27.90s/it]155it [1:05:47, 27.94s/it]155it [1:05:47, 27.91s/it]win-rate: 78.23371989295272%, invalid-num: 125
+
+155it [1:05:47, 27.91s/it]156it [1:06:12, 26.91s/it]156it [1:06:12, 26.92s/it]156it [1:06:12, 26.92s/it]156it [1:06:12, 26.91s/it]156it [1:06:12, 26.92s/it]156it [1:06:12, 26.92s/it]156it [1:06:12, 26.92s/it]win-rate: 78.27248441674087%, invalid-num: 125
+
+156it [1:06:12, 26.92s/it]157it [1:06:41, 27.57s/it]157it [1:06:41, 27.54s/it]157it [1:06:41, 27.58s/it]157it [1:06:41, 27.56s/it]157it [1:06:41, 27.57s/it]157it [1:06:41, 27.57s/it]157it [1:06:41, 27.57s/it]win-rate: 78.29181494661923%, invalid-num: 126
+
+157it [1:06:41, 27.61s/it]158it [1:07:13, 28.86s/it]158it [1:07:13, 28.88s/it]158it [1:07:13, 28.88s/it]158it [1:07:13, 28.89s/it]win-rate: 78.3303730017762%, invalid-num: 126
+
+158it [1:07:13, 28.90s/it]158it [1:07:13, 28.90s/it]158it [1:07:13, 28.92s/it]158it [1:07:13, 28.85s/it]159it [1:07:36, 27.17s/it]159it [1:07:36, 27.19s/it]159it [1:07:36, 27.17s/it]159it [1:07:36, 27.18s/it]159it [1:07:36, 27.18s/it]159it [1:07:36, 27.18s/it]win-rate: 78.36879432624113%, invalid-num: 126
+
+159it [1:07:36, 27.18s/it]159it [1:07:36, 27.19s/it]160it [1:07:56, 25.06s/it]160it [1:07:56, 25.04s/it]160it [1:07:56, 25.04s/it]160it [1:07:56, 25.04s/it]160it [1:07:56, 25.08s/it]160it [1:07:56, 25.05s/it]160it [1:07:56, 25.06s/it]win-rate: 78.40707964601769%, invalid-num: 126
+
+160it [1:07:56, 25.05s/it]161it [1:08:23, 25.56s/it]161it [1:08:23, 25.56s/it]161it [1:08:23, 25.57s/it]161it [1:08:23, 25.57s/it]161it [1:08:23, 25.58s/it]161it [1:08:23, 25.57s/it]161it [1:08:23, 25.57s/it]win-rate: 78.4452296819788%, invalid-num: 126
+
+161it [1:08:23, 25.62s/it]162it [1:08:51, 26.30s/it]162it [1:08:51, 26.30s/it]162it [1:08:51, 26.30s/it]162it [1:08:51, 26.30s/it]162it [1:08:51, 26.33s/it]162it [1:08:51, 26.33s/it]162it [1:08:51, 26.31s/it]win-rate: 78.37599293909973%, invalid-num: 127
+
+162it [1:08:51, 26.31s/it][2024-05-22 19:56:06,329] torch.distributed.elastic.agent.server.api: [WARNING] Received Signals.SIGHUP death signal, shutting down workers
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313231 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313232 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313233 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313234 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313235 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313236 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313237 closing signal SIGHUP
+[2024-05-22 19:56:06,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 313238 closing signal SIGHUP
+163it [1:09:14, 25.50s/it]163it [1:09:14, 25.49s/it]163it [1:09:14, 25.52s/it]163it [1:09:14, 25.51s/it]163it [1:09:14, 25.52s/it]163it [1:09:14, 25.53s/it]163it [1:09:14, 25.53s/it]win-rate: 78.32599118942731%, invalid-num: 127
+
+163it [1:09:14, 25.49s/it]164it [1:09:36, 24.33s/it]164it [1:09:36, 24.36s/it]164it [1:09:36, 24.35s/it]164it [1:09:36, 24.37s/it]164it [1:09:36, 24.35s/it]164it [1:09:36, 24.36s/it]164it [1:09:36, 24.37s/it]win-rate: 78.3641160949868%, invalid-num: 127
+
+164it [1:09:36, 24.34s/it][2024-05-22 19:56:36,330] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313231 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:36,681] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313232 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:37,085] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313233 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:37,441] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313234 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:37,805] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313235 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:38,152] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313236 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:38,565] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313237 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+[2024-05-22 19:56:38,920] torch.distributed.elastic.multiprocessing.api: [WARNING] Unable to shutdown process 313238 via Signals.SIGHUP, forcefully exiting via Signals.SIGKILL
+Traceback (most recent call last):
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/bin/accelerate", line 8, in <module>
+    sys.exit(main())
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/accelerate/commands/accelerate_cli.py", line 46, in main
+    args.func(args)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/accelerate/commands/launch.py", line 1073, in launch_command
+    multi_gpu_launcher(args)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/accelerate/commands/launch.py", line 718, in multi_gpu_launcher
+    distrib_run.run(args)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/run.py", line 803, in run
+    elastic_launch(
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 135, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 259, in launch_agent
+    result = agent.run()
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/elastic/metrics/api.py", line 123, in wrapper
+    result = f(*args, **kwargs)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/elastic/agent/server/api.py", line 727, in run
+    result = self._invoke_run(role)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/elastic/agent/server/api.py", line 868, in _invoke_run
+    time.sleep(monitor_interval)
+  File "/data2/rlhf/bolin/tool/miniconda3/envs/gaa/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/api.py", line 62, in _terminate_process_handler
+    raise SignalException(f"Process {os.getpid()} got signal: {sigval}", sigval=sigval)
+torch.distributed.elastic.multiprocessing.api.SignalException: Process 313135 got signal: 1

@@ -1,0 +1,15 @@
+torch==2.2.2 --index-url https://download.pytorch.org/whl/cu118
+numpy
+jsonlines
+transformers
+sentencepiece
+protobuf
+accelerate
+langchain
+trl
+peft
+pytest
+wandb
+bitsandbytes
+datasets
+deepspeed
